@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Georgia Pro";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/georgia_pro/georgiapro_n4.8627e4332da2bd0ce4ceb6f91d3dd90e0888cdbb.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=944c9ccb6ea2fe8b89b7e1a80249f3a0f5ce37aaf82b4cf9f483fda5d5f898b6") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/georgia_pro/georgiapro_n4.a32e7ac200a0d54820187634b1a89d4f8e2ee2ac.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=fa5afc21d13f70d5898d2891d0fdcb8350614bc1d4a7af55f5cf03d31031c9c1") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=f22b5a7929965611e4826164ee246de456aeb16cad6f17c23201706913e708e8") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6dc3ee3c9ca769156f65fa97ff7305b03c1413c9711c60d4044fdfb8d70ad379") format("woff");
+}
+
+@font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b6.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=f22b5a7929965611e4826164ee246de456aeb16cad6f17c23201706913e708e8") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n4.ee28d4489eaf5de9cf6e17e696991b5e9148c716.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6dc3ee3c9ca769156f65fa97ff7305b03c1413c9711c60d4044fdfb8d70ad379") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Georgia Pro";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/georgia_pro/georgiapro_n6.4c198cda7f3b5037ca02fe5b1bb1044b64c273b1.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=9665947b8405e9c7f7f64f5a6be6b79205dd38a7a99136ade4a85457f79a844b") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/georgia_pro/georgiapro_n6.b2cdad6efe6cd81641a3635cd353ea013d31ae53.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=2683b88864fd7e5ec2a9460bd4dde67ce25fafb4e3169815231dc95f257d92d1") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n5.25334cd7ff48c81cfd51a6bc5a81d92a1b4d4501.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=3e2a8dacff94f32c0e28868e73d50d6c5e50df3e7800ce3d929dff2f647c0e8c") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_n5.fc8eae64d8f1b5d2b8c42b45ddc0749aff4750a6.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=6909a5c06e5478b60be0fa44a75002e8a27f5dd9ee39c83232b9747eb4fac2c5") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_i4.a7e8d886e15d5fb9bc964a53b3278effbf270e9c.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=fa540e2e916a8ed13adb4968a3b8cb7db66596de8a959e8f135290402760afe5") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_i4.e87de252199e27825a41bf81646996685d86452d.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=73a2cb98793a9c045bc2b781af7de3e7c6ce1de89ff64f76ad53d2459f593270") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: Poppins;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_i5.7a2d84979134c226101806900bea600c71eeb63d.woff2?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=86ddeca3e9cdc0f996b8a635f0748c823dfa08a9ba8ffe64e57d0308ff3db644") format("woff2"),
+       url("//n0xwaw-nq.myshopify.com/cdn/fonts/poppins/poppins_i5.8671d7a1ea0c17aae512b84c1f6f06c5ca63dd49.woff?h1=bjB4d2F3LW5xLmFjY291bnQubXlzaG9waWZ5LmNvbQ&hmac=d983c9455e98993d22dca9638f58b21d6183bfde79ad3e2a91c840185b41f412") format("woff");
+}
+
