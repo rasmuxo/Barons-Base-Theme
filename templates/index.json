@@ -15,8 +15,8 @@
         "heading_PLPwt9": {
           "type": "heading",
           "settings": {
-            "title": "Image banner",
-            "heading_size": 6
+            "title": "ASCEND 2025 DROP",
+            "heading_size": 7
           }
         },
         "text_c8gg7B": {
@@ -46,7 +46,7 @@
       ],
       "custom_css": [
         ".btn {background: rgba(55, 55, 55, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid white;}",
-        "h2 {font-family: \"ASRV\";}"
+        "h2 {font-family: \"ASRV\"; font-weight: 300;}"
       ],
       "settings": {
         "height": "screen-height-full",
