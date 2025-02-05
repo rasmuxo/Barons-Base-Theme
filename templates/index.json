@@ -9,60 +9,6 @@
  */
 {
   "sections": {
-    "section_hero_dUac8L": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_PLPwt9": {
-          "type": "heading",
-          "settings": {
-            "title": "ASCEND IN 2025",
-            "heading_size": 7
-          }
-        },
-        "text_c8gg7B": {
-          "type": "text",
-          "settings": {
-            "description": "EXPLORE OUR 2025 COLLECTION. NEW DESIGNS AND NEW FITS BUT THE SAME GO-TO PUMP COVERS AND ESSENTIALS YOU KNOW AND LOVE.",
-            "text_size": 4,
-            "text_style": "font-body"
-          }
-        },
-        "button_Y8xAXX": {
-          "type": "button",
-          "settings": {
-            "link_text": "EXPLORE ASCEND",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--large",
-            "button_style": "btn--solid",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_PLPwt9",
-        "text_c8gg7B",
-        "button_Y8xAXX"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"ASRV\"; font-weight: 300;}",
-        ".hero__content {padding-left: 5%;}"
-      ],
-      "settings": {
-        "height": "screen-height-full",
-        "width": "wrapper--full",
-        "image_1": "shopify://shop_images/landing.webp",
-        "link": "",
-        "mobile_height": "screen-height-full--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 0,
-        "overlay_color": "#000000",
-        "show_overlay_text": false,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
     "section_hero_eXDTrf": {
       "type": "section-hero",
       "blocks": {
@@ -149,7 +95,8 @@
       "type": "section-collection",
       "custom_css": [
         "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
-        ".grid__heading-holder {margin-bottom: 10px;}"
+        ".grid__heading-holder {margin-bottom: 10px;}",
+        "@media (max-width: 767px) {.btn {display: none; }}"
       ],
       "settings": {
         "heading": "IRON VALOR [9]",
@@ -171,6 +118,60 @@
         "color": "",
         "padding_top": 50,
         "padding_bottom": 50
+      }
+    },
+    "section_hero_dUac8L": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_PLPwt9": {
+          "type": "heading",
+          "settings": {
+            "title": "ASCEND IN 2025",
+            "heading_size": 7
+          }
+        },
+        "text_c8gg7B": {
+          "type": "text",
+          "settings": {
+            "description": "EXPLORE OUR 2025 COLLECTION. NEW DESIGNS AND NEW FITS BUT THE SAME GO-TO PUMP COVERS AND ESSENTIALS YOU KNOW AND LOVE.",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_Y8xAXX": {
+          "type": "button",
+          "settings": {
+            "link_text": "EXPLORE ASCEND",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PLPwt9",
+        "text_c8gg7B",
+        "button_Y8xAXX"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"ASRV\"; font-weight: 300;}",
+        ".hero__content {padding-left: 5%;}"
+      ],
+      "settings": {
+        "height": "screen-height-full",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/landing.webp",
+        "link": "",
+        "mobile_height": "screen-height-full--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--bottom-left-mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "show_overlay_text": false,
+        "bg_color": "",
+        "color": "#ffffff"
       }
     },
     "section_custom_content_wppEgc": {
