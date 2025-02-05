@@ -249,7 +249,7 @@
     "section_collection_BaeRPE": {
       "type": "section-collection",
       "settings": {
-        "heading": "IRON VALOR [9]",
+        "heading": "IRON VALOR [13]",
         "description": "",
         "layout": "inline",
         "link_text": "Shop Now",
@@ -260,7 +260,7 @@
         "show_arrow": false,
         "featured_collection": "paradox-collection",
         "layout_desktop": "grid",
-        "grid": 3,
+        "grid": 4,
         "rows": 3,
         "width": "wrapper",
         "layout_mobile": "2",
