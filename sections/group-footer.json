@@ -68,6 +68,17 @@
         "padding_bottom": 30
       }
     },
+    "section_divider_Lw74gG": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "border_color": "#bfbfbf",
+        "bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "supporting-menu": {
       "type": "section-supporting-menu",
       "settings": {
@@ -84,6 +95,7 @@
   },
   "order": [
     "footer",
+    "section_divider_Lw74gG",
     "supporting-menu"
   ]
 }
