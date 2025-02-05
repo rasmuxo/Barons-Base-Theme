@@ -11,27 +11,6 @@
   "sections": {
     "section_hero_dUac8L": {
       "type": "section-hero",
-      "blocks": {
-        "heading_wdqVM6": {
-          "type": "heading",
-          "settings": {
-            "title": "WORK IN PROGRESS",
-            "heading_size": 11
-          }
-        },
-        "text_MCcxmk": {
-          "type": "text",
-          "settings": {
-            "description": "Check again tmrw crodie",
-            "text_size": 5,
-            "text_style": "font-body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_wdqVM6",
-        "text_MCcxmk"
-      ],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
