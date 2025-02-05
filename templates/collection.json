@@ -44,7 +44,7 @@
     "main": {
       "type": "collection",
       "custom_css": [
-        ".collection__nav {background: rgba(255, 255, 255, 0.1); /* Light transparency */ backdrop-filter: blur(10px); /* Background blur effect */ -webkit-backdrop-filter: blur(10px); /* Safari support */ border-bottom: 1px solid white;}"
+        ".collection__nav {background: rgba(255, 255, 255, 0.1); /* Light transparency */ backdrop-filter: blur(10px); /* Background blur effect */ -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid white;}"
       ],
       "settings": {
         "enable_sort": true,
