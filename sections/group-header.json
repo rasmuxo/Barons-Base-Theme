@@ -134,7 +134,8 @@
         "span {text-transform: uppercase;}",
         ".header__dropdown {border-bottom: 1px solid white;}",
         ".theme__header {--PT: 0px; --PB: 0px;}",
-        "p {font-weight: 400;}"
+        "p {font-weight: 400;}",
+        "a {font-weight: 600;}"
       ],
       "settings": {
         "header_sticky": true,
