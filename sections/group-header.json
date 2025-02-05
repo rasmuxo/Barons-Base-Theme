@@ -28,7 +28,9 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [],
+      "custom_css": [
+        "span {text-transform: uppercase;}"
+      ],
       "settings": {
         "header_sticky": true,
         "header_style": "logo_center_menu_left",
