@@ -28,6 +28,90 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "image_AbWx8y": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Photo1-min.png",
+            "aspect_ratio": 1.3,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_MUqwMP": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Photo1-min.png",
+            "aspect_ratio": 1.3,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_BjG33K": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Photo1-min.png",
+            "aspect_ratio": 1.3,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_cAEzYV": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Photo1-min.png",
+            "aspect_ratio": 1.3,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        },
+        "image_Q74YcM": {
+          "type": "image",
+          "settings": {
+            "position": "2",
+            "image": "shopify://shop_images/Photo1-min.png",
+            "aspect_ratio": 1.3,
+            "wide_image": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "title": "",
+            "link_text": "",
+            "link": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AbWx8y",
+        "image_MUqwMP",
+        "image_BjG33K",
+        "image_cAEzYV",
+        "image_Q74YcM"
+      ],
       "custom_css": [
         "span {text-transform: uppercase;}"
       ],
