@@ -135,7 +135,7 @@
         ".header__dropdown {border-bottom: 1px solid white;}",
         ".theme__header {--PT: 0px; --PB: 0px;}",
         "p {font-weight: 400;}",
-        "a {font-weight: 600;}",
+        ".navlink--toplevel {font-weight: 600;}",
         ".hero__content {font-family: \"ASRV\"; font-weight: 300; font-size: 20px;}"
       ],
       "settings": {
