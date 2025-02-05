@@ -69,6 +69,7 @@
         "image_aeLFwM": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img.jpg",
             "overlay_opacity": 0,
             "overlay_color": "#000",
             "show_overlay_text": false,
@@ -114,8 +115,11 @@
         "image_aeLFwM",
         "text_6yyVRi"
       ],
+      "custom_css": [
+        "h2 {font-samily: \"ASRV\"; }"
+      ],
       "settings": {
-        "height": "screen-height-one-half",
+        "height": "image-height",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper--full-padded",
         "borders": false,
