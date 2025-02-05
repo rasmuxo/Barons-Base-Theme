@@ -30,7 +30,7 @@
         "button_Y8xAXX": {
           "type": "button",
           "settings": {
-            "link_text": "View products",
+            "link_text": "EXPLORE ASCEND",
             "link": "",
             "button_type": "btn--primary",
             "button_size": "btn--small",
@@ -45,7 +45,6 @@
         "button_Y8xAXX"
       ],
       "custom_css": [
-        ".btn {background: rgba(55, 55, 55, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid white;}",
         "h2 {font-family: \"ASRV\"; font-weight: 300;}",
         ".hero__content {padding-left: 5%;}"
       ],
