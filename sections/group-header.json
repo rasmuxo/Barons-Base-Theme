@@ -80,13 +80,13 @@
           "type": "image",
           "settings": {
             "position": "2",
-            "image": "shopify://shop_images/Photo1-min.png",
+            "image": "shopify://shop_images/eclipse.jpg",
             "aspect_ratio": 1.3,
             "wide_image": false,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "",
-            "link_text": "",
+            "link_text": "ECLIPSE",
             "link": "",
             "text_color": ""
           }
