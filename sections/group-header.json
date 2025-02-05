@@ -37,7 +37,8 @@
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
-        "logo_max_limit": 85,
+        "logo": "shopify://shop_images/ascndlogo.png",
+        "logo_max_limit": 110,
         "logo_max_limit_mobile": 50,
         "main_menu_linklist": "header-menu",
         "mobile_menu_linklist": "",
@@ -54,10 +55,11 @@
         "transparent_collection": false,
         "transparent_article": false,
         "transparent_page": false,
+        "transparent_logo": "shopify://shop_images/ascndlogow.png",
         "secondary_menu_linklist": "",
         "tertiary_menu_linklist": "",
-        "padding_top": 5,
-        "padding_bottom": 5
+        "padding_top": 10,
+        "padding_bottom": 10
       }
     }
   },
