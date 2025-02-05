@@ -143,7 +143,7 @@
           "type": "button",
           "settings": {
             "link_text": "EXPLORE ASCEND",
-            "link": "",
+            "link": "shopify://collections/bottom",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--solid",
