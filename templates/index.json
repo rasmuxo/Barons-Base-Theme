@@ -66,7 +66,7 @@
     "section_collection_TdJLdV": {
       "type": "section-collection",
       "custom_css": [
-        "h2 {font-weight: 400; font-size: 18px; font-family: \"ASRV\"; font-weight: 300;}",
+        "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
         ".grid__heading-holder {margin-bottom: 10px;}"
       ],
       "settings": {
