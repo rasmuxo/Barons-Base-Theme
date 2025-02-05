@@ -56,7 +56,7 @@
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "title": "ASCEND SHORTS",
-            "link_text": "ASCEND SHORTS",
+            "link_text": "",
             "link": "shopify://collections/shorts",
             "text_color": ""
           }
@@ -70,8 +70,8 @@
             "wide_image": false,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
-            "title": "",
-            "link_text": "WINTER PUMP COVERS",
+            "title": "WINTER PUMP COVERS",
+            "link_text": "",
             "link": "shopify://collections/hoodies-1",
             "text_color": ""
           }
@@ -85,8 +85,8 @@
             "wide_image": false,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
-            "title": "",
-            "link_text": "BEST SELLERS",
+            "title": "BEST SELLERS",
+            "link_text": "",
             "link": "shopify://collections/latest",
             "text_color": ""
           }
