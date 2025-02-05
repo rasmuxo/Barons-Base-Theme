@@ -118,7 +118,9 @@
       "custom_css": [
         "h2 {font-family: \"ASRV\"; font-weight: 400;}",
         ".hero__subheading {font-weight: 400; letter-spacing: 0;}",
-        ".brick__section {width: 85%;}"
+        ".brick__section {width: 85%;}",
+        ".btn {background-color: white; color: black; padding: 10px 20px; cursor: pointer; transition: background-color 0.3s ease, color 0.3s ease;}",
+        ".btn:hover {background-color: black; color: white;}"
       ],
       "settings": {
         "height": "image-height",
