@@ -119,9 +119,9 @@
         "h2 {font-family: \"ASRV\"; font-weight: 400;}"
       ],
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-one-half",
         "mobile_height": "screen-height-one-half--mobile",
-        "width": "wrapper--full-padded",
+        "width": "wrapper",
         "borders": false,
         "gutters": false,
         "reverse_blocks": false,
