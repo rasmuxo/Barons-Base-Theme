@@ -118,7 +118,7 @@
       "custom_css": [
         "h2 {font-family: \"ASRV\"; font-weight: 400;}",
         ".hero__subheading {font-weight: 400; letter-spacing: 0;}",
-        ".brick__section {width: 75%;}"
+        ".brick__section {width: 85%;}"
       ],
       "settings": {
         "height": "image-height",
