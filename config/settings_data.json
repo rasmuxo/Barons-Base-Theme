@@ -60,6 +60,7 @@
     "badge_bg_color": "#ffffff",
     "badge_text_color": "#212121",
     "form_style": "classic",
+    "color_swatches": false,
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
