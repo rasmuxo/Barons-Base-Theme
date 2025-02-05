@@ -44,6 +44,10 @@
         "text_4PzfHE",
         "button_CLMqet"
       ],
+      "custom_css": [
+        "h2 {font-family: \"ASRV\"; font-weight: 300;}",
+        ".hero__content {padding-left: 5%;}"
+      ],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
