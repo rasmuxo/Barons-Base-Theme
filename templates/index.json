@@ -91,7 +91,7 @@
         "text_6yyVRi": {
           "type": "text",
           "settings": {
-            "subheading": "FEATURED",
+            "subheading": "*BEST SELLER*",
             "subheading_size": 3,
             "title": "ELEVATE 2.0 HOODIE",
             "heading_size": 7,
@@ -100,12 +100,12 @@
             "button_text": "Learn more",
             "button_url": "",
             "button_type": "btn--black",
-            "button_size": "btn--large",
-            "button_style": "btn--solid",
-            "show_arrow": false,
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": true,
             "show_social_links": false,
             "text_columns": 1,
-            "align_text": "text-left",
+            "align_text": "text-center",
             "bg_color": "",
             "color": ""
           }
