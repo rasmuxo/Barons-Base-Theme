@@ -121,7 +121,7 @@
         ".brick__section {width: 75%;}"
       ],
       "settings": {
-        "height": "four-fifty-height-hero",
+        "height": "image-height",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper",
         "borders": false,
