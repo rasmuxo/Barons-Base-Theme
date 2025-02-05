@@ -70,7 +70,7 @@
         ".grid__heading-holder {margin-bottom: 10px;}"
       ],
       "settings": {
-        "heading": "IRON VALOR [10]",
+        "heading": "IRON VALOR [9]",
         "description": "",
         "layout": "inline",
         "link_text": "Shop Now",
@@ -81,7 +81,7 @@
         "show_arrow": false,
         "featured_collection": "iron-valor-collection",
         "layout_desktop": "grid",
-        "grid": 4,
+        "grid": 3,
         "rows": 3,
         "width": "wrapper",
         "layout_mobile": "slider",
