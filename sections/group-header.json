@@ -29,6 +29,23 @@
     "header": {
       "type": "header",
       "blocks": {
+        "toolbar_nB8dKh": {
+          "type": "toolbar",
+          "settings": {
+            "text": "<p>HTTPS://ASCENDATHLETIC.NET/</p>",
+            "menu": "",
+            "show_border": true,
+            "border_opacity": 50,
+            "show_social_links": false,
+            "show_gift_card": false,
+            "show_locale_selector": true,
+            "show_country_selector": true,
+            "show_country_name": false,
+            "show_country_flag": true,
+            "bg_color": "#000000",
+            "color": "#ffffff"
+          }
+        },
         "image_AbWx8y": {
           "type": "image",
           "settings": {
@@ -106,6 +123,7 @@
         }
       },
       "block_order": [
+        "toolbar_nB8dKh",
         "image_AbWx8y",
         "image_KJAN8t",
         "image_MjrywC",
