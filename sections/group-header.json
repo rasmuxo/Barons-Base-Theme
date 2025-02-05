@@ -141,7 +141,7 @@
       "settings": {
         "header_sticky": true,
         "header_style": "logo_center_menu_left",
-        "show_separator_line": true,
+        "show_separator_line": false,
         "separator_opacity": 65,
         "show_icons": false,
         "icon_as_circle": true,
