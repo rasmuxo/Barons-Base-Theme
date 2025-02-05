@@ -116,7 +116,8 @@
         "text_6yyVRi"
       ],
       "custom_css": [
-        "h2 {font-family: \"ASRV\"; font-weight: 400;}"
+        "h2 {font-family: \"ASRV\"; font-weight: 400;}",
+        ".hero__subheading {font-weight: 400; letter-spacing: 0;}"
       ],
       "settings": {
         "height": "screen-height-one-half",
