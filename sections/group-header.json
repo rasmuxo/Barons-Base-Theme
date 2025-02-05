@@ -33,7 +33,7 @@
           "type": "toolbar",
           "settings": {
             "text": "<p>HTTPS://ASCENDATHLETIC.NET/</p>",
-            "menu": "",
+            "menu": "toolbar",
             "show_border": true,
             "border_opacity": 100,
             "show_social_links": false,
