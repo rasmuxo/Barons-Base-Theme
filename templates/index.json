@@ -120,7 +120,7 @@
         ".hero__subheading {font-weight: 400; letter-spacing: 0;}"
       ],
       "settings": {
-        "height": "screen-height-one-half",
+        "height": "four-fifty-height-hero",
         "mobile_height": "screen-height-one-half--mobile",
         "width": "wrapper",
         "borders": true,
