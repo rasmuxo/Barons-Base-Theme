@@ -14,6 +14,15 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "divider_JDWpzK": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "column_width": 20,
+            "padding_top": 20,
+            "padding_bottom": 20
+          }
+        },
         "newsletter_eVnA9d": {
           "type": "newsletter",
           "settings": {
@@ -27,12 +36,23 @@
             "button_size": "",
             "button_style": "btn--solid",
             "show_social_links": false,
-            "column_width": 33
+            "column_width": 60
+          }
+        },
+        "divider_VGfiMe": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "column_width": 20,
+            "padding_top": 20,
+            "padding_bottom": 20
           }
         }
       },
       "block_order": [
-        "newsletter_eVnA9d"
+        "divider_JDWpzK",
+        "newsletter_eVnA9d",
+        "divider_VGfiMe"
       ],
       "custom_css": [
         ".input-group {border: 1px solid black; padding-left: 10px; padding-right: 10px;}",
