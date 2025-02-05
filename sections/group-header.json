@@ -81,7 +81,8 @@
         "image_BjG33K"
       ],
       "custom_css": [
-        "span {text-transform: uppercase;}"
+        "span {text-transform: uppercase;}",
+        ".header__dropdown {border-bottom: 1px solid white;}"
       ],
       "settings": {
         "header_sticky": true,
