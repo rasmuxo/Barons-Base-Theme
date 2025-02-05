@@ -66,20 +66,20 @@
     "section_collection_TdJLdV": {
       "type": "section-collection",
       "custom_css": [
-        "h2 {font-weight: 400; font-size: 18px;}",
+        "h2 {font-weight: 400; font-size: 18px; font-family: \"ASRV\"; font-weight: 300;}",
         ".grid__heading-holder {margin-bottom: 10px;}"
       ],
       "settings": {
-        "heading": "IRON VALOR",
+        "heading": "IRON VALOR [10]",
         "description": "",
         "layout": "inline",
         "link_text": "Shop Now",
-        "link_url": "",
+        "link_url": "shopify://collections/iron-valor-collection",
         "button_type": "btn--black",
         "button_size": "btn--small",
         "button_style": "btn--solid",
         "show_arrow": false,
-        "featured_collection": "",
+        "featured_collection": "iron-valor-collection",
         "layout_desktop": "grid",
         "grid": 4,
         "rows": 3,
