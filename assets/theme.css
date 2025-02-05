@@ -24081,3 +24081,11 @@ body.has-header-sticky .timeline {
   font-weight: 400;
   src: url(https://cdn.shopify.com/s/files/1/0799/8442/7304/files/ASRV-Standard.woff2?v=1738779514) format('woff2'),  
 }
+
+    @font-face {
+  font-display: swap;
+  font-family: 'ASRV';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://cdn.shopify.com/s/files/1/0799/8442/7304/files/ASRV-Light.woff2?v=1738779514) format('woff2'),  
+}
