@@ -127,7 +127,7 @@
         "heading_PLPwt9": {
           "type": "heading",
           "settings": {
-            "title": "ASCEND IN 2025",
+            "title": "SUMMER 2025",
             "heading_size": 7
           }
         },
@@ -163,7 +163,7 @@
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/landing.webp",
+        "image_1": "shopify://shop_images/kinda_fixed.png",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
