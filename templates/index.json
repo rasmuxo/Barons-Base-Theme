@@ -93,9 +93,9 @@
           "settings": {
             "subheading": "FEATURED",
             "subheading_size": 3,
-            "title": "Custom content",
+            "title": "ELEVATE 2.0 HOODIE",
             "heading_size": 7,
-            "text": "<p>Use this section to create unique side-by-side layouts with various content blocks. Pair text with images, newsletter blocks, products, videos, testimonials and more.</p>",
+            "text": "<p><strong>Experience comfort and style with our Elevate 2.0 Hoodie in black. Featuring an upgraded wings graphic and \"ASCEND\" text on the front. Soft and cozy cotton material ensures your ultimate satisfaction. Elevate your wardrobe with this hoodie.</strong></p>",
             "text_size": 4,
             "button_text": "Learn more",
             "button_url": "",
@@ -116,7 +116,7 @@
         "text_6yyVRi"
       ],
       "custom_css": [
-        "h2 {font-samily: \"ASRV\"; }"
+        "h2 {font-family: \"ASRV\"; font-weight: 400;}"
       ],
       "settings": {
         "height": "image-height",
