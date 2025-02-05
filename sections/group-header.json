@@ -120,7 +120,7 @@
         ".theme__header {--PT: 0px; --PB: 0px;}",
         "p {font-weight: 400;}",
         ".navlink--toplevel {font-weight: 600;}",
-        ".hero__content {font-family: \"ASRV\"; font-weight: 300; font-size: 20px;}"
+        ".hero__title {font-family: \"ASRV\"; font-weight: 300; font-size: 20px;}"
       ],
       "settings": {
         "header_sticky": true,
