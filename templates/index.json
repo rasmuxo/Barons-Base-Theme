@@ -11,13 +11,46 @@
   "sections": {
     "section_hero_dUac8L": {
       "type": "section-hero",
+      "blocks": {
+        "heading_PLPwt9": {
+          "type": "heading",
+          "settings": {
+            "title": "Image banner",
+            "heading_size": 6
+          }
+        },
+        "text_c8gg7B": {
+          "type": "text",
+          "settings": {
+            "description": "Tell your brand's story through images.",
+            "text_size": 4,
+            "text_style": "font-body"
+          }
+        },
+        "button_Y8xAXX": {
+          "type": "button",
+          "settings": {
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "btn--small",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_PLPwt9",
+        "text_c8gg7B",
+        "button_Y8xAXX"
+      ],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/landing.webp",
         "link": "",
         "mobile_height": "screen-height-three-quarters--mobile",
-        "flex_align_desktop": "align--middle-center-desktop",
+        "flex_align_desktop": "align--bottom-left-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
