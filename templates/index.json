@@ -121,30 +121,6 @@
         "padding_bottom": 50
       }
     },
-    "section_collection_BaeRPE": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "IRON VALOR [9]",
-        "description": "",
-        "layout": "inline",
-        "link_text": "Shop Now",
-        "link_url": "shopify://collections/iron-valor-collection",
-        "button_type": "btn--black",
-        "button_size": "btn--small",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "iron-valor-collection",
-        "layout_desktop": "grid",
-        "grid": 3,
-        "rows": 3,
-        "width": "wrapper",
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
     "section_hero_dUac8L": {
       "type": "section-hero",
       "blocks": {
@@ -268,6 +244,30 @@
         "reverse_blocks": false,
         "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "section_collection_BaeRPE": {
+      "type": "section-collection",
+      "settings": {
+        "heading": "IRON VALOR [9]",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Shop Now",
+        "link_url": "shopify://collections/paradox-collection",
+        "button_type": "btn--black",
+        "button_size": "btn--small",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "paradox-collection",
+        "layout_desktop": "grid",
+        "grid": 3,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     }
   },
