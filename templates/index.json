@@ -63,6 +63,34 @@
         "color": "#ffffff"
       }
     },
+    "section_collection_TdJLdV": {
+      "type": "section-collection",
+      "custom_css": [
+        "h2 {font-weight: 400; font-size: 18px;}",
+        ".grid__heading-holder {margin-bottom: 10px;}"
+      ],
+      "settings": {
+        "heading": "IRON VALOR",
+        "description": "",
+        "layout": "inline",
+        "link_text": "Shop Now",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "btn--small",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_custom_content_wppEgc": {
       "type": "section-custom-content",
       "blocks": {
@@ -115,6 +143,7 @@
         "image_aeLFwM",
         "text_6yyVRi"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: \"ASRV\"; font-weight: 400;}",
         ".hero__subheading {font-weight: 400; letter-spacing: 0;}",
@@ -136,6 +165,7 @@
   },
   "order": [
     "section_hero_dUac8L",
+    "section_collection_TdJLdV",
     "section_custom_content_wppEgc"
   ]
 }
