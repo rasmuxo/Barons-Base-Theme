@@ -35,7 +35,7 @@
             "text": "<p>HTTPS://ASCENDATHLETIC.NET/</p>",
             "menu": "",
             "show_border": true,
-            "border_opacity": 50,
+            "border_opacity": 100,
             "show_social_links": false,
             "show_gift_card": false,
             "show_locale_selector": true,
