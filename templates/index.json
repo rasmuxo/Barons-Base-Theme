@@ -63,17 +63,6 @@
         "color": "#ffffff"
       }
     },
-    "section_divider_UzYJz6": {
-      "type": "section-divider",
-      "settings": {
-        "show_line": false,
-        "width": "wrapper--full-padded",
-        "border_color": "",
-        "bg_color": "",
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "section_custom_content_wppEgc": {
       "type": "section-custom-content",
       "blocks": {
@@ -101,16 +90,16 @@
         "text_6yyVRi": {
           "type": "text",
           "settings": {
-            "subheading": "Introducing",
+            "subheading": "FEATURED",
             "subheading_size": 3,
             "title": "Custom content",
-            "heading_size": 8,
+            "heading_size": 7,
             "text": "<p>Use this section to create unique side-by-side layouts with various content blocks. Pair text with images, newsletter blocks, products, videos, testimonials and more.</p>",
             "text_size": 4,
             "button_text": "Learn more",
             "button_url": "",
-            "button_type": "btn--primary",
-            "button_size": "",
+            "button_type": "btn--black",
+            "button_size": "btn--large",
             "button_style": "btn--solid",
             "show_arrow": false,
             "show_social_links": false,
@@ -132,14 +121,13 @@
         "borders": false,
         "gutters": false,
         "reverse_blocks": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 40,
+        "padding_bottom": 40
       }
     }
   },
   "order": [
     "section_hero_dUac8L",
-    "section_divider_UzYJz6",
     "section_custom_content_wppEgc"
   ]
 }
