@@ -62,9 +62,84 @@
         "bg_color": "",
         "color": "#ffffff"
       }
+    },
+    "section_divider_UzYJz6": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": false,
+        "width": "wrapper--full-padded",
+        "border_color": "",
+        "bg_color": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "section_custom_content_wppEgc": {
+      "type": "section-custom-content",
+      "blocks": {
+        "image_aeLFwM": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "show_overlay_text": false,
+            "title": "",
+            "heading_size": 7,
+            "description": "",
+            "text_size": 3,
+            "flex_align": "align--middle-center",
+            "bg_color": "",
+            "color": "#FFFFFF",
+            "link_text": "",
+            "link": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "text_6yyVRi": {
+          "type": "text",
+          "settings": {
+            "subheading": "Introducing",
+            "subheading_size": 3,
+            "title": "Custom content",
+            "heading_size": 8,
+            "text": "<p>Use this section to create unique side-by-side layouts with various content blocks. Pair text with images, newsletter blocks, products, videos, testimonials and more.</p>",
+            "text_size": 4,
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "show_social_links": false,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "bg_color": "",
+            "color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_aeLFwM",
+        "text_6yyVRi"
+      ],
+      "settings": {
+        "height": "screen-height-one-half",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full-padded",
+        "borders": false,
+        "gutters": false,
+        "reverse_blocks": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
-    "section_hero_dUac8L"
+    "section_hero_dUac8L",
+    "section_divider_UzYJz6",
+    "section_custom_content_wppEgc"
   ]
 }
