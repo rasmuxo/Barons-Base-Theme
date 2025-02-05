@@ -35,6 +35,7 @@
     "type_nav_size": 80,
     "btn_font": "helvetica_n4",
     "btn_border_style": "square",
+    "btn_size": 14,
     "btn_letter_spacing": 0,
     "btn_primary_bg_color": "#333333",
     "btn_primary_text_color": "#ffffff",
