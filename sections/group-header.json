@@ -82,7 +82,8 @@
       ],
       "custom_css": [
         "span {text-transform: uppercase;}",
-        ".header__dropdown {border-bottom: 1px solid white;}"
+        ".header__dropdown {border-bottom: 1px solid white;}",
+        ".theme__header {--PT: 0px; --PB: 0px;}"
       ],
       "settings": {
         "header_sticky": true,
