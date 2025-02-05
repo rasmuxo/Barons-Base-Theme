@@ -148,7 +148,7 @@
         "cart_icon_family": "bag",
         "logo": "shopify://shop_images/ascndlogow_3f250ee7-963a-4485-85a4-58a66654b0c7.png",
         "logo_max_limit": 110,
-        "logo_max_limit_mobile": 95,
+        "logo_max_limit_mobile": 105,
         "main_menu_linklist": "header-menu",
         "mobile_menu_linklist": "",
         "enable_search": true,
