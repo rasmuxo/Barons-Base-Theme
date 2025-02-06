@@ -1,1 +1,53 @@
-{"type":"aside","name":"Overlay","sections":{"cookie":{"type":"overlay-cookie","disabled":true,"settings":{"show_cookies_popup":true,"position":"popup-cookies--left"}}},"order":["cookie"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "aside",
+  "name": "Overlay",
+  "sections": {
+    "cookie": {
+      "type": "overlay-cookie",
+      "disabled": true,
+      "settings": {
+        "show_cookies_popup": true,
+        "position": "popup-cookies--left"
+      }
+    },
+    "overlay_newsletter_caiDM6": {
+      "type": "overlay-newsletter",
+      "blocks": {
+        "small_newsletter_DYcNtC": {
+          "type": "small-newsletter",
+          "settings": {
+            "position": "small-newsletter--bottom-right",
+            "heading": "<p>GET $5 OFF YOUR ORDER</p>",
+            "success": "<p>USE CODE '<strong>NEWS5</strong>' AT CHECKOUT</p>",
+            "bg_color": "",
+            "color": "",
+            "trigger": "always",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "small_newsletter_DYcNtC"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "cookie",
+    "overlay_newsletter_caiDM6"
+  ]
+}
