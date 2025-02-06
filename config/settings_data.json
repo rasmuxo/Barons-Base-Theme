@@ -44,6 +44,7 @@
     "btn_secondary_text_color": "#ffffff",
     "btn_secondary_border_color": "#ab8c52",
     "grid_style": "compact",
+    "dots_style": "line",
     "show_gray_bg": false,
     "product_grid_outline": false,
     "show_scroll_top_button": true,
