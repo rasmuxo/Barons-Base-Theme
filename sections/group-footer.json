@@ -41,7 +41,7 @@
             "text": "",
             "show_name": false,
             "button_text": "",
-            "show_arrow": false,
+            "show_arrow": true,
             "terms": false,
             "button_type": "btn--black",
             "button_size": "",
