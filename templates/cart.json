@@ -43,12 +43,18 @@
     },
     "section_collection_LCqqqp": {
       "type": "section-collection",
+      "custom_css": [
+        "h2 {font-weight: 400; font-size: 26px; font-family: \"ASRV\"; font-weight: 300;}",
+        ".grid__heading-holder {margin-bottom: 10px;}",
+        "@media (max-width: 767px) {.btn {width: 100%; } .grid__heading-text {text-align: center; } .grid__heading-holder {padding-bottom: 20px; }}",
+        ".product-item__title {text-transform: uppercase;}"
+      ],
       "settings": {
-        "heading": "Best Sellers",
+        "heading": "PUMP COVERS [43]",
         "description": "",
         "layout": "inline",
-        "link_text": "Shop Now",
-        "link_url": "",
+        "link_text": "SHOP ALL",
+        "link_url": "shopify://collections/pump-covers",
         "button_type": "btn--black",
         "button_size": "",
         "button_style": "btn--solid",
