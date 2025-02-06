@@ -185,7 +185,8 @@
       "type": "section-collection",
       "custom_css": [
         "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
-        "@media (max-width: 767px) {.btn {display: none; }}",
+        ".grid__heading-holder {margin-bottom: 10px;}",
+        "@media (max-width: 767px) {.btn {width: 100%; } .grid__heading-text {text-align: center; } .grid__heading-holder {padding-bottom: 20px; }}",
         ".product-item__title {text-transform: uppercase;}"
       ],
       "settings": {
