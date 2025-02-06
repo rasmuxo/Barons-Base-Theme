@@ -67,6 +67,7 @@
     "variant_lines": false,
     "sale_badge": true,
     "color_swatches": false,
+    "empty_cart_menu": "toolbar",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
