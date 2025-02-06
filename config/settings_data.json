@@ -47,7 +47,7 @@
     "dots_style": "line",
     "show_gray_bg": false,
     "product_grid_outline": false,
-    "show_scroll_top_button": true,
+    "show_scroll_top_button": false,
     "loading_image_1": "shopify://shop_images/ascndlogo.png",
     "instagram_link": "https://instagram.com/shopify",
     "facebook_link": "https://facebook.com/shopify",
