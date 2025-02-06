@@ -25,7 +25,7 @@
         "small_newsletter_DYcNtC": {
           "type": "small-newsletter",
           "settings": {
-            "position": "small-newsletter--bottom-right",
+            "position": "small-newsletter--top-right",
             "heading": "<p>GET $5 OFF YOUR ORDER</p>",
             "success": "<p>USE CODE '<strong>NEWS5</strong>' AT CHECKOUT</p>",
             "bg_color": "#007aff",
