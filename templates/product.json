@@ -79,7 +79,8 @@
         "tabs"
       ],
       "custom_css": [
-        ".product__title {font-family: \"ASRV\"; font-weight: 300;}"
+        ".product__title {font-family: \"ASRV\"; font-weight: 300;}",
+        ".product__description__content {font-size: 14px;}"
       ],
       "settings": {
         "product_sticky_enable": false,
