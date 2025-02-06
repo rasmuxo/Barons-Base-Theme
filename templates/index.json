@@ -102,6 +102,7 @@
         "image_DQ6UTH": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img.jpg",
             "image_aspect_ratio": 1.2,
             "mobile_image_aspect_ratio": 1.2,
             "image_shape": "normal",
@@ -120,6 +121,7 @@
         "image_GXYiKQ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/eclipse.jpg",
             "image_aspect_ratio": 1.2,
             "mobile_image_aspect_ratio": 1.2,
             "image_shape": "normal",
@@ -138,7 +140,7 @@
         "image_XbRrNJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/img.jpg",
+            "image": "shopify://shop_images/p1bgbgb-min.png",
             "image_aspect_ratio": 1.2,
             "mobile_image_aspect_ratio": 1.2,
             "image_shape": "normal",
