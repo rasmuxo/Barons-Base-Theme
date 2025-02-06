@@ -44,7 +44,8 @@
         "small_newsletter_DYcNtC"
       ],
       "custom_css": [
-        ".small-newsletter {border-radius: 30px;}"
+        ".small-newsletter {border-radius: 30px;}",
+        ".small-newsletter {margin: 1px;}"
       ],
       "settings": {}
     }
