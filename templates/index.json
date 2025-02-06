@@ -47,7 +47,7 @@
       "custom_css": [
         "h2 {font-family: \"ASRV\"; font-weight: 300;}",
         ".hero__content {padding-left: 5%;}",
-        "@media (max-width: 767px) {.hero__content {padding-bottom: 20px; }}"
+        "@media (max-width: 767px) {.hero__content {padding-bottom: 70px; }}"
       ],
       "settings": {
         "height": "screen-height-full",
