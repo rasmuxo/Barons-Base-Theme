@@ -129,10 +129,10 @@
             "heading_size": 4,
             "text": "",
             "text_size": 3,
-            "button_text": "SHOP NOW",
+            "button_text": "BEST SELLERS",
             "button_url": "shopify://collections/latest",
-            "button_type": "btn--primary",
-            "button_size": "",
+            "button_type": "btn--black",
+            "button_size": "btn--large",
             "button_style": "btn--solid",
             "show_arrow": false
           }
@@ -148,10 +148,10 @@
             "heading_size": 4,
             "text": "",
             "text_size": 3,
-            "button_text": "",
+            "button_text": "SHOP WOMEN'S",
             "button_url": "shopify://collections/womens-collection",
-            "button_type": "btn--primary",
-            "button_size": "",
+            "button_type": "btn--black",
+            "button_size": "btn--large",
             "button_style": "btn--solid",
             "show_arrow": false
           }
@@ -161,6 +161,9 @@
         "image_DQ6UTH",
         "image_GXYiKQ",
         "image_XbRrNJ"
+      ],
+      "custom_css": [
+        ".btn {width: 100%;}"
       ],
       "settings": {
         "title": "",
