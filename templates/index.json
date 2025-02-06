@@ -196,7 +196,7 @@
         "link_text": "Shop Now",
         "link_url": "shopify://collections/iron-valor-collection",
         "button_type": "btn--black",
-        "button_size": "btn--large",
+        "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
         "featured_collection": "iron-valor-collection",
