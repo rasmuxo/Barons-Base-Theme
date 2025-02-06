@@ -184,7 +184,7 @@
     "section_collection_TdJLdV": {
       "type": "section-collection",
       "custom_css": [
-        "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
+        "h2 {font-weight: 400; font-size: 26px; font-family: \"ASRV\"; font-weight: 300;}",
         ".grid__heading-holder {margin-bottom: 10px;}",
         "@media (max-width: 767px) {.btn {width: 100%; } .grid__heading-text {text-align: center; } .grid__heading-holder {padding-bottom: 20px; }}",
         ".product-item__title {text-transform: uppercase;}"
@@ -207,7 +207,7 @@
         "layout_mobile": "2",
         "bg_color": "",
         "color": "",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 50
       }
     },
@@ -339,7 +339,7 @@
     "section_collection_BaeRPE": {
       "type": "section-collection",
       "custom_css": [
-        "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
+        "h2 {font-weight: 400; font-size: 26px; font-family: \"ASRV\"; font-weight: 300;}",
         ".grid__heading-holder {margin-bottom: 10px;}",
         "@media (max-width: 767px) {.btn {width: 100%; } .grid__heading-text {text-align: center; } .grid__heading-holder {padding-bottom: 20px; }}",
         ".product-item__title {text-transform: uppercase;}"
