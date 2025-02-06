@@ -279,17 +279,6 @@
         "padding_top": 50,
         "padding_bottom": 50
       }
-    },
-    "section_custom_code_nabPmc": {
-      "type": "section-custom-code",
-      "settings": {
-        "code": "<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>TrustScore</title>\n<script src=\"https://cdn.tailwindcss.com\"></script>\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css\">\n</head>\n<body class=\"h-screen flex items-center justify-center bg-white\">\n  <div class=\"text-center\">\n    <div class=\"flex justify-center items-center space-x-2\">\n      <div class=\"flex items-center border border-yellow-500 rounded-full px-3 py-1\">\n        <i class=\"fas fa-star text-yellow-500\"></i>\n        <i class=\"fas fa-star text-yellow-500\"></i>\n        <i class=\"fas fa-star text-yellow-500\"></i>\n        <i class=\"fas fa-star text-yellow-500\"></i>\n        <i class=\"fas fa-star text-yellow-500\"></i>\n      </div>\n    </div>\n    <span class=\"text-black text-sm mt-2 block\">TrustScore 4.7 | 347 reviews</span>\n  </div>\n</body>\n</html>",
-        "width": "wrapper--full",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
@@ -298,7 +287,6 @@
     "section_collection_TdJLdV",
     "section_hero_dUac8L",
     "section_custom_content_wppEgc",
-    "section_collection_BaeRPE",
-    "section_custom_code_nabPmc"
+    "section_collection_BaeRPE"
   ]
 }
