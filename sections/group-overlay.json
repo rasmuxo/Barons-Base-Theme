@@ -35,7 +35,7 @@
             "target_url": "",
             "target_referrer_enabled": false,
             "target_referrer": "",
-            "target_device_enabled": false,
+            "target_device_enabled": true,
             "target_device": "mobile"
           }
         }
