@@ -49,7 +49,7 @@
         "layout": "inline",
         "link_text": "Shop Now",
         "link_url": "",
-        "button_type": "btn--primary",
+        "button_type": "btn--black",
         "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
