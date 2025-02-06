@@ -45,7 +45,7 @@
       ],
       "custom_css": [
         ".small-newsletter {border-radius: 30px;}",
-        ".small-newsletter {margin-right: 1%; margin-bottom: 1%;}"
+        ".small-newsletter {margin-right: 1%;}"
       ],
       "settings": {}
     }
