@@ -1,1 +1,47 @@
-{"sections":{"main":{"type":"cart","blocks":{"free_shipping_kEKELi":{"type":"free-shipping","settings":{"message":"You are ||amount|| away from free shipping.","free_shipping_gradient":""}},"checkout_buttons_tCqP4a":{"type":"checkout-buttons","settings":{"enable_additional_buttons":false}},"shipping_estimate_wpKVpU":{"type":"shipping-estimate","settings":{}}},"block_order":["free_shipping_kEKELi","checkout_buttons_tCqP4a","shipping_estimate_wpKVpU"],"settings":{"padding_top":80,"padding_bottom":50}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "cart",
+      "blocks": {
+        "free_shipping_kEKELi": {
+          "type": "free-shipping",
+          "settings": {
+            "message": "You are ||amount|| away from free shipping.",
+            "free_shipping_gradient": "linear-gradient(90deg, rgba(240, 115, 69, 1), rgba(221, 39, 57, 1) 100%)"
+          }
+        },
+        "checkout_buttons_tCqP4a": {
+          "type": "checkout-buttons",
+          "settings": {
+            "enable_additional_buttons": false
+          }
+        },
+        "shipping_estimate_wpKVpU": {
+          "type": "shipping-estimate",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "free_shipping_kEKELi",
+        "checkout_buttons_tCqP4a",
+        "shipping_estimate_wpKVpU"
+      ],
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 50
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
