@@ -68,7 +68,7 @@
     "sale_badge": true,
     "color_swatches": false,
     "free_shipping_limit": "125",
-    "show_lock_icon": true,
+    "show_lock_icon": false,
     "empty_cart_menu": "toolbar",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
