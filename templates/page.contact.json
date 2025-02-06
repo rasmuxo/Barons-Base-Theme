@@ -12,7 +12,8 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h2 {font-family: \"ASRV\";}"
+        "h2 {font-family: \"ASRV\";}",
+        ".body-size-4 {display: none;}"
       ],
       "settings": {
         "subheading": "",
