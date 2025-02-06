@@ -43,6 +43,9 @@
       "block_order": [
         "small_newsletter_DYcNtC"
       ],
+      "custom_css": [
+        ".small-newsletter {border-radius: 30px;}"
+      ],
       "settings": {}
     }
   },
