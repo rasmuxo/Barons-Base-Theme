@@ -340,6 +340,7 @@
       "custom_css": [
         "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
         ".grid__heading-holder {margin-bottom: 10px;}",
+        "@media (max-width: 767px) {.btn {width: 100%; }}",
         ".product-item__title {text-transform: uppercase;}"
       ],
       "settings": {
