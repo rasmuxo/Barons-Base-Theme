@@ -138,6 +138,7 @@
         "image_XbRrNJ": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img.jpg",
             "image_aspect_ratio": 1.2,
             "mobile_image_aspect_ratio": 1.2,
             "image_shape": "normal",
@@ -179,7 +180,6 @@
       "type": "section-collection",
       "custom_css": [
         "h2 {font-weight: 400; font-size: 22px; font-family: \"ASRV\"; font-weight: 300;}",
-        ".grid__heading-holder {margin-bottom: 10px;}",
         "@media (max-width: 767px) {.btn {display: none; }}",
         ".product-item__title {text-transform: uppercase;}"
       ],
