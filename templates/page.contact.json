@@ -24,8 +24,8 @@
         "text_size": 4,
         "align_text": "text-center",
         "width": "wrapper",
-        "bg_color": "#f7f7f7",
-        "color": "",
+        "bg_color": "#1a1a1a",
+        "color": "#ffffff",
         "padding_top": 50,
         "padding_bottom": 50
       }
