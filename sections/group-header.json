@@ -118,7 +118,7 @@
         "span {text-transform: uppercase;}",
         ".header__dropdown {border-bottom: 1px solid white;}",
         ".theme__header {--PT: 0px; --PB: 0px;}",
-        "p {font-weight: 600; text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.6);}",
+        "p {font-weight: 600; text-shadow: 1px 1px 4px rgba(255, 255, 255, 0.7);}",
         ".navlink--toplevel {font-weight: 600;}",
         ".hero__title {font-family: \"ASRV\"; font-weight: 300; font-size: 20px;}"
       ],
