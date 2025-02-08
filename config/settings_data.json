@@ -166,7 +166,14 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "14694295852195246148": {
+        "type": "shopify://apps/rep-ai-concierge/blocks/rep/732ae1ba-1247-4e6b-87c9-e0cacafee2a5",
+        "disabled": true,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Clean": {
