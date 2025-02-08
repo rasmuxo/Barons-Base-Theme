@@ -412,5 +412,10 @@
       "checkout_error_color": "#c85c42",
       "sale_background_color": "#be563f"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product-item__title {font-weight: 600;}"
+    ]
   }
 }
