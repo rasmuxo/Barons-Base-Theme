@@ -55,12 +55,11 @@
         "image_1": "shopify://shop_images/2025_mobile_banner_with_no_text.png",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
-        "mobile_image": "shopify://shop_images/rsz_dsc01587fvfv.jpg",
         "flex_align_desktop": "align--bottom-left-desktop",
         "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 0,
+        "overlay_opacity": 15,
         "overlay_color": "#000000",
-        "show_overlay_text": false,
+        "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
       }
