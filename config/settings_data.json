@@ -48,14 +48,14 @@
     "show_gray_bg": false,
     "product_grid_outline": false,
     "show_scroll_top_button": false,
-    "loading_image_1": "shopify://shop_images/ascndlogo.png",
+    "loading_image_1": "shopify://shop_images/ab.png",
     "instagram_link": "https://instagram.com/shopify",
     "facebook_link": "https://facebook.com/shopify",
     "twitter_link": "https://twitter.com/shopify",
     "tiktok_link": "https://tiktok.com/@shopify",
     "product_grid_center": false,
     "product_grid_aspect_ratio": 1,
-    "sale_tags_enable": true,
+    "sale_tags_enable": false,
     "sale_bg_color": "#d20000",
     "sale_text_color": "#ffffff",
     "badge_bg_color": "#ffffff",
@@ -166,14 +166,7 @@
         }
       }
     },
-    "content_for_index": [],
-    "blocks": {
-      "14694295852195246148": {
-        "type": "shopify://apps/rep-ai-concierge/blocks/rep/732ae1ba-1247-4e6b-87c9-e0cacafee2a5",
-        "disabled": true,
-        "settings": {}
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Clean": {
