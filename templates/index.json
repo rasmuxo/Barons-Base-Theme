@@ -56,10 +56,7 @@
         "button_tidmiF",
         "button_TKG9WG"
       ],
-      "custom_css": [
-        "h2 {opacity: 1; transition: opacity 0.5s ease-in-out;}",
-        "h2 {opacity: 0;}"
-      ],
+      "custom_css": [],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
