@@ -13,23 +13,6 @@
   "sections": {
     "announcement": {
       "type": "announcement",
-      "blocks": {
-        "text_6mQK6k": {
-          "type": "text",
-          "settings": {
-            "text": "<p>REBRAND LIVE NOW</p>",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "text_6mQK6k"
-      ],
       "settings": {
         "show_border": false,
         "layout": "marquee",
