@@ -24073,3 +24073,19 @@ body.has-header-sticky .timeline {
 }
 
 /*! ============ Add any custom styles below this line ================== */
+
+    @font-face {
+  font-display: swap;
+  font-family: 'FCB';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.shopify.com/s/files/1/0418/9988/4711/files/FLIPclockblack.woff?v=1740262900) format('woff2'),  
+}
+
+    @font-face {
+  font-display: swap;
+  font-family: 'FCW';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.shopify.com/s/files/1/0418/9988/4711/files/FLIPclockwhite.woff?v=1740262900) format('woff2'),  
+}
