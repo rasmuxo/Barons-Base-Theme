@@ -24074,6 +24074,19 @@ body.has-header-sticky .timeline {
 
 /*! ============ Add any custom styles below this line ================== */
 
+.product-item__swatches__count {
+  color: transparent;
+}
+.swatch__link {
+  border: 1px solid black;
+  border-radius: 100%;
+  padding: 1px;
+}
+.radio__fieldset {
+  visibility: visible;
+  opacity: 1;
+}
+
     @font-face {
   font-display: swap;
   font-family: 'FCB';
