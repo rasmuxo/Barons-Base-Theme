@@ -11,15 +11,84 @@
   "type": "footer",
   "name": "Footer",
   "sections": {
+    "section_divider_WUeTKY": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "border_color": "#dfdfdf",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "section_divider_wViJip": {
+      "type": "section-divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "border_color": "#dfdfdf",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "divider_pJhxHf": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "column_width": 20,
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        },
+        "newsletter_WV98yL": {
+          "type": "newsletter",
+          "settings": {
+            "title": "",
+            "text": "",
+            "show_name": false,
+            "button_text": "",
+            "show_arrow": false,
+            "terms": false,
+            "button_type": "btn--black",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_social_links": false,
+            "column_width": 60
+          }
+        },
+        "divider_DKzC9J": {
+          "type": "divider",
+          "settings": {
+            "show_line": false,
+            "column_width": 20,
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "divider_pJhxHf",
+        "newsletter_WV98yL",
+        "divider_DKzC9J"
+      ],
+      "custom_css": [
+        ".input-group {border: 1px solid black; padding-left: 10px; padding-right: 10px;}",
+        ".footer__block {display: flex; align-items: center; justify-content: center; height: 100%;}",
+        ".input-group__field {text-transform: uppercase;}",
+        "span {font-size: 12px;}"
+      ],
       "settings": {
         "logo_image_width": 150,
         "overlay_opacity": 75,
         "overlay_color": "#ffffff",
         "border_color": "#212121",
-        "padding_top": 75,
-        "padding_bottom": 30
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "supporting-menu": {
@@ -37,7 +106,9 @@
     }
   },
   "order": [
+    "section_divider_WUeTKY",
     "footer",
+    "section_divider_wViJip",
     "supporting-menu"
   ]
 }

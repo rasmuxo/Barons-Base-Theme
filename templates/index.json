@@ -32,21 +32,9 @@
         "padding_top": 50,
         "padding_bottom": 0
       }
-    },
-    "section_divider_4NHpFz": {
-      "type": "section-divider",
-      "settings": {
-        "show_line": true,
-        "width": "wrapper--full",
-        "border_color": "#dfdfdf",
-        "bg_color": "",
-        "padding_top": 30,
-        "padding_bottom": 30
-      }
     }
   },
   "order": [
-    "section_collection_hjW687",
-    "section_divider_4NHpFz"
+    "section_collection_hjW687"
   ]
 }
