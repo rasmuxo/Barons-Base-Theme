@@ -58,6 +58,7 @@
     "badge_bg_color": "#ffffff",
     "badge_text_color": "#212121",
     "quickview_enable": false,
+    "favicon": "shopify://shop_images/rm_logo_plain.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
