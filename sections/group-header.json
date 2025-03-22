@@ -29,9 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "span {text-transform: uppercase;}",
-        ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}",
-        ".menu__block--narrow {padding: 0px;}"
+        ".theme__header {box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);}"
       ],
       "settings": {
         "header_sticky": true,
