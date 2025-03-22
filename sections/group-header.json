@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".theme__header {box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);}"
+        ".theme__header {box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05); border-bottom: 1px solid #ececec;}"
       ],
       "settings": {
         "header_sticky": true,
