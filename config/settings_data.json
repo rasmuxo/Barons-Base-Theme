@@ -60,6 +60,7 @@
     "badge_text_color": "#212121",
     "quickview_enable": false,
     "favicon": "shopify://shop_images/Group_1_9f1575a6-3ad9-4b29-b473-6e253ba32f39.png",
+    "free_shipping_limit": "150",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
