@@ -39,7 +39,7 @@
         "cart_icon_family": "bag",
         "logo": "shopify://shop_images/Logo_Aged_Ivy_90f79b78-2484-446b-93e0-13b31a025141.svg",
         "logo_max_limit": 115,
-        "logo_max_limit_mobile": 50,
+        "logo_max_limit_mobile": 105,
         "main_menu_linklist": "",
         "mobile_menu_linklist": "",
         "enable_search": true,
