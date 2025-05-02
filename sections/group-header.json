@@ -38,7 +38,7 @@
         "show_arrows": false,
         "marquee_speed": 100,
         "message_spacing": 10,
-        "text_size": 2,
+        "text_size": 1,
         "bg_color": "#000000",
         "color": "#ffffff"
       }
