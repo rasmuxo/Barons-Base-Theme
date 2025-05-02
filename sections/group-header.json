@@ -39,8 +39,8 @@
         "marquee_speed": 100,
         "message_spacing": 10,
         "text_size": 2,
-        "bg_color": "#f7f7f7",
-        "color": "#545454"
+        "bg_color": "#000000",
+        "color": "#ffffff"
       }
     },
     "header": {
