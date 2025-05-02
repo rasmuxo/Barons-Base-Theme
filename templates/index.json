@@ -16,14 +16,14 @@
           "type": "heading",
           "settings": {
             "title": "Kith Spring 2024 Delivery",
-            "heading_size": 7
+            "heading_size": 5
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
             "description": "Introducing our latest seasonal collection, defined by an updated springtime palette and new silhouettes.",
-            "text_size": 1,
+            "text_size": 2,
             "text_style": "font-heading"
           }
         },
