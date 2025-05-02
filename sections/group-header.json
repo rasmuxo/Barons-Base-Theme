@@ -69,7 +69,7 @@
         "enable_search": true,
         "show_social_icons": true,
         "show_locale_selector": true,
-        "show_country_selector": true,
+        "show_country_selector": false,
         "show_country_name": false,
         "show_country_flag": true,
         "highlight_item": "Sale",
