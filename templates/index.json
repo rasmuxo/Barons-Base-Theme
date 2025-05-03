@@ -72,6 +72,9 @@
     },
     "section_collection_cGMqxm": {
       "type": "section-collection",
+      "custom_css": [
+        ".product-item__info {display: none;}"
+      ],
       "name": "Featured collection",
       "settings": {
         "heading": "Best Sellers",
