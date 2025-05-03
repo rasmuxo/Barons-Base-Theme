@@ -144,11 +144,11 @@
         "layout_mobile": "2",
         "product_limit": 6,
         "grid": 6,
-        "rows": 3,
+        "rows": 8,
         "bg_color": "",
         "color": "",
-        "padding_top": 32,
-        "padding_bottom": 32
+        "padding_top": 30,
+        "padding_bottom": 30
       }
     },
     "section_collection_cGMqxm": {
