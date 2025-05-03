@@ -55,7 +55,7 @@
         "span {text-transform: uppercase;}",
         ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}",
         ".menu__block--narrow {padding: 0px;}",
-        ".drawer__inner {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(10px);}"
+        ".drawer__inner, .drawer__main-menu {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(10px);}"
       ],
       "settings": {
         "header_sticky": true,
