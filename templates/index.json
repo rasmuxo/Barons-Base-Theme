@@ -89,7 +89,7 @@
         "show_arrow": false,
         "featured_collection": "arizona-cardinals",
         "layout_desktop": "grid",
-        "grid": 4,
+        "grid": 6,
         "rows": 3,
         "width": "wrapper--full-padded",
         "layout_mobile": "2",
