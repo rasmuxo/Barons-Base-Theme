@@ -82,9 +82,9 @@
       ],
       "name": "Featured collection",
       "settings": {
-        "heading": "",
+        "heading": "UNIVERSITY COLLECTION",
         "description": "",
-        "layout": "inline",
+        "layout": "center",
         "link_text": "",
         "link_url": "",
         "button_type": "btn--primary",
