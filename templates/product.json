@@ -28,6 +28,7 @@
         },
         "variants_Mcwp9c": {
           "type": "variants",
+          "disabled": true,
           "settings": {
             "info_page": "",
             "size_chart_style": "text",
@@ -56,8 +57,8 @@
           "settings": {
             "show_read_more": true,
             "style": "accordions",
-            "title_1": "Tab",
-            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_1": "CARE INFO",
+            "raw_content_1": "<p><br/>Cotton – Machine wash cold, tumble dry low, iron on low heat if needed.<br/><br/>Polyester – Machine wash warm, hang to dry, avoid high heat.<br/><br/>Wool – Hand wash cold, lay flat to dry, do not wring or tumble dry.<br/><br/></p>",
             "title_2": "Info",
             "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
             "title_3": "",
