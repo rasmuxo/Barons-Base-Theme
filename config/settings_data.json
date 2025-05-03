@@ -426,7 +426,8 @@
       ".search__caption {font-size: 12.5px; color: black; text-transform: uppercase;}",
       ".search-reset {font-size: 10px; color: black; letter-spacing: 0px;}",
       ".drawer__inner {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);}",
-      ".sliderow,.sliderow__title,.drawer__close, .sliderule__chevron--left {background-color: transparent; color: white;}"
+      ".sliderow,.sliderow__title,.drawer__close,.sliderule__chevron--left {background-color: transparent; color: white;}",
+      ".sliderow:hover,.sliderow__title:hover,.drawer__close:hover,.sliderule__chevron--left:hover {color: black; background-color: transparent;}"
     ]
   }
 }
