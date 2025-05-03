@@ -405,7 +405,7 @@
     "custom_css": [
       "@media (min-width: 768px) {input {border: 1px solid #f1f1f1; } .modal__body {border: 1px solid black; }}",
       ".product-item__info {padding: calc(var(--inner) / 2) 0; text-transform: uppercase; font-size: 10px;}",
-      ".grid {gap: 30px !important;}",
+      ".grid {gap: 12.5px !important;}",
       ".wrapper {max-width: var(--content-max); margin: 0 auto; padding-left: 10px; padding-right: 10px;}",
       ".grid__heading-holder {margin: 0 0 10px;}",
       ".badge-box {font-size: 10px; padding: 5px;}",
