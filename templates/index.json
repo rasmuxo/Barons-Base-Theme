@@ -63,37 +63,6 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_cGMqxm": {
-      "type": "section-collection",
-      "custom_css": [
-        ".product-item__info {display: none;}",
-        ".grid__heading {font-size: 15px;}",
-        "h2,.btn {margin-bottom: 15px;}",
-        "@media (max-width: 768px) {.grid__heading-holder {display: none; }}"
-      ],
-      "name": "Featured collection",
-      "settings": {
-        "heading": "RACKS",
-        "description": "",
-        "layout": "inline",
-        "link_text": "EXPLORE",
-        "link_url": "",
-        "button_type": "btn--black",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": true,
-        "featured_collection": "college-4",
-        "layout_desktop": "grid",
-        "grid": 6,
-        "rows": 3,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 30,
-        "padding_bottom": 30
-      }
-    },
     "section_tab_collections_ytTke7": {
       "type": "section-tab-collections",
       "blocks": {
@@ -101,7 +70,7 @@
           "type": "collection",
           "settings": {
             "title": "T-SHIRTS",
-            "featured_collection": "",
+            "featured_collection": "t-shirts",
             "show_image": true,
             "align_with_product_images": false,
             "overlay_opacity": 0,
@@ -143,17 +112,16 @@
       "custom_css": [
         ".product-item__info {display: none;}",
         ".grid__heading {font-size: 15px;}",
-        "h2,.btn {margin-bottom: 15px;}",
-        "@media (max-width: 768px) {.grid__heading-holder {display: none; }}"
+        "h2,.btn {margin-bottom: 15px;}"
       ],
       "name": "Tab collections",
       "settings": {
-        "title": "RACKS",
+        "title": "EXPLORE RACKS",
         "text": "",
-        "layout": "stacked",
+        "layout": "inline",
         "show_product_count": false,
         "layout_desktop": "grid",
-        "layout_mobile": "slider",
+        "layout_mobile": "2",
         "product_limit": 6,
         "grid": 6,
         "rows": 3,
@@ -161,6 +129,38 @@
         "color": "",
         "padding_top": 32,
         "padding_bottom": 32
+      }
+    },
+    "section_collection_cGMqxm": {
+      "type": "section-collection",
+      "disabled": true,
+      "custom_css": [
+        ".product-item__info {display: none;}",
+        ".grid__heading {font-size: 15px;}",
+        "h2,.btn {margin-bottom: 15px;}",
+        "@media (max-width: 768px) {.grid__heading-holder {display: none; }}"
+      ],
+      "name": "Featured collection",
+      "settings": {
+        "heading": "RACKS",
+        "description": "",
+        "layout": "inline",
+        "link_text": "EXPLORE",
+        "link_url": "",
+        "button_type": "btn--black",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": true,
+        "featured_collection": "college-4",
+        "layout_desktop": "grid",
+        "grid": 6,
+        "rows": 3,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "2",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
       }
     },
     "section_hero_giQfR6": {
@@ -220,8 +220,8 @@
   },
   "order": [
     "section_hero_EGeNPd",
-    "section_collection_cGMqxm",
     "section_tab_collections_ytTke7",
+    "section_collection_cGMqxm",
     "section_hero_giQfR6"
   ]
 }
