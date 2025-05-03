@@ -74,7 +74,7 @@
       "type": "section-collection",
       "custom_css": [
         ".product-item__info {display: none;}",
-        ".grid__heading {font-size: 15px;}"
+        ".grid__heading {font-size: 12.5 px;}"
       ],
       "name": "Featured collection",
       "settings": {
