@@ -30,7 +30,9 @@
       "block_order": [
         "text_cAmPwU"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "p {font-size: 10px;}"
+      ],
       "settings": {
         "show_border": false,
         "layout": "slider",
