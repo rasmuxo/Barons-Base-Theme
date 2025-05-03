@@ -73,8 +73,8 @@
       "settings": {
         "heading": "UNIVERSITY COLLECTION",
         "description": "",
-        "layout": "center",
-        "link_text": "",
+        "layout": "inline",
+        "link_text": "EXPLORE",
         "link_url": "",
         "button_type": "btn--primary",
         "button_size": "",
