@@ -45,7 +45,8 @@
         "button_tidmiF"
       ],
       "custom_css": [
-        "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}"
+        "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}",
+        "h2 {font-weight: 600;}"
       ],
       "settings": {
         "height": "screen-height-full",
