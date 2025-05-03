@@ -56,6 +56,9 @@
         "button_tidmiF",
         "button_TKG9WG"
       ],
+      "custom_css": [
+        "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}"
+      ],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
