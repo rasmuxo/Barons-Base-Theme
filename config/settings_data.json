@@ -399,5 +399,27 @@
       "checkout_error_color": "#c85c42",
       "sale_background_color": "#be563f"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "@media (min-width: 768px) {input {border: 1px solid #f1f1f1; } .modal__body {border: 1px solid black; }}",
+      ".product-item__info {padding: calc(var(--inner) / 2) 0; text-transform: uppercase; font-size: 10px;}",
+      ".grid {gap: 10px !important;}",
+      ".wrapper {max-width: var(--content-max); margin: 0 auto; padding-left: 10px; padding-right: 10px;}",
+      ".grid__heading-holder {margin: 0 0 10px;}",
+      ".badge-box {font-size: 10px; padding: 5px;}",
+      "#SearchInput--desktop,#SearchInput--mobile {font-weight: 400; text-transform: uppercase;}",
+      ".radio__button input:checked ~ label {background-color: black; color: white;}",
+      ".radio__buttons {display: flex; justify-content: center;}",
+      ".cart-bar__product__title,.cart-bar__product__price {font-size: 12.5px;}",
+      ".product-item__cutline {display: none;}",
+      ".product-item__title,.product-item__price,.new-price {font-size: 10px; color: black;}",
+      ".product-item__title {font-weight: 600;}",
+      ".no-results {font-size: 10px; text-transform: uppercase;}",
+      ".badge-box {font-size: 12.5px;}",
+      "badge-box::first-letter {color: red;}",
+      ".search__caption {font-size: 12.5px; color: black; text-transform: uppercase;}",
+      ".search-reset {font-size: 10px; color: black; letter-spacing: 0px;}"
+    ]
   }
 }
