@@ -67,7 +67,7 @@
       "custom_css": [
         ".product-item__info {display: none;}",
         ".grid__heading {font-size: 15px;}",
-        "h2 {padding-bottom: 15px;}"
+        "h2, .btn {padding-bottom: 15px;}"
       ],
       "name": "Featured collection",
       "settings": {
