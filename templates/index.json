@@ -73,7 +73,8 @@
     "section_collection_cGMqxm": {
       "type": "section-collection",
       "custom_css": [
-        ".product-item__info {display: none;}"
+        ".product-item__info {display: none;}",
+        ".grid__heading {font-size: 15px;}"
       ],
       "name": "Featured collection",
       "settings": {
