@@ -94,6 +94,75 @@
         "padding_bottom": 30
       }
     },
+    "section_tab_collections_ytTke7": {
+      "type": "section-tab-collections",
+      "blocks": {
+        "collection_jrQRUc": {
+          "type": "collection",
+          "settings": {
+            "title": "T-SHIRTS",
+            "featured_collection": "",
+            "show_image": true,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "description": "",
+            "color": "#fff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "collection_pBUbcT": {
+          "type": "collection",
+          "settings": {
+            "title": "SWEATSHIRTS",
+            "featured_collection": "",
+            "show_image": true,
+            "align_with_product_images": false,
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "description": "",
+            "color": "#fff",
+            "link_text": "View products",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_jrQRUc",
+        "collection_pBUbcT"
+      ],
+      "custom_css": [
+        ".product-item__info {display: none;}",
+        ".grid__heading {font-size: 15px;}",
+        "h2,.btn {margin-bottom: 15px;}",
+        "@media (max-width: 768px) {.grid__heading-holder {display: none; }}"
+      ],
+      "name": "Tab collections",
+      "settings": {
+        "title": "RACKS",
+        "text": "",
+        "layout": "stacked",
+        "show_product_count": false,
+        "layout_desktop": "grid",
+        "layout_mobile": "slider",
+        "product_limit": 6,
+        "grid": 6,
+        "rows": 3,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
     "section_hero_giQfR6": {
       "type": "section-hero",
       "blocks": {
@@ -152,6 +221,7 @@
   "order": [
     "section_hero_EGeNPd",
     "section_collection_cGMqxm",
+    "section_tab_collections_ytTke7",
     "section_hero_giQfR6"
   ]
 }
