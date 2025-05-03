@@ -54,7 +54,8 @@
         ".theme__header {--PT: 0px; --PB: 0px;}",
         "span {text-transform: uppercase;}",
         ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}",
-        ".menu__block--narrow {padding: 0px;}"
+        ".menu__block--narrow {padding: 0px;}",
+        ".drawer--header,.drawer__inner {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(10px);}"
       ],
       "settings": {
         "header_sticky": true,
