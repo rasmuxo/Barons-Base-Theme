@@ -15,21 +15,14 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "IVY X REALTREE",
-            "heading_size": 4
-          }
-        },
-        "heading_XTeUrj": {
-          "type": "heading",
-          "settings": {
-            "title": "'FADED CAMO SHORTS'",
+            "title": "IVY X REALTREE 'FADED CAMO SHORTS'",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "Introducing our latest seasonal collection, defined by an updated springtime palette and new silhouettes.d",
+            "description": "Introducing our latest seasonal collection, defined by an updated springtime palette and new silhouettes.",
             "text_size": 3,
             "text_style": "font-body"
           }
@@ -59,7 +52,6 @@
       },
       "block_order": [
         "heading_Deh4At",
-        "heading_XTeUrj",
         "text_kz9Cck",
         "button_tidmiF",
         "button_TKG9WG"
