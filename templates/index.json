@@ -100,14 +100,14 @@
         "heading_CJ9njG": {
           "type": "heading",
           "settings": {
-            "title": "IVY X REALTREE® 'FADED CAMO SHORTS'",
+            "title": "ADIDAS TRACK SHORTS LIVE",
             "heading_size": 4
           }
         },
         "text_JXHGRg": {
           "type": "text",
           "settings": {
-            "description": "We are excited to announce an official collaboration with REALTREE®",
+            "description": "Explore vintage Adidas track shorts live now",
             "text_size": 3,
             "text_style": "font-body"
           }
@@ -136,7 +136,7 @@
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/20250225-_PP12029.jpg",
+        "image_1": "shopify://shop_images/IMG_1856.heic",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
         "flex_align_desktop": "align--bottom-center-desktop",
