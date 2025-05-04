@@ -47,40 +47,27 @@
         "Email": {
           "type": "email",
           "settings": {
-            "title": "Email",
+            "title": "EMAIL",
             "required": true
           }
         },
         "Message": {
           "type": "body",
           "settings": {
-            "title": "Message",
+            "title": "MESSAGE",
             "required": true
-          }
-        },
-        "Optional-text": {
-          "type": "formHeading",
-          "settings": {
-            "title": "Optional"
-          }
-        },
-        "Urgent-checkbox": {
-          "type": "checkbox",
-          "settings": {
-            "title": "This is urgent",
-            "required": false
           }
         },
         "Options-select": {
           "type": "select",
           "settings": {
-            "title": "Select an option",
-            "label-one": "- Pick an option -",
-            "label-two": "Option one",
-            "label-three": "Option two",
-            "label-four": "Option three",
-            "label-five": "Option four",
-            "label-six": "Option five"
+            "title": "",
+            "label-one": "PLEASE SELECT",
+            "label-two": "ORDER STATUS",
+            "label-three": "RETURN AN ORDER",
+            "label-four": "SHIPPING/TRACKING",
+            "label-five": "REPORT AN ISSUE",
+            "label-six": "OTHER"
           }
         }
       },
@@ -89,8 +76,6 @@
         "text_UgEnXt",
         "Email",
         "Message",
-        "Optional-text",
-        "Urgent-checkbox",
         "Options-select"
       ],
       "custom_css": [
