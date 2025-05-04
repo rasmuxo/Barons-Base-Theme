@@ -133,9 +133,8 @@
         ".product-item__info {display: none;}",
         ".grid__heading,span {font-size: 15px;}",
         "h2,.btn {margin-bottom: 15px;}",
-        ".current span {color: white; background-color: black;}",
-        ".tabs > li.current span {background-size: 100% 0px; padding: 15px;}",
-        ".tabs > li.current span:hover {background-size: 100% 0px; padding: 15px;}"
+        ".current span {color: white; background-color: black; transition: none; }",
+        ".tabs > li.current span {background-size: 100% 0px; padding: 15px;}"
       ],
       "name": "Tab collections",
       "settings": {
