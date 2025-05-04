@@ -136,13 +136,65 @@
             "icon_size": 20,
             "icon_color": "#545454"
           }
+        },
+        "question_kTMg3D": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "WHY WAS MY ORDER CANCELED?",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_GFtCn9": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "MY PRODUCT WAS DAMAGED WHEN I RECEIVED IT... WHAT SHOULD I DO?",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_Xy7dGK": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "HOW LONG WILL IT TAKE FOR MY ORDER TO ARRIVE?",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_PibHMF": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "IF AN ITEM IS SOLD OUT, WHEN WILL IT BE BACK IN STOCK?",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
         }
       },
       "block_order": [
         "heading_bHXNnc",
         "question_CKPeKX",
         "question_z76UWM",
-        "question_tqKCEz"
+        "question_tqKCEz",
+        "question_kTMg3D",
+        "question_GFtCn9",
+        "question_Xy7dGK",
+        "question_PibHMF"
       ],
       "custom_css": [
         ".accordion__heading {font-size: 20px; font-weight: 600; text-align: left;}",
