@@ -42,7 +42,7 @@
         "marquee_speed": 100,
         "message_spacing": 10,
         "text_size": 1,
-        "bg_color": "#df6245",
+        "bg_color": "#000000",
         "color": "#ffffff"
       }
     },
