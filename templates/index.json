@@ -132,7 +132,8 @@
       "custom_css": [
         ".product-item__info {display: none;}",
         ".grid__heading,span {font-size: 15px;}",
-        "h2,.btn {margin-bottom: 15px;}"
+        "h2,.btn {margin-bottom: 15px;}",
+        ".current span {display: inline-block; padding: 10px; color: white; background-color: black; text-decoration: none;}"
       ],
       "name": "Tab collections",
       "settings": {
