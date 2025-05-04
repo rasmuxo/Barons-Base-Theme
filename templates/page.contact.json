@@ -33,7 +33,14 @@
         "Name": {
           "type": "text",
           "settings": {
-            "title": "Full Name",
+            "title": "NAME",
+            "required": false
+          }
+        },
+        "text_UgEnXt": {
+          "type": "text",
+          "settings": {
+            "title": "ORDER NUMBER",
             "required": false
           }
         },
@@ -79,6 +86,7 @@
       },
       "block_order": [
         "Name",
+        "text_UgEnXt",
         "Email",
         "Message",
         "Optional-text",
