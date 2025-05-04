@@ -91,10 +91,79 @@
         "padding_top": 30,
         "padding_bottom": 30
       }
+    },
+    "section_accordion_group_46KhFr": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_bHXNnc": {
+          "type": "heading",
+          "settings": {
+            "title": "FREQUENTLY ASKED QUESTIONS"
+          }
+        },
+        "question_CKPeKX": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_z76UWM": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_tqKCEz": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bHXNnc",
+        "question_CKPeKX",
+        "question_z76UWM",
+        "question_tqKCEz"
+      ],
+      "custom_css": [
+        ".accordion__heading {font-size: 20px; font-weight: 600; text-align: left;}",
+        ".accordion__title {font-size: 10px; font-weight: 600;}",
+        ".accordion__content {color: black; font-size: 10px; opacity: 1;}"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "width": "wrapper",
+        "columns": "1",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 30
+      }
     }
   },
   "order": [
     "main",
-    "contact"
+    "contact",
+    "section_accordion_group_46KhFr"
   ]
 }
