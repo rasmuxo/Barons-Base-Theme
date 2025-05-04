@@ -136,7 +136,7 @@
         ".current span {color: white; background-color: black; transition: none;}",
         ".tabs > li.current span {background-size: 100% 0px; padding: 15px;}",
         ".tabs > li span {background-size: 0% 0px;}",
-        "@media (max-width: 767px) {.grid__heading-text {text-align: center; }}"
+        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}"
       ],
       "name": "Tab collections",
       "settings": {
