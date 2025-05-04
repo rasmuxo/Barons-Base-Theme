@@ -74,9 +74,9 @@
             "show_image": false,
             "align_with_product_images": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "description": "<p>T-SHIRTS</p>",
-            "color": "#fff",
+            "color": "#ffffff",
             "link_text": "SHOP NOW",
             "link": "",
             "button_type": "btn--white",
@@ -93,9 +93,9 @@
             "show_image": false,
             "align_with_product_images": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "description": "<p>SWEATSHIRTS</p>",
-            "color": "#fff",
+            "color": "#ffffff",
             "link_text": "SHOP NOW",
             "link": "",
             "button_type": "btn--white",
@@ -222,6 +222,7 @@
         "text_JXHGRg",
         "button_7agMB4"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}",
         "h2 {font-weight: 600;}"
