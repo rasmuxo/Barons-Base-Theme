@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "ie11_support_message": "This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox.",
@@ -508,7 +517,7 @@
   "password": {
     "page": {
       "title": "Opening Soon",
-      "powered_by": "This store will be powered by"
+      "powered_by": " "
     },
     "form": {
       "success": "Thank you for signing up!",
@@ -521,6 +530,16 @@
       "store_login": "Store Login",
       "newsletter_signup": "Newsletter Signup",
       "login": "Login"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "autocomplete_powered_by_google": " "
+      }
+    },
+    "links": {
+      "powered_by_shopify": " "
     }
   }
 }
