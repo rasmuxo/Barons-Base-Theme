@@ -23,6 +23,18 @@
         "padding_bottom": 30
       }
     },
+    "section_divider_6wXiWJ": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "border_color": "#f2f2f2",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -98,6 +110,7 @@
   "order": [
     "section_divider_4wR89j",
     "footer",
+    "section_divider_6wXiWJ",
     "supporting-menu"
   ]
 }
