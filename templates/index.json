@@ -46,7 +46,8 @@
       ],
       "custom_css": [
         "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}",
-        "h2 {font-weight: 600;}"
+        "h2 {font-weight: 600;}",
+        ".btn {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);}"
       ],
       "settings": {
         "height": "screen-height-full",
