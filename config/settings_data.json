@@ -407,7 +407,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".product-item__title,.product-item__price,span {font-size: 12.5px; font-weight: 400;}",
+      ".product-item__title,.product-item__price {font-size: 15px; font-weight: 400;}",
       ".grid__heading {font-size: 15px;}"
     ]
   }
