@@ -45,7 +45,7 @@
       "type": "collection",
       "custom_css": [
         ".product-item__info {display: none;}",
-        ".grid__heading,span {font-size: 15px;}",
+        ".badge-box {font-size: 15px;}",
         "h2,.btn {margin-bottom: 15px;}",
         ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
         ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
