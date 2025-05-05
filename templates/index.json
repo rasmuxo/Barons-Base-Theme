@@ -89,7 +89,7 @@
           "type": "collection",
           "settings": {
             "title": "SWEATSHIRTS",
-            "featured_collection": "sweaters-1",
+            "featured_collection": "shop-all-1",
             "show_image": false,
             "align_with_product_images": false,
             "overlay_opacity": 0,
