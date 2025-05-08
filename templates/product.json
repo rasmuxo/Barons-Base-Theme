@@ -107,7 +107,7 @@
         "related_dQgxbi": {
           "type": "related",
           "settings": {
-            "product_recommendations_heading": "Related products",
+            "product_recommendations_heading": "YOU MIGHT ALSO LIKE...",
             "limit": 4
           }
         }
@@ -120,7 +120,7 @@
       ],
       "settings": {
         "enable_tabs": false,
-        "heading_alignment": "text-left",
+        "heading_alignment": "text-center",
         "heading_size": 4,
         "bg_color": "",
         "color": "",
