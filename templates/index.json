@@ -204,12 +204,13 @@
         "image_e3ETqP": {
           "type": "image",
           "settings": {
-            "overlay_opacity": 0,
+            "image": "shopify://shop_images/IMG_4295.jpg",
+            "overlay_opacity": 35,
             "overlay_color": "#000",
-            "show_overlay_text": false,
+            "show_overlay_text": true,
             "title": "NEW ARRIVALS",
             "heading_size": 4,
-            "description": "Explore our latest curated collection of vintage Adidas track shorts. Live now. Selling fast.",
+            "description": "Explore the latest additions to the Aged Ivy curation. New pieces daily.",
             "text_size": 3,
             "flex_align": "align--bottom-center",
             "bg_color": "",
