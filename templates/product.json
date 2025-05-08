@@ -9,18 +9,6 @@
  */
 {
   "sections": {
-    "section_divider_wypai9": {
-      "type": "section-divider",
-      "name": "Divider",
-      "settings": {
-        "show_line": true,
-        "width": "wrapper--full",
-        "border_color": "#f2f2f2",
-        "bg_color": "",
-        "padding_top": 30,
-        "padding_bottom": 0
-      }
-    },
     "main": {
       "type": "product",
       "blocks": {
@@ -113,6 +101,18 @@
         "padding_bottom": 30
       }
     },
+    "section_divider_wypai9": {
+      "type": "section-divider",
+      "name": "Divider",
+      "settings": {
+        "show_line": true,
+        "width": "wrapper--full",
+        "border_color": "#f2f2f2",
+        "bg_color": "",
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
     "related": {
       "type": "related",
       "blocks": {
@@ -143,8 +143,8 @@
     }
   },
   "order": [
-    "section_divider_wypai9",
     "main",
+    "section_divider_wypai9",
     "related"
   ]
 }
