@@ -26,6 +26,15 @@
             "padding_bottom": 16
           }
         },
+        "text_TUczFe": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>★ ★ ★ ★ ★</strong> - RATED 5 STARS BY 10,000+ CUSTOMERS</p>",
+            "layout": "left",
+            "padding_bottom": 16
+          }
+        },
         "variants_Mcwp9c": {
           "type": "variants",
           "disabled": true,
@@ -74,6 +83,7 @@
       "block_order": [
         "title_mW6eDH",
         "price_azRYwM",
+        "text_TUczFe",
         "variants_Mcwp9c",
         "buttons_gJMV8G",
         "pickup",
