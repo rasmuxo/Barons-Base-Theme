@@ -55,6 +55,7 @@
         "image_1": "shopify://shop_images/20250225-_PP12029.jpg",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
+        "mobile_image": "shopify://shop_images/20250225-_PP11785.jpg",
         "flex_align_desktop": "align--bottom-center-desktop",
         "flex_align_mobile": "align--bottom-center-mobile",
         "overlay_opacity": 35,
