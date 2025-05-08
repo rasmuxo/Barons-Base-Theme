@@ -115,9 +115,12 @@
       "block_order": [
         "related_dQgxbi"
       ],
+      "custom_css": [
+        "h2 {font-size: 15px; text-transform: uppercase;}"
+      ],
       "settings": {
-        "enable_tabs": true,
-        "heading_alignment": "text-center",
+        "enable_tabs": false,
+        "heading_alignment": "text-left",
         "heading_size": 4,
         "bg_color": "",
         "color": "",
