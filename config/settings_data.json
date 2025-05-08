@@ -407,7 +407,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".product-item__title,.product-item__price,.new-price,.price, .sold-out {font-size: 12.5px !important; font-weight: 400 !important;}",
+      ".product-item__title,.product-item__price,.new-price,.price,.sold-out {font-size: 12.5px !important; font-weight: 400 !important;}",
       ".grid__heading {font-size: 15px;}",
       ".product-link {display: flex; justify-content: space-between; align-items: top;}",
       ".product-item__title {margin: 0; flex: 1;}",
