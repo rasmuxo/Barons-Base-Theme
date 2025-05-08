@@ -182,9 +182,10 @@
         "image_hMFchP": {
           "type": "image",
           "settings": {
-            "overlay_opacity": 0,
+            "image": "shopify://shop_images/IMG_1856.heic",
+            "overlay_opacity": 35,
             "overlay_color": "#000",
-            "show_overlay_text": false,
+            "show_overlay_text": true,
             "title": "TRACK SHORTS",
             "heading_size": 4,
             "description": "Explore our latest curated collection of vintage Adidas track shorts. Live now. Selling fast.",
