@@ -93,16 +93,16 @@
           "settings": {
             "title": "SWEATSHIRTS",
             "featured_collection": "shop-all-1",
-            "show_image": false,
-            "align_with_product_images": false,
+            "show_image": true,
+            "align_with_product_images": true,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
-            "description": "<p>SWEATSHIRTS</p>",
+            "description": "",
             "color": "#ffffff",
-            "link_text": "SHOP NOW",
+            "link_text": "SHOP ALL",
             "link": "",
             "button_type": "btn--white",
-            "button_size": "",
+            "button_size": "btn--small",
             "button_style": "btn--solid",
             "show_arrow": true
           }
