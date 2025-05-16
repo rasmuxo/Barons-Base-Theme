@@ -25,10 +25,23 @@
             "target_device_enabled": false,
             "target_device": "mobile"
           }
+        },
+        "text_VQRX7k": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SHIPS SAME OR NEXT BUSINESS DAY</p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
         }
       },
       "block_order": [
-        "text_cAmPwU"
+        "text_cAmPwU",
+        "text_VQRX7k"
       ],
       "custom_css": [
         "p {font-size: 12.5px;}"
