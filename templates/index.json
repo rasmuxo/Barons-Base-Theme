@@ -99,6 +99,136 @@
         "padding_bottom": 30
       }
     },
+    "section_double_kHKeyT": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_WxTxJD": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Introducing",
+            "text_size": 3,
+            "padding_bottom": 16
+          }
+        },
+        "heading_zP4VNm": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "text_size": 8,
+            "padding_bottom": 16
+          }
+        },
+        "text_VNDNF3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        },
+        "buttons_zdLbYE": {
+          "type": "buttons",
+          "settings": {
+            "button_text": "Learn more",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false,
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_WxTxJD",
+        "heading_zP4VNm",
+        "text_VNDNF3",
+        "buttons_zdLbYE"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_width": "one-half",
+        "text_alignment": "text-center",
+        "reverse_blocks": false,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_NRCUjQ": {
+      "type": "section-collection",
+      "custom_css": [
+        ".product-item__info {font-size: 12.5px;}",
+        ".grid__heading,span {font-size: 15px; font-weight: 600;}",
+        ".btn {margin-bottom: 12.5px;}",
+        ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
+        ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
+        ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
+        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}"
+      ],
+      "name": "Featured collection",
+      "settings": {
+        "heading": "EXPLORE RACKS",
+        "description": "",
+        "layout": "inline",
+        "link_text": "SHOP ALL",
+        "link_url": "shopify://collections/all",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "tops-2",
+        "layout_desktop": "grid",
+        "grid": 6,
+        "rows": 3,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
+    "section_collection_dnkDAf": {
+      "type": "section-collection",
+      "custom_css": [
+        ".product-item__info {font-size: 12.5px;}",
+        ".grid__heading,span {font-size: 15px; font-weight: 600;}",
+        ".btn {margin-bottom: 12.5px;}",
+        ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
+        ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
+        ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
+        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}"
+      ],
+      "name": "Featured collection",
+      "settings": {
+        "heading": "EXPLORE RACKS",
+        "description": "",
+        "layout": "inline",
+        "link_text": "SHOP ALL",
+        "link_url": "shopify://collections/all",
+        "button_type": "btn--primary",
+        "button_size": "btn--small",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "tops-2",
+        "layout_desktop": "grid",
+        "grid": 6,
+        "rows": 3,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    },
     "section_tab_collections_ytTke7": {
       "type": "section-tab-collections",
       "blocks": {
@@ -265,6 +395,7 @@
         "image_hMFchP",
         "image_e3ETqP"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-weight: 600;}",
         ".btn {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); color: white;}"
@@ -285,6 +416,9 @@
   "order": [
     "section_hero_EGeNPd",
     "section_collection_NDJPQa",
+    "section_double_kHKeyT",
+    "section_collection_NRCUjQ",
+    "section_collection_dnkDAf",
     "section_tab_collections_ytTke7",
     "section_custom_content_exCLPW"
   ]
