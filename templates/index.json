@@ -90,7 +90,7 @@
         "featured_collection": "tops-2",
         "layout_desktop": "grid",
         "grid": 6,
-        "rows": 3,
+        "rows": 2,
         "width": "wrapper--full-padded",
         "layout_mobile": "slider",
         "bg_color": "",
