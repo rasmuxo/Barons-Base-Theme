@@ -102,14 +102,6 @@
     "section_double_kHKeyT": {
       "type": "section-double",
       "blocks": {
-        "subheading_WxTxJD": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "Introducing",
-            "text_size": 3,
-            "padding_bottom": 16
-          }
-        },
         "heading_zP4VNm": {
           "type": "heading",
           "settings": {
@@ -141,7 +133,6 @@
         }
       },
       "block_order": [
-        "subheading_WxTxJD",
         "heading_zP4VNm",
         "text_VNDNF3",
         "buttons_zdLbYE"
