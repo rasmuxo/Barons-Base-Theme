@@ -174,11 +174,11 @@
       ],
       "name": "Featured collection",
       "settings": {
-        "heading": "EXPLORE RACKS",
+        "heading": "CIG / ALC DROP",
         "description": "",
         "layout": "inline",
         "link_text": "SHOP ALL",
-        "link_url": "shopify://collections/all",
+        "link_url": "shopify://collections/alcohol-2",
         "button_type": "btn--primary",
         "button_size": "btn--small",
         "button_style": "btn--solid",
