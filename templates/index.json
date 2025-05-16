@@ -350,11 +350,11 @@
         "image_RqygLk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_1856.heic",
+            "image": "shopify://shop_images/IMG_3383_ba40016a-2229-430f-b73d-30787a2afb46.jpg",
             "overlay_opacity": 25,
             "overlay_color": "#000",
             "show_overlay_text": true,
-            "title": "TRACK SHORTS",
+            "title": "CIG/ALC TOPS",
             "heading_size": 4,
             "description": "Explore our latest curated collection of vintage Adidas track shorts. Live now. Selling fast.",
             "text_size": 3,
@@ -363,7 +363,7 @@
             "bg_color": "",
             "color": "#FFFFFF",
             "first_button_text": "View products",
-            "first_button_link": "shopify://collections/track-shorts",
+            "first_button_link": "shopify://collections/alcohol-2",
             "first_button_type": "btn--white",
             "first_button_size": "",
             "first_button_style": "btn--solid",
