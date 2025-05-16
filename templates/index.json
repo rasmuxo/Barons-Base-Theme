@@ -57,7 +57,7 @@
         "mobile_height": "screen-height-full--mobile",
         "mobile_image": "shopify://shop_images/20250225-_PP11785.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
-        "flex_align_mobile": "align--bottom-center-mobile",
+        "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
         "overlay_color": "#000000",
         "show_overlay_text": true,
