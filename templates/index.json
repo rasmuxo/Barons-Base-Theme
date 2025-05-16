@@ -123,7 +123,7 @@
           "type": "buttons",
           "settings": {
             "button_text": "SHOP CAMO SHORTS",
-            "button_url": "",
+            "button_url": "shopify://products/faded-realtree-camo-shorts",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
