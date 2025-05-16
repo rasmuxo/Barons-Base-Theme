@@ -65,6 +65,40 @@
         "color": "#ffffff"
       }
     },
+    "section_collection_NDJPQa": {
+      "type": "section-collection",
+      "custom_css": [
+        ".product-item__info {font-size: 12.5px;}",
+        ".grid__heading,span {font-size: 15px; font-weight: 600;}",
+        "h2,.btn {margin-bottom: 15px;}",
+        ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
+        ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
+        ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
+        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}"
+      ],
+      "name": "Featured collection",
+      "settings": {
+        "heading": "EXPLORE RACKS",
+        "description": "",
+        "layout": "inline",
+        "link_text": "SHOP ALL",
+        "link_url": "shopify://collections/all",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper--full-padded",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_tab_collections_ytTke7": {
       "type": "section-tab-collections",
       "blocks": {
@@ -152,6 +186,7 @@
         "collection_3nx9H3",
         "collection_whaNFQ"
       ],
+      "disabled": true,
       "custom_css": [
         ".product-item__info {font-size: 12.5px;}",
         ".grid__heading,span {font-size: 15px; font-weight: 600;}",
@@ -249,6 +284,7 @@
   },
   "order": [
     "section_hero_EGeNPd",
+    "section_collection_NDJPQa",
     "section_tab_collections_ytTke7",
     "section_custom_content_exCLPW"
   ]
