@@ -16,7 +16,7 @@
           "type": "text",
           "settings": {
             "description": "★ ★ ★ ★ ★  -  Rated 4.9 Stars",
-            "text_size": 3,
+            "text_size": 4,
             "text_style": "font-heading"
           }
         },
@@ -31,7 +31,7 @@
           "type": "text",
           "settings": {
             "description": "Build your own engine with hands-on DIY kits – perfect for enthusiasts who want to learn, tinker, and bring mechanical systems to life.",
-            "text_size": 3,
+            "text_size": 4,
             "text_style": "font-body"
           }
         },
@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         ".btn {border-radius: 100px; width: 200px;}",
-        ".hero__content {padding-bottom: 7.5%; width: 80%}"
+        ".hero__content {padding-bottom: 7.5%; width: 80%;}"
       ],
       "settings": {
         "height": "screen-height-full",
