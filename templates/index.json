@@ -44,6 +44,9 @@
         "text_kz9Cck",
         "button_tidmiF"
       ],
+      "custom_css": [
+        ".btn {border-radius: 100px;}"
+      ],
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
