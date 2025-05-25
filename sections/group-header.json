@@ -57,7 +57,7 @@
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
-        "logo": "shopify://shop_images/bostonwhite.png",
+        "logo": "shopify://shop_images/bostonblack.png",
         "logo_max_limit": 100,
         "logo_max_limit_mobile": 100,
         "main_menu_linklist": "",
