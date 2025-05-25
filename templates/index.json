@@ -55,7 +55,7 @@
       ],
       "custom_css": [
         ".btn {border-radius: 100px; width: 200px;}",
-        ".hero__content {padding-bottom: 7.5%;}"
+        ".hero__content {padding-bottom: 7.5%; width: 80%}"
       ],
       "settings": {
         "height": "screen-height-full",
