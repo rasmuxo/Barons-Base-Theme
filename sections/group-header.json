@@ -31,7 +31,7 @@
         "text_xiXHeU"
       ],
       "custom_css": [
-        ".announcement__bar {--gradient: linear-gradient(42deg, rgba(238, 115, 115, 1), rgba(238, 109, 115, 1) 4%, rgba(238, 109, 115, 1) 6%, rgba(254, 184, 129, 1) 100%, rgba(254, 207, 135, 1) 100%, rgba(238, 102, 131, 1) 100%); --text-color: 255 255 255;}"
+        ".announcement__bar-holder {--gradient: linear-gradient( 42deg, rgba(238, 115, 115, 1), rgba(238, 109, 115, 1) 4%, rgba(238, 109, 115, 1) 6%, rgba(254, 184, 129, 1) 100%, rgba(254, 207, 135, 1) 100%, rgba(238, 102, 131, 1) 100% ); --text-color: 255 255 255;}"
       ],
       "settings": {
         "show_border": false,
