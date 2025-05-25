@@ -54,7 +54,8 @@
         "button_tidmiF"
       ],
       "custom_css": [
-        ".btn {border-radius: 100px; width: 200px;}"
+        ".btn {border-radius: 100px; width: 200px;}",
+        ".hero__content {padding-bottom: 7.5%;}"
       ],
       "settings": {
         "height": "screen-height-full",
