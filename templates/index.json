@@ -12,6 +12,14 @@
     "section_hero_EGeNPd": {
       "type": "section-hero",
       "blocks": {
+        "text_DT4HRP": {
+          "type": "text",
+          "settings": {
+            "description": "★ ★ ★ ★ ★ - Rated 4.9 stars",
+            "text_size": 5,
+            "text_style": "font-heading"
+          }
+        },
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
@@ -40,12 +48,13 @@
         }
       },
       "block_order": [
+        "text_DT4HRP",
         "heading_Deh4At",
         "text_kz9Cck",
         "button_tidmiF"
       ],
       "custom_css": [
-        ".btn {border-radius: 100px;}"
+        ".btn {border-radius: 100px; font-weight: ;}"
       ],
       "settings": {
         "height": "screen-height-full",
