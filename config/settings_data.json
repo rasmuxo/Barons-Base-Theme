@@ -52,7 +52,7 @@
     "facebook_link": "https://facebook.com/shopify",
     "twitter_link": "https://twitter.com/shopify",
     "tiktok_link": "https://tiktok.com/@shopify",
-    "product_grid_center": false,
+    "product_grid_center": true,
     "product_grid_aspect_ratio": 1,
     "sale_bg_color": "#f9dee5",
     "sale_text_color": "#af7b88",
