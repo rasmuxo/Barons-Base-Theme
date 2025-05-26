@@ -106,6 +106,7 @@
       ],
       "name": "Video",
       "settings": {
+        "video": "shopify://files/videos/23534057cf664f59b0c3e6d72181b9bc.HD-720p-3.0Mbps.mp4",
         "show_video_popup": false,
         "video_popup_social": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "desktop_height": "screen-height-one-half",
