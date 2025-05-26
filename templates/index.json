@@ -73,6 +73,9 @@
     },
     "section_collection_hjW687": {
       "type": "section-collection",
+      "custom_css": [
+        "h2 {font-size: 32px;}"
+      ],
       "settings": {
         "heading": "Bestsellers",
         "description": "",
