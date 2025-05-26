@@ -181,12 +181,16 @@
         "question_aKqYtG",
         "question_b3k7DJ"
       ],
+      "custom_css": [
+        ".accordion__heading {font-size: 32px; text-align: left;}",
+        ".accordion__content, .accordion__title {color: black; font-size: 18px; opacity: 1;}"
+      ],
       "name": "Accordion group",
       "settings": {
-        "width": "wrapper--narrow",
+        "width": "wrapper",
         "columns": "1",
         "bg_color": "",
-        "color": "",
+        "color": "#000000",
         "border_color": "",
         "padding_top": 50,
         "padding_bottom": 50
