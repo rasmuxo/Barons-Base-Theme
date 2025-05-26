@@ -199,24 +199,12 @@
             "title": "Learn more"
           }
         },
-        "question_694EaH": {
-          "type": "question",
-          "settings": {
-            "default_open": false,
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
-            "show_icon": false,
-            "icon_name": "icon-award",
-            "icon_size": 20,
-            "icon_color": "#545454"
-          }
-        },
         "question_aKqYtG": {
           "type": "question",
           "settings": {
             "default_open": false,
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "title": "Who are our products for?",
+            "content": "<p>Boston Physics Supply products are made for <em>everyone</em>. Whether you're a curious student, a passionate hobbyist, a parent looking for an educational gift, or someone who just enjoys building cool stuff—you'll love our hands-on kits. No experience required—just curiosity.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -227,8 +215,44 @@
           "type": "question",
           "settings": {
             "default_open": false,
-            "title": "Frequently asked question",
-            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "title": "Do I need any special tools or skills to get started?",
+            "content": "<p>Not at all. Most of our model kits and RC items come with everything you need right in the box. Clear instructions make it easy to build, learn, and play—whether you're 12 or 60.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_694EaH": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Are these just for fun, or do they teach something too?",
+            "content": "<p><br/>Both. Every item we sell is designed to <em>ignite creativity</em> while teaching real-world physics and engineering concepts. You’ll learn how engines work, how gears move, and even how radio control systems operate—all while having a blast.<br/><br/></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_3Gm3Xr": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "How long does shipping take?",
+            "content": "<p>We ship worldwide, with delivery times typically ranging from <strong>7–14 business days</strong> depending on your location. You’ll get a tracking number as soon as your order is on the way. Worth the short wait—promise.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_n8yaPk": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "What if I mess up or don’t like it?",
+            "content": "<p><br/>No worries. We offer <strong>easy returns and responsive support</strong>. If something’s not right, our team is here to make it right—whether that’s troubleshooting a build or helping with a return. Your satisfaction is guaranteed.<br/></p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -238,9 +262,11 @@
       },
       "block_order": [
         "heading_xMeCmY",
-        "question_694EaH",
         "question_aKqYtG",
-        "question_b3k7DJ"
+        "question_b3k7DJ",
+        "question_694EaH",
+        "question_3Gm3Xr",
+        "question_n8yaPk"
       ],
       "custom_css": [
         ".accordion__heading {font-size: 32px; text-align: left;}",
