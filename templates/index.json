@@ -74,7 +74,8 @@
     "section_collection_hjW687": {
       "type": "section-collection",
       "custom_css": [
-        "h2 {font-size: 32px;}"
+        "h2 {font-size: 32px;}",
+        ".product-item__image {border-radius: 18px;}"
       ],
       "settings": {
         "heading": "Bestsellers",
