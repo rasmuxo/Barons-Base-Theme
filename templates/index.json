@@ -135,7 +135,7 @@
         "heading_xMeCmY": {
           "type": "heading",
           "settings": {
-            "title": "FAQ"
+            "title": "About us"
           }
         },
         "question_694EaH": {
@@ -183,7 +183,7 @@
       ],
       "custom_css": [
         ".accordion__heading {font-size: 32px; text-align: left;}",
-        ".accordion__content, .accordion__title {color: black; font-size: 18px; opacity: 1;}"
+        ".accordion__content,.accordion__title {color: black; font-size: 18px; opacity: 1;}"
       ],
       "name": "Accordion group",
       "settings": {
