@@ -370,7 +370,7 @@
       ],
       "custom_css": [
         ".column__content {justify-content: center; align-items: center; text-align: center;}",
-        ".grid-item {border: 1px solid #dfdfdf; background-color: #f2f2f2; border-radius: 3px; overflow: hidden;}",
+        ".grid-item {border: 1px solid #dfdfdf; background-color: #f2f2f2; border-radius: 18px; overflow: hidden;}",
         ".column__heading {color: #ee9841;}",
         ".grid__heading {font-size: 32px;}",
         "h2 {font-size: 32px;}"
