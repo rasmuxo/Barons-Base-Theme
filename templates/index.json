@@ -102,7 +102,7 @@
     "section_video_PTr8NL": {
       "type": "section-video",
       "custom_css": [
-        ".image__hero__pane,.video__player {border: 1px solid #ececec; border-radius: 18px;}"
+        ".image__hero__pane,.video__player {border: 2px solid #ececec !important; border-radius: 18px;}"
       ],
       "name": "Video",
       "settings": {
