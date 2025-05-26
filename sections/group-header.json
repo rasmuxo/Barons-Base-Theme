@@ -49,12 +49,13 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}"
+        ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}",
+        ".section-padding {--PT: 0px; --PB: 0px;}"
       ],
       "settings": {
         "header_sticky": true,
         "header_style": "logo_center_menu_left",
-        "show_separator_line": false,
+        "show_separator_line": true,
         "separator_opacity": 50,
         "show_icons": true,
         "icon_as_circle": false,
