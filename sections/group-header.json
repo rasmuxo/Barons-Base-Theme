@@ -50,7 +50,8 @@
       "type": "header",
       "custom_css": [
         ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}",
-        ".section-padding {--PT: 0px; --PB: 0px;}"
+        ".section-padding {--PT: 0px; --PB: 0px;}",
+        "span {font-size: 14px; font-weight: 400;}"
       ],
       "settings": {
         "header_sticky": true,
