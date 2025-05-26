@@ -98,6 +98,33 @@
         "padding_bottom": 50
       }
     },
+    "section_video_PTr8NL": {
+      "type": "section-video",
+      "name": "Video",
+      "settings": {
+        "show_video_popup": false,
+        "video_popup_social": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "desktop_height": "screen-height-one-half",
+        "mobile_height": "screen-height-three-quarters--mobile",
+        "width": "wrapper--full-padded",
+        "overlay_opacity": 0,
+        "overlay_color": "#000",
+        "show_overlay_text": false,
+        "title": "Video",
+        "heading_size": 8,
+        "description": "Tell your brand's story through images.",
+        "text_size": 3,
+        "flex_align": "align--middle-center",
+        "bg_color": "",
+        "color": "#FFFFFF",
+        "link_text": "View products",
+        "link": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false
+      }
+    },
     "section_hero_gdT8Pn": {
       "type": "section-hero",
       "blocks": {
@@ -474,6 +501,7 @@
   "order": [
     "section_hero_EGeNPd",
     "section_collection_hjW687",
+    "section_video_PTr8NL",
     "section_hero_gdT8Pn",
     "section_collection_Cqgm3n",
     "section_hero_9Cd9YP",
