@@ -48,12 +48,14 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [],
+      "custom_css": [
+        ".header__dropdown__wrapper {border-bottom: 1px solid #ececec;}"
+      ],
       "settings": {
         "header_sticky": true,
         "header_style": "drawer",
-        "show_separator_line": true,
-        "separator_opacity": 5,
+        "show_separator_line": false,
+        "separator_opacity": 50,
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
