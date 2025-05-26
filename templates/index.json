@@ -370,8 +370,8 @@
       ],
       "custom_css": [
         ".column__content {justify-content: center; align-items: center; text-align: center;}",
-        ".grid-item {border: 1px solid #dfdfdf; background-color: white; border-radius: 18px; overflow: hidden;}",
-        ".column__heading {color: #ee9841; font-size: 39px;}",
+        ".grid-item {border: 1px solid #dfdfdf; background-color: white; border-radius: 9px; overflow: hidden;}",
+        ".column__heading {color: #ed5e84; font-size: 39px;}",
         ".grid__heading {font-size: 32px;}"
       ],
       "name": "Text columns with images",
