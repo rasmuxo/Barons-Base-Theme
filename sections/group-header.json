@@ -63,7 +63,7 @@
         "logo": "shopify://shop_images/bostonblack.png",
         "logo_max_limit": 100,
         "logo_max_limit_mobile": 100,
-        "main_menu_linklist": "",
+        "main_menu_linklist": "header-text-menu",
         "mobile_menu_linklist": "",
         "enable_search": false,
         "show_social_icons": false,
