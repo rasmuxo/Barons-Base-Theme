@@ -128,11 +128,75 @@
         "button_style": "btn--solid",
         "show_arrow": false
       }
+    },
+    "section_accordion_group_DrapRj": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_xMeCmY": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQ"
+          }
+        },
+        "question_694EaH": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_aKqYtG": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_b3k7DJ": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "Frequently asked question",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xMeCmY",
+        "question_694EaH",
+        "question_aKqYtG",
+        "question_b3k7DJ"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "width": "wrapper--narrow",
+        "columns": "1",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "section_hero_EGeNPd",
     "section_collection_hjW687",
-    "section_video_PTr8NL"
+    "section_video_PTr8NL",
+    "section_accordion_group_DrapRj"
   ]
 }
