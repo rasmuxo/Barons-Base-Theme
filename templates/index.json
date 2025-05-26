@@ -228,7 +228,7 @@
           "settings": {
             "default_open": false,
             "title": "Are these just for fun, or do they teach something too?",
-            "content": "<p><br/>Both. Every item we sell is designed to <em>ignite creativity</em> while teaching real-world physics and engineering concepts. You’ll learn how engines work, how gears move, and even how radio control systems operate—all while having a blast.<br/><br/></p>",
+            "content": "<p>Both. Every item we sell is designed to <em>ignite creativity</em> while teaching real-world physics and engineering concepts. You’ll learn how engines work, how gears move, and even how radio control systems operate—all while having a blast.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -252,7 +252,7 @@
           "settings": {
             "default_open": false,
             "title": "What if I mess up or don’t like it?",
-            "content": "<p><br/>No worries. We offer <strong>easy returns and responsive support</strong>. If something’s not right, our team is here to make it right—whether that’s troubleshooting a build or helping with a return. Your satisfaction is guaranteed.<br/></p>",
+            "content": "<p>We stand by the quality and clarity of our kits—each one is tested for reliability and comes with step-by-step instructions. While we don't offer returns, we're always here to help you troubleshoot, guide your build, or offer tips so you get the most out of your purchase. Your success is our priority.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
