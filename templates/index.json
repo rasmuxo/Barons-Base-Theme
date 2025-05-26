@@ -78,7 +78,7 @@
         ".product-item__image {border-radius: 18px;}"
       ],
       "settings": {
-        "heading": "Bestsellers",
+        "heading": "DIY Kits",
         "description": "",
         "layout": "inline",
         "link_text": "Shop all",
@@ -87,7 +87,7 @@
         "button_size": "",
         "button_style": "btn--text",
         "show_arrow": true,
-        "featured_collection": "frontpage",
+        "featured_collection": "diy-kits",
         "layout_desktop": "grid",
         "grid": 4,
         "rows": 1,
