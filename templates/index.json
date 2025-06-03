@@ -180,25 +180,6 @@
             "show_arrow": true
           }
         },
-        "collection_pBUbcT": {
-          "type": "collection",
-          "settings": {
-            "title": "SWEATSHIRTS",
-            "featured_collection": "shop-all-1",
-            "show_image": false,
-            "align_with_product_images": true,
-            "overlay_opacity": 0,
-            "overlay_color": "#000000",
-            "description": "",
-            "color": "#ffffff",
-            "link_text": "SHOP ALL",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--solid",
-            "show_arrow": true
-          }
-        },
         "collection_3nx9H3": {
           "type": "collection",
           "settings": {
@@ -214,6 +195,25 @@
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
+        },
+        "collection_pBUbcT": {
+          "type": "collection",
+          "settings": {
+            "title": "SWEATSHIRTS",
+            "featured_collection": "shop-all-1",
+            "show_image": false,
+            "align_with_product_images": true,
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "SHOP ALL",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
             "button_style": "btn--solid",
             "show_arrow": true
           }
@@ -240,8 +240,8 @@
       },
       "block_order": [
         "collection_jrQRUc",
-        "collection_pBUbcT",
         "collection_3nx9H3",
+        "collection_pBUbcT",
         "collection_whaNFQ"
       ],
       "custom_css": [
@@ -252,7 +252,7 @@
         ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
         ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
         "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}",
-        ".tabs {border-radius: 10px;}"
+        ".tab-link {border: 1.5px solid black;}"
       ],
       "name": "RACKS",
       "settings": {
