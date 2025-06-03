@@ -65,39 +65,6 @@
         "color": "#ffffff"
       }
     },
-    "section_announcement_f8cghn": {
-      "type": "section-announcement",
-      "blocks": {
-        "text_B9aV6N": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>DROPS EVERY THURSDAY / 12PM CT</strong></p>",
-            "text_style": "font-body",
-            "color": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
-        }
-      },
-      "block_order": [
-        "text_B9aV6N"
-      ],
-      "name": "Scrolling text",
-      "settings": {
-        "show_border": false,
-        "layout": "marquee",
-        "slider_speed": 7,
-        "text_alignment": "center",
-        "marquee_speed": 100,
-        "direction": "ticker-rtl",
-        "message_spacing": 10,
-        "text_size": 2,
-        "bg_color": "",
-        "color": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "section_tab_collections_ytTke7": {
       "type": "section-tab-collections",
       "blocks": {
@@ -494,7 +461,7 @@
       "custom_css": [
         "h2 {font-weight: 600;}",
         ".btn {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); color: white;}",
-        ".wrapper--full-padded {padding-top: 30px;}"
+        ".wrapper--full-padded {padding-top: 30px; padding-bottom: 30px;}"
       ],
       "name": "Slideshow",
       "settings": {
@@ -506,15 +473,48 @@
         "autoplay": false,
         "autoplay_speed": 8
       }
+    },
+    "section_announcement_f8cghn": {
+      "type": "section-announcement",
+      "blocks": {
+        "text_B9aV6N": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>DROPS EVERY THURSDAY / 12PM CT</strong></p>",
+            "text_style": "font-body",
+            "color": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
+        }
+      },
+      "block_order": [
+        "text_B9aV6N"
+      ],
+      "name": "Scrolling text",
+      "settings": {
+        "show_border": false,
+        "layout": "marquee",
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "marquee_speed": 100,
+        "direction": "ticker-rtl",
+        "message_spacing": 10,
+        "text_size": 2,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "section_hero_EGeNPd",
-    "section_announcement_f8cghn",
     "section_tab_collections_ytTke7",
     "section_collection_NDJPQa",
     "section_double_kHKeyT",
     "section_custom_content_exCLPW",
-    "section_slideshow_aARprp"
+    "section_slideshow_aARprp",
+    "section_announcement_f8cghn"
   ]
 }
