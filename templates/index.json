@@ -164,6 +164,26 @@
           "type": "collection",
           "settings": {
             "title": "",
+            "featured_collection": "shop-all-9",
+            "show_image": false,
+            "align_with_product_images": true,
+            "image": "shopify://shop_images/IMG_4295.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "description": "",
+            "color": "#ffffff",
+            "link_text": "SHOP ALL",
+            "link": "",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--solid",
+            "show_arrow": true
+          }
+        },
+        "collection_knJ4Yf": {
+          "type": "collection",
+          "settings": {
+            "title": "",
             "featured_collection": "t-shirts",
             "show_image": false,
             "align_with_product_images": true,
@@ -240,6 +260,7 @@
       },
       "block_order": [
         "collection_jrQRUc",
+        "collection_knJ4Yf",
         "collection_3nx9H3",
         "collection_pBUbcT",
         "collection_whaNFQ"
