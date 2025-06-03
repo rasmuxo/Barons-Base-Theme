@@ -518,10 +518,20 @@
             "review_text": "",
             "review_url": ""
           }
+        },
+        "review_NwDncT": {
+          "type": "review",
+          "settings": {
+            "title": "Example Customer",
+            "subheading": "Industry Expert",
+            "review_text": "Use this text to showcase a review from one of your customers. A great review is honest and speaks to the concerns of your customers.",
+            "review_url": ""
+          }
         }
       },
       "block_order": [
-        "review_6FkA4V"
+        "review_6FkA4V",
+        "review_NwDncT"
       ],
       "name": "Testimonials",
       "settings": {

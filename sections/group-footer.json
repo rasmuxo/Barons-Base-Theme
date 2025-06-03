@@ -26,6 +26,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "linklist_iiBWYR": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "‎",
+            "column_width": 33
+          }
+        },
         "divider_GwUEqn": {
           "type": "divider",
           "settings": {
@@ -62,6 +70,7 @@
         }
       },
       "block_order": [
+        "linklist_iiBWYR",
         "divider_GwUEqn",
         "newsletter_JqgbXp",
         "divider_dx3dEJ"
