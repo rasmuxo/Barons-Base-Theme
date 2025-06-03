@@ -165,7 +165,7 @@
           "settings": {
             "title": "",
             "featured_collection": "t-shirts",
-            "show_image": true,
+            "show_image": false,
             "align_with_product_images": true,
             "image": "shopify://shop_images/IMG_4295.jpg",
             "overlay_opacity": 0,
@@ -244,7 +244,6 @@
         "collection_3nx9H3",
         "collection_whaNFQ"
       ],
-      "disabled": true,
       "custom_css": [
         ".product-item__info {font-size: 12.5px;}",
         ".grid__heading,span {font-size: 15px; font-weight: 600;}",
@@ -256,7 +255,7 @@
       ],
       "name": "RACKS",
       "settings": {
-        "title": "EXPLORE RACKS",
+        "title": "",
         "text": "",
         "layout": "inline",
         "show_product_count": false,
