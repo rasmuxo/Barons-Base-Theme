@@ -92,7 +92,7 @@
         "grid": 6,
         "rows": 2,
         "width": "wrapper--full-padded",
-        "layout_mobile": "slider",
+        "layout_mobile": "2",
         "bg_color": "",
         "color": "",
         "padding_top": 30,
