@@ -407,10 +407,11 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".product-item__title,.product-item__price,.new-price,.price,.sold-out {font-size: 12.5px !important; font-weight: 400 !important;}",
+      ".product-item__price,.new-price,.price,.sold-out {font-size: 12.5px !important; font-weight: 400 !important; padding-top: 7.5px;}",
       ".grid__heading {font-size: 15px;}",
       ".product-link {text-align: left;}",
-      ".sold-out {color: #575757 !important;}"
+      ".sold-out {color: #575757 !important;}",
+      ".product-item__title {font-size: 12.5px !important; font-weight: 600 !important;}"
     ]
   }
 }
