@@ -504,7 +504,37 @@
         "bg_color": "#ffffff",
         "color": "#000000",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 30
+      }
+    },
+    "section_reviews_L38mjn": {
+      "type": "section-reviews",
+      "blocks": {
+        "review_6FkA4V": {
+          "type": "review",
+          "settings": {
+            "title": "Jeremy Usborne",
+            "subheading": "Industry Expert",
+            "review_text": "",
+            "review_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "review_6FkA4V"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "show_featured_image": true,
+        "image_aspect_ratio": 1.3,
+        "show_quotation_marks": true,
+        "text_align": "text-left",
+        "text_size": 4,
+        "bg_color": "#f6f3e8",
+        "color": "",
+        "card_bg_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
       }
     }
   },
@@ -515,6 +545,7 @@
     "section_double_kHKeyT",
     "section_custom_content_exCLPW",
     "section_slideshow_aARprp",
-    "section_announcement_f8cghn"
+    "section_announcement_f8cghn",
+    "section_reviews_L38mjn"
   ]
 }
