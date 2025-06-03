@@ -410,7 +410,7 @@
       ".product-item__title,.product-item__price,.new-price,.price,.sold-out {font-size: 12.5px !important; font-weight: 400 !important;}",
       ".grid__heading {font-size: 15px;}",
       ".product-link {text-align: left;}",
-      ".sold-out {color: red !important;}"
+      ".sold-out {color: #575757 !important;}"
     ]
   }
 }
