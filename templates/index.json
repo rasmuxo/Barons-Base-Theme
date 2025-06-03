@@ -185,7 +185,7 @@
           "settings": {
             "title": "SWEATSHIRTS",
             "featured_collection": "shop-all-1",
-            "show_image": true,
+            "show_image": false,
             "align_with_product_images": true,
             "overlay_opacity": 0,
             "overlay_color": "#000000",
@@ -251,7 +251,8 @@
         ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
         ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
         ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
-        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}"
+        "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}",
+        ".tabs {border-radius: 10px;}"
       ],
       "name": "RACKS",
       "settings": {
