@@ -262,7 +262,7 @@
             "button_url": "shopify://products/faded-realtree-camo-shorts",
             "button_type": "btn--primary",
             "button_size": "",
-            "button_style": "btn--solid",
+            "button_style": "btn--outline",
             "show_arrow": false,
             "padding_bottom": 16
           }
