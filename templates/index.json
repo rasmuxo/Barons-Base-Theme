@@ -541,8 +541,8 @@
         "review_6FkA4V": {
           "type": "review",
           "settings": {
-            "title": "Jeremy Usborne",
-            "subheading": "Industry Expert",
+            "title": "NAME",
+            "subheading": "@INSTAGRAM",
             "review_text": "",
             "featured_image": "shopify://shop_images/FullSizeRender-preview_5.heic",
             "review_url": ""
@@ -551,9 +551,10 @@
         "review_NwDncT": {
           "type": "review",
           "settings": {
-            "title": "Example Customer",
-            "subheading": "Industry Expert",
+            "title": "NAME",
+            "subheading": "@INSTAGRAM",
             "review_text": "",
+            "featured_image": "shopify://shop_images/IMG_2298.jpg",
             "review_url": ""
           }
         }
