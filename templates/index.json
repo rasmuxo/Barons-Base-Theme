@@ -561,6 +561,9 @@
         "review_6FkA4V",
         "review_NwDncT"
       ],
+      "custom_css": [
+        "#Reviews--template--24544794607894__section_reviews_L38mjn {--PT: 50px; --PB: 50px; --COLUMNS: 2; --COLUMNS-MEDIUM: 2; background-color: #f6f3e8; width: 92%; margin: 0 auto; padding-left: 15px; padding-right: 15px;}"
+      ],
       "name": "Testimonials",
       "settings": {
         "show_featured_image": true,
