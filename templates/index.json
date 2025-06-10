@@ -523,7 +523,7 @@
         "heading_9qLbXY"
       ],
       "custom_css": [
-        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 30px; --PB: 0px; background-color: #f6f3e8; width: 92%; margin: 0 auto;}"
+        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 30px; --PB: 0px; background-color: #f6f3e8; width: 92%; margin: 0 auto; border-top-left-radius: 25px; border-top-right-radius: 25px;}"
       ],
       "name": "Rich text",
       "settings": {
