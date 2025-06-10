@@ -565,7 +565,7 @@
       "custom_css": [
         "#Reviews--template--24544794607894__section_reviews_L38mjn {--PT: 50px; --PB: 50px; --COLUMNS: 2; --COLUMNS-MEDIUM: 2; background-color: #f6f3e8; border-bottom-left-radius: 25px; border-bottom-right-radius: 25px; width: 92%; margin: 0 auto; padding-left: 15px; padding-right: 15px;}",
         ".review {border-radius: 15px; background-color: white; overflow: hidden;}",
-        ".wrapper--full-padded {opacity: 1;}"
+        ".wrapper--full-padded {background-color: transparent;}"
       ],
       "name": "Testimonials",
       "settings": {
