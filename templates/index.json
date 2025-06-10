@@ -507,6 +507,31 @@
         "padding_bottom": 30
       }
     },
+    "section_rich_text_Yany9X": {
+      "type": "section-rich-text",
+      "blocks": {
+        "heading_9qLbXY": {
+          "type": "heading",
+          "settings": {
+            "title": "YOU + AGED IVY",
+            "text_size": 5,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "heading_9qLbXY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "width": "wrapper--full-padded",
+        "align_text": "text-left",
+        "bg_color": "#f6f3e8",
+        "color": "",
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
     "section_reviews_L38mjn": {
       "type": "section-reviews",
       "blocks": {
@@ -556,6 +581,7 @@
     "section_custom_content_exCLPW",
     "section_slideshow_aARprp",
     "section_announcement_f8cghn",
+    "section_rich_text_Yany9X",
     "section_reviews_L38mjn"
   ]
 }
