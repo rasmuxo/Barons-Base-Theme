@@ -523,7 +523,7 @@
         "heading_9qLbXY"
       ],
       "custom_css": [
-        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 30px; --PB: 0px; background-color: #f6f3e8; width: 92%; margin: 0 auto; border-top-left-radius: 15px; border-top-right-radius: 15px;}"
+        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 20px; --PB: 0px; background-color: #f6f3e8; width: 92%; margin: 0 auto; border-top-left-radius: 15px; border-top-right-radius: 15px;}"
       ],
       "name": "Rich text",
       "settings": {
@@ -581,7 +581,7 @@
         "@media screen and (min-width: 768px) {.reviews__grid-item:first-child {padding-left: 50px; }}",
         ".review__author__subheading,.review__author__name {font-size: 12px; letter-spacing: 0px; text-transform: upperacse;}",
         ".review__author__subheading {color: #575757;}",
-        ".review__content {padding-right: 0px;}"
+        "review__content {padding-right: 0px;}"
       ],
       "name": "Testimonials",
       "settings": {
@@ -593,8 +593,8 @@
         "bg_color": "#f6f3e8",
         "color": "",
         "card_bg_color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
+        "padding_top": 30,
+        "padding_bottom": 15
       }
     }
   },
