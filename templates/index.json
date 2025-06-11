@@ -287,7 +287,7 @@
         "image_width": "one-half",
         "text_alignment": "text-center",
         "reverse_blocks": false,
-        "bg_color": "#f6f3e8",
+        "bg_color": "#f1f0ed",
         "color": "",
         "padding_top": 30,
         "padding_bottom": 30
@@ -523,13 +523,13 @@
         "heading_9qLbXY"
       ],
       "custom_css": [
-        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 20px; --PB: 0px; background-color: #f6f3e8; width: 92%; margin: 0 auto; border-top-left-radius: 15px; border-top-right-radius: 15px;}"
+        "#Rte--template--24544794607894__section_rich_text_Yany9X {--PT: 20px; --PB: 0px; width: 92%; margin: 0 auto; border-top-left-radius: 15px; border-top-right-radius: 15px;}"
       ],
       "name": "Rich text",
       "settings": {
         "width": "wrapper--full-padded",
         "align_text": "text-left",
-        "bg_color": "#f6f3e8",
+        "bg_color": "#f1f0ed",
         "color": "",
         "padding_top": 30,
         "padding_bottom": 0
@@ -589,7 +589,7 @@
         "show_quotation_marks": true,
         "text_align": "text-left",
         "text_size": 4,
-        "bg_color": "#f6f3e8",
+        "bg_color": "#f1f0ed",
         "color": "",
         "card_bg_color": "",
         "padding_top": 30,
