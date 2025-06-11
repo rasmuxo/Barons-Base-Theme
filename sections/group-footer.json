@@ -30,7 +30,7 @@
           "type": "divider",
           "settings": {
             "show_line": false,
-            "column_width": 10,
+            "column_width": 13,
             "padding_top": 0,
             "padding_bottom": 0
           }
@@ -41,15 +41,6 @@
             "linklist": "footer",
             "title": "‎",
             "column_width": 27
-          }
-        },
-        "social_hG67Ub": {
-          "type": "social",
-          "settings": {
-            "title": "",
-            "text": "",
-            "column_width": 20,
-            "enable_follow_on_shop": false
           }
         },
         "newsletter_JqgbXp": {
@@ -72,7 +63,7 @@
           "type": "divider",
           "settings": {
             "show_line": false,
-            "column_width": 4,
+            "column_width": 13,
             "padding_top": 0,
             "padding_bottom": 0
           }
@@ -81,7 +72,6 @@
       "block_order": [
         "divider_GwUEqn",
         "linklist_iiBWYR",
-        "social_hG67Ub",
         "newsletter_JqgbXp",
         "divider_dx3dEJ"
       ],
