@@ -89,7 +89,9 @@
         ".input-group {border: 1px solid black; padding-left: 10px; padding-right: 10px;}",
         ".footer__block {display: flex; align-items: center; justify-content: center; height: 100%;}",
         ".input-group__field {text-transform: uppercase;}",
-        "span {font-size: 12px;}"
+        "span {font-size: 12px;}",
+        ".footer__block--menu {text-align: left;}",
+        ".footer__block--menu > *:first-child {margin-top: 0;}"
       ],
       "settings": {
         "logo_image_width": 150,
