@@ -82,7 +82,7 @@
         "span {font-size: 12.5px;}",
         ".footer__block--menu {text-align: left;}",
         "li {margin-bottom: 5px; font-size: 14px;}",
-        ".footer__newsletter__text {text-align: center;}"
+        ".footer__newsletter__text, .footer__block--menu {text-align: center;}"
       ],
       "settings": {
         "logo_image_width": 150,
