@@ -174,7 +174,7 @@
         "collection_whaNFQ"
       ],
       "custom_css": [
-        ".product-item__info, {font-size: 12.5px;}",
+        ".product-item__info {font-size: 12.5px;}",
         ".grid__heading,span, . {font-size: 15px; font-weight: 600;}",
         "h2,.btn {margin-bottom: 15px;}",
         ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
