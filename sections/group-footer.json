@@ -47,7 +47,7 @@
           "type": "newsletter",
           "settings": {
             "title": "",
-            "text": "",
+            "text": "<p>NEWSLETTER</p>",
             "show_name": false,
             "button_text": "SUBSCRIBE",
             "show_arrow": false,
