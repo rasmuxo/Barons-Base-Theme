@@ -79,9 +79,9 @@
         ".input-group {border: 1px solid black; padding-left: 10px; padding-right: 10px;}",
         ".footer__block {display: flex; align-items: center; justify-content: center; height: 100%;}",
         ".input-group__field {text-transform: uppercase;}",
-        "span {font-size: 12px;}",
+        "span {font-size: 12.5px;}",
         ".footer__block--menu {text-align: left;}",
-        "li {margin-bottom: 5px; font-size: 12px;}",
+        "li {margin-bottom: 5px; font-size: 14px;}",
         ".footer__newsletter__text {text-align: center;}"
       ],
       "settings": {
