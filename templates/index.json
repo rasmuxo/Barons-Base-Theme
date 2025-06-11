@@ -570,7 +570,7 @@
         "@media screen and (min-width: 768px) {.reviews__grid-item:first-child {padding-left: 50px; }}",
         ".review__author__subheading,.review__author__name {font-size: 12px; letter-spacing: 0px; text-transform: upperacse;}",
         ".review__author__subheading {color: #575757;}",
-        ".review__content {width: 80%}"
+        ".review__content {padding-right: 0px;}"
       ],
       "name": "Testimonials",
       "settings": {
