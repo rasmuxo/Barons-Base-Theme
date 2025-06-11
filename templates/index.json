@@ -175,7 +175,7 @@
       ],
       "custom_css": [
         ".product-item__info {font-size: 12.5px;}",
-        ".grid__heading,span, . {font-size: 15px; font-weight: 600;}",
+        ".grid__heading,span,. {font-size: 15px; font-weight: 600;}",
         "h2,.btn {margin-bottom: 15px;}",
         ".tabs > li {background-size: 0% 0px; transition: background-size 0.3s ease, background-color 0.3s ease; padding: 15px;}",
         ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
@@ -575,8 +575,8 @@
         "review_TJLwbK"
       ],
       "custom_css": [
-        "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
-        ".review {border-radius: 15px; background-color: white; overflow: hidden; margin-bottom: 15px;}",
+        "#Reviews--template--24544794607894__section_reviews_L38mjn {width: 92%; margin: 0 auto; padding: 0 15px;}",
+        ".review {border-radius: 15px; background-color: white; overflow: hidden; margin-bottom: 15px; border: 1px solid #f2f2f2;}",
         ".wrapper--full-padded {padding: 0px;}",
         "@media screen and (min-width: 768px) {.reviews__grid-item:first-child {padding-left: 50px; }}",
         ".review__author__subheading,.review__author__name {font-size: 12px; letter-spacing: 0px; text-transform: upperacse;}",
