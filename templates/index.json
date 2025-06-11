@@ -575,8 +575,8 @@
         "review_TJLwbK"
       ],
       "custom_css": [
-        "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
-        ".review {border-radius: 15px; background-color: white; overflow: hidden; --PB: var(--outer);}",
+        "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px; --PB: 15px;}",
+        ".review {border-radius: 15px; background-color: white; overflow: hidden;}",
         ".wrapper--full-padded {padding: 0px;}",
         "@media screen and (min-width: 768px) {.reviews__grid-item:first-child {padding-left: 50px; }}",
         ".review__author__subheading,.review__author__name {font-size: 12px; letter-spacing: 0px; text-transform: upperacse;}",
