@@ -26,14 +26,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "linklist_iiBWYR": {
-          "type": "linklist",
-          "settings": {
-            "linklist": "footer",
-            "title": "‎",
-            "column_width": 35
-          }
-        },
         "divider_GwUEqn": {
           "type": "divider",
           "settings": {
@@ -41,6 +33,14 @@
             "column_width": 15,
             "padding_top": 0,
             "padding_bottom": 0
+          }
+        },
+        "linklist_iiBWYR": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "‎",
+            "column_width": 35
           }
         },
         "newsletter_JqgbXp": {
@@ -70,8 +70,8 @@
         }
       },
       "block_order": [
-        "linklist_iiBWYR",
         "divider_GwUEqn",
+        "linklist_iiBWYR",
         "newsletter_JqgbXp",
         "divider_dx3dEJ"
       ],
@@ -82,7 +82,7 @@
         "span {font-size: 12.5px;}",
         ".footer__block--menu {text-align: left;}",
         "li {margin-bottom: 5px; font-size: 14px;}",
-        ".footer__newsletter__text, .footer__block--menu {text-align: center;}"
+        ".footer__newsletter__text,.footer__block--menu {text-align: center;}"
       ],
       "settings": {
         "logo_image_width": 150,
