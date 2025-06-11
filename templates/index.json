@@ -557,11 +557,22 @@
             "featured_image": "shopify://shop_images/IMG_2298.jpg",
             "review_url": ""
           }
+        },
+        "review_TJLwbK": {
+          "type": "review",
+          "settings": {
+            "title": "NAME",
+            "subheading": "@INSTAGRAM",
+            "review_text": "",
+            "featured_image": "shopify://shop_images/IMG_4296.jpg",
+            "review_url": ""
+          }
         }
       },
       "block_order": [
         "review_6FkA4V",
-        "review_NwDncT"
+        "review_NwDncT",
+        "review_TJLwbK"
       ],
       "custom_css": [
         "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
