@@ -541,10 +541,10 @@
         "review_6FkA4V": {
           "type": "review",
           "settings": {
-            "title": "NAME",
-            "subheading": "@INSTAGRAM",
+            "title": "sofia",
+            "subheading": "@sofiamcoelho",
             "review_text": "",
-            "featured_image": "shopify://shop_images/FullSizeRender-preview_5.heic",
+            "featured_image": "shopify://shop_images/IMG_7555.jpg",
             "review_url": ""
           }
         },
@@ -575,7 +575,7 @@
         "review_TJLwbK"
       ],
       "custom_css": [
-        "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px; }",
+        "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
         ".review {border-radius: 15px; background-color: white; overflow: hidden; margin-bottom: 15px;}",
         ".wrapper--full-padded {padding: 0px;}",
         "@media screen and (min-width: 768px) {.reviews__grid-item:first-child {padding-left: 50px; }}",
