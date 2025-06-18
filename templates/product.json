@@ -28,7 +28,6 @@
         },
         "variants_Mcwp9c": {
           "type": "variants",
-          "disabled": true,
           "settings": {
             "info_page": "",
             "size_chart_style": "text",
@@ -97,7 +96,8 @@
         ".product__siblings,.product__form__holder {display: flex; justify-content: center;}",
         ".btn {font-size: 10px;}",
         "@media (min-width: 640px) {.form__wrapper, .is-sticky {position: sticky; padding-top: 45px; }}",
-        "strong {color: #f79554;}"
+        "strong {color: #f79554;}",
+        ".radio__legend {display: none;}"
       ],
       "settings": {
         "product_sticky_enable": true,
