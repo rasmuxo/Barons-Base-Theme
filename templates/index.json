@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP collection",
-            "link": "shopify://products/faded-realtree-camo-shorts",
+            "link": "shopify://collections/luxury-cars",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
