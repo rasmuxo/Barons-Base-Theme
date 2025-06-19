@@ -15,14 +15,14 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "'LUXURY GARAGE'",
+            "title": "'LUXURY GARAGE' LIVE",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "Shop luxury car brands including Porsche, Ferrari, Lamborghini, and more now.",
+            "description": "Shop luxury car brands including Porsche, Ferrari, Lamborghini, and more.",
             "text_size": 3,
             "text_style": "font-body"
           }
