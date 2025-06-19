@@ -44,15 +44,6 @@
             "padding_bottom": 32
           }
         },
-        "text_TUczFe": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "<p><strong>★ ★ ★ ★ ★</strong> - RATED 5 STARS BY 10,000+ CUSTOMERS</p>",
-            "layout": "left",
-            "padding_bottom": 16
-          }
-        },
         "pickup": {
           "type": "pickup",
           "disabled": true,
@@ -66,7 +57,7 @@
             "show_read_more": true,
             "style": "accordions",
             "title_1": "CARE INFO",
-            "raw_content_1": "<p>COTTON - MACHINE WAS COLD, TUMBLE DRY LOW, IRON ON LOW HEAT IF NEEDED</p><p>POLYESTER - MACHINE WASH WARM, HANG TO DRY, AVOID HIGH HEAT</p><p>WOOL - HAND WASH COLD, LAY FLAT TO DRY, DO NOT WRING OR TUMBLE DRY<br/></p>",
+            "raw_content_1": "<p>COTTON - MACHINE WASH COLD, TUMBLE DRY LOW, IRON ON LOW HEAT IF NEEDED</p><p>POLYESTER - MACHINE WASH WARM, HANG TO DRY, AVOID HIGH HEAT</p><p>WOOL - HAND WASH COLD, LAY FLAT TO DRY, DO NOT WRING OR TUMBLE DRY<br/></p>",
             "title_2": "",
             "raw_content_2": "",
             "title_3": "",
@@ -84,13 +75,12 @@
         "price_azRYwM",
         "variants_Mcwp9c",
         "buttons_gJMV8G",
-        "text_TUczFe",
         "pickup",
         "tabs"
       ],
       "custom_css": [
         ".accordion__title,.product__title {font-size: 12.5px; font-weight: 600; text-transform: uppercase;}",
-        ".accordion__content,.product__subheading, .product__price {font-size: 12.5px;}",
+        ".accordion__content,.product__subheading,.product__price {font-size: 12.5px;}",
         ".radio__legend__option-name,.radio__legend__value {font-size: 10px;}",
         ".product__siblings,.product__form__holder {display: flex; justify-content: center;}",
         ".btn {font-size: 10px;}",
