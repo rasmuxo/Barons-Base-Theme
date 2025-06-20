@@ -24171,3 +24171,6 @@ badge-box::first-letter {
   color: black;
   background-color: transparent;
 }
+.sold-out {
+  color: red;
+}
