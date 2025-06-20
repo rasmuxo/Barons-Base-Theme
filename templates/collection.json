@@ -49,7 +49,8 @@
         ".tabs > li.current {background-color: black; color: white; background-size: 100% 0px; transition: none;}",
         ".tabs > li:not(.current) {background-color: transparent; color: inherit;}",
         "@media (max-width: 767px) {.grid__heading-holder {text-align: center; }}",
-        ".badge-box {font-size: 15px;}"
+        ".badge-box {font-size: 15px;}",
+        ".sold-out {color: red;}"
       ],
       "settings": {
         "enable_sort": true,
