@@ -29,7 +29,6 @@
         },
         "button_tidmiF": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "link_text": "SHOP collection",
             "link": "shopify://collections/shop-all-9",
