@@ -430,13 +430,13 @@
         "image_RqygLk": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_8623_2.jpg",
+            "image": "shopify://shop_images/IMG_6927_6703e077-e324-4ec6-82bd-8c966ed6eb99.heic",
             "overlay_opacity": 25,
             "overlay_color": "#000000",
             "show_overlay_text": true,
-            "title": "camo",
+            "title": "luxury cars",
             "heading_size": 4,
-            "description": "a staple for all year around - shop tees, shorts, hoodies, and sweatpants",
+            "description": "featuring porsche, ferrari, bmw, & more",
             "text_size": 3,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
