@@ -15,20 +15,21 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "'LUXURY GARAGE' LIVE",
+            "title": "STREETWEAR FT. FOURTH OF JULY",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "Shop luxury car brands including Porsche, Ferrari, Lamborghini, and more.",
+            "description": "TODAY @ 12 PM CST",
             "text_size": 3,
             "text_style": "font-body"
           }
         },
         "button_tidmiF": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "SHOP collection",
             "link": "shopify://collections/luxury-cars",
@@ -52,7 +53,7 @@
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_7560_2.jpg",
+        "image_1": "shopify://shop_images/IMG_5653.jpg",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
         "mobile_image": "shopify://shop_images/IMG_7560.jpg",
