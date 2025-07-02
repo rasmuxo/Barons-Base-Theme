@@ -15,14 +15,14 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "STREETWEAR FT. FOURTH OF JULY",
+            "title": "FOURTH OF JULY SALE: 20% OFF ALL RED, WHITE, AND BLUE PIECES",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "LIVE NOW / 06.26.25 - 12PM CT",
+            "description": "EARLY ACCESS 07.02.25 @ 12 PM CST",
             "text_size": 3,
             "text_style": "font-body"
           }
@@ -30,8 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/shop-all-9",
+            "link_text": "JOIN THE WAITLIST",
+            "link": "shopify://pages/rwb-subscribe-page",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
