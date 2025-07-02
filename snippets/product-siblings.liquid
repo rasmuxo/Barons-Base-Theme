@@ -49,6 +49,9 @@
 
           <div class="radio__buttons">
             {%- for sib_product in sibs_collection limit: 50 -%}
+              {%- comment %}<locksmith:4ccc>{% endcomment -%}
+                {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sib_product, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+              {%- comment %}</locksmith:4ccc>{% endcomment -%}
               {%- liquid
                 assign modifier_class = ''
                 if sib_product.handle == product.handle

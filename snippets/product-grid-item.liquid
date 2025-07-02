@@ -185,7 +185,13 @@
       <product-siblings class="product-item__siblings product-item__swatches__holder product-item__swatches__holder--{{ settings.swatch_style }}">
         <div class="radio__fieldset radio__fieldset--swatches radio__fieldset--pgi" data-sibling-fieldset>
           <div class="selector-wrapper__scrollbar" data-sibling-inner data-scrollbar>
+            {%- comment %}<locksmith:7f24>{% endcomment -%}
+              {%- assign locksmith_eeed_forloop__size = 0 %}{%- for sib_product in sibling_products limit: 50 -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sib_product, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_eeed_forloop__size = locksmith_eeed_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_eeed_forloop__index = nil -%}
+            {%- comment %}</locksmith:7f24>{% endcomment -%}
             {%- for sib_product in sibling_products limit: 50 -%}
+              {%- comment %}<locksmith:6d57>{% endcomment -%}
+                {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sib_product, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_eeed_forloop__index == nil %}{% assign locksmith_eeed_forloop__index = 1 %}{% assign locksmith_eeed_forloop__index0 = 0 %}{% else %}{% assign locksmith_eeed_forloop__index = locksmith_eeed_forloop__index | plus: 1 %}{% assign locksmith_eeed_forloop__index0 = locksmith_eeed_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_eeed_forloop__index == 1 %}{% assign locksmith_eeed_forloop__first = true %}{% else %}{% assign locksmith_eeed_forloop__first = false %}{% endif %}{% if locksmith_eeed_forloop__index == locksmith_eeed_forloop__size %}{% assign locksmith_eeed_forloop__last = true %}{% else %}{% assign locksmith_eeed_forloop__last = false %}{% endif %}{% assign locksmith_eeed_forloop__rindex = locksmith_eeed_forloop__size | minus: locksmith_eeed_forloop__index | minus: 1 %}{% assign locksmith_eeed_forloop__rindex0 = locksmith_eeed_forloop__size | minus: locksmith_eeed_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+              {%- comment %}</locksmith:6d57>{% endcomment -%}
               {%- liquid
                 assign current_class = ''
                 if sib_product.handle == product.handle
@@ -205,7 +211,7 @@
 
               <div class="swatches swatch__button swatch__button--{{ settings.swatch_style }} swatch-{{ swatch_color }}"
                 style="
-                  --animation-delay: {{ forloop.index0 | times: 50 }}ms;
+                  --animation-delay: {{ locksmith_eeed_forloop__index0 | times: 50 }}ms;
                   --swatch: var(--{{ swatch_color }});
                 "
                 data-tooltip="{{ sib_color }}"

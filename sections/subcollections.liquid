@@ -28,6 +28,9 @@
     data-section-type="collection">
     {%- if sub_collections.size > 0 -%}
       {%- for sublink in sub_collections -%}
+        {%- comment %}<locksmith:5235>{% endcomment -%}
+          {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: sublink, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
+        {%- comment %}</locksmith:5235>{% endcomment -%}
         {%- liquid
           if sublink.type != 'collection_link' or sublink.object.handle == blank
             continue
