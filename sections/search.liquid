@@ -156,9 +156,57 @@
               </div>
             {%- else -%}
               {%- liquid
+                comment
+                  <locksmith:e62e> Code added automatically by the Locksmith app. Do not modify or remove.
+                endcomment
+                assign locksmith_a378_forloop__size = 0
                 for item in search.results
+                  capture var
+                    render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: search, variable: 'transparent'
+                  endcapture
+                  if var == 'true'
+                    assign locksmith_a378_forloop__size = locksmith_a378_forloop__size | plus: 1
+                  endif
+                endfor
+                assign locksmith_a378_forloop__index = nil
+                comment
+                  </locksmith:e62e> End Locksmith code block.
+                endcomment
+                for item in search.results
+                  comment
+                    <locksmith:eb7d> Code added automatically by the Locksmith app. Do not modify or remove.
+                  endcomment
+                  capture var
+                    render 'locksmith-variables', scope: 'subject', subject: item, subject_parent: search, variable: 'transparent'
+                  endcapture
+                  if var == "true"
+                    if locksmith_a378_forloop__index == nil
+                      assign locksmith_a378_forloop__index = 1
+                      assign locksmith_a378_forloop__index0 = 0
+                    else
+                      assign locksmith_a378_forloop__index = locksmith_a378_forloop__index | plus: 1
+                      assign locksmith_a378_forloop__index0 = locksmith_a378_forloop__index0 | plus: 1
+                    endif
+                    if locksmith_a378_forloop__index == 1
+                      assign locksmith_a378_forloop__first = true
+                    else
+                      assign locksmith_a378_forloop__first = false
+                    endif
+                    if locksmith_a378_forloop__index == locksmith_a378_forloop__size
+                      assign locksmith_a378_forloop__last = true
+                    else
+                      assign locksmith_a378_forloop__last = false
+                    endif
+                    assign locksmith_a378_forloop__rindex = locksmith_a378_forloop__size | minus: locksmith_a378_forloop__index | minus: 1
+                    assign locksmith_a378_forloop__rindex0 = locksmith_a378_forloop__size | minus: locksmith_a378_forloop__index0 | minus: 1
+                  else
+                    continue
+                  endif
+                  comment
+                    </locksmith:eb7d> End Locksmith code block.
+                  endcomment
                   if item.object_type == 'product'
-                    render 'product-grid-item', product: item, index: forloop.index
+                    render 'product-grid-item', product: item, index: locksmith_a378_forloop__index
                   else
                     render 'search-results-item', item: item, tabindex: true
                   endif

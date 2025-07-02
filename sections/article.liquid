@@ -268,12 +268,18 @@
                   {%- if article_content.size > 0 -%}
                     {%- assign starts_with_handle = '' -%}
 
+                    {%- comment %}<locksmith:c089>{% endcomment -%}
+                      {%- assign locksmith_f34a_forloop__size = 0 %}{%- for item in article_content -%}{% capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, variable: 'transparent' %}{% endcapture %}{% if var == 'true' %}{% assign locksmith_f34a_forloop__size = locksmith_f34a_forloop__size | plus: 1 %}{% endif %}{% endfor %}{% assign locksmith_f34a_forloop__index = nil -%}
+                    {%- comment %}</locksmith:c089>{% endcomment -%}
                     {%- for item in article_content -%}
+                      {%- comment %}<locksmith:a613>{% endcomment -%}
+                        {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: item, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% if locksmith_f34a_forloop__index == nil %}{% assign locksmith_f34a_forloop__index = 1 %}{% assign locksmith_f34a_forloop__index0 = 0 %}{% else %}{% assign locksmith_f34a_forloop__index = locksmith_f34a_forloop__index | plus: 1 %}{% assign locksmith_f34a_forloop__index0 = locksmith_f34a_forloop__index0 | plus: 1 %}{% endif %}{% if locksmith_f34a_forloop__index == 1 %}{% assign locksmith_f34a_forloop__first = true %}{% else %}{% assign locksmith_f34a_forloop__first = false %}{% endif %}{% if locksmith_f34a_forloop__index == locksmith_f34a_forloop__size %}{% assign locksmith_f34a_forloop__last = true %}{% else %}{% assign locksmith_f34a_forloop__last = false %}{% endif %}{% assign locksmith_f34a_forloop__rindex = locksmith_f34a_forloop__size | minus: locksmith_f34a_forloop__index | minus: 1 %}{% assign locksmith_f34a_forloop__rindex0 = locksmith_f34a_forloop__size | minus: locksmith_f34a_forloop__index0 | minus: 1 %}{% else %}{% continue %}{% endif -%}
+                      {%- comment %}</locksmith:a613>{% endcomment -%}
                       {% comment %}
                         The first item is empty, subsequent items start with a product handle
                         Split on URL encoded string to handle params
                       {% endcomment %}
-                      {%- unless forloop.index0 == 0 -%}
+                      {%- unless locksmith_f34a_forloop__index0 == 0 -%}
                         {%- assign starts_with_handle = item | url_encode | split: '%' -%}
                         {%- assign handles = handles | append: starts_with_handle[0] | append: ',' -%}
                       {%- endunless -%}

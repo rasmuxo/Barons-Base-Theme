@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "cart": {
     "general": {
@@ -31,7 +40,7 @@
       "add_message": "Agregó un producto: ",
       "total_message": {
         "one": "y tienes {{ count }} producto en el carrito",
-        "other":  "y tiene {{ count }} productos en el carrito"
+        "other": "y tiene {{ count }} productos en el carrito"
       },
       "qualified_shipping_message": "¡Felicidades! Su pedido está calificado para el envío libre"
     },
@@ -526,6 +535,12 @@
     },
     "sidebar": {
       "see_more": "Ver más..."
+    }
+  },
+  "locksmith": {
+    "forms": {
+      "submit_button_text": "Continue",
+      "loading_text": "One moment..."
     }
   }
 }

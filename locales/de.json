@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "ie11_support_message": "Diese Seite unterstützt deinen Browser nur begrenzt. Wir empfehlen dir, zu Edge, Chrome, Safari oder Firefox zu wechseln.",
@@ -37,7 +46,7 @@
       "submit": "Beitreten",
       "placeholder": "E-Mail-Adresse",
       "thank_you": "Vielen Dank für deine Registrierung!",
-      "thank_you_with_code_html": "Vielen Dank für deine Registrierung! Benutze den Code <span>Discount10<\/span>, um 10 % Rabatt zur erhalten.",
+      "thank_you_with_code_html": "Vielen Dank für deine Registrierung! Benutze den Code <span>Discount10</span>, um 10 % Rabatt zur erhalten.",
       "error_message": "Dieser Kunde ist bereits angemeldet!"
     },
     "search": {
@@ -367,10 +376,10 @@
       "news_title": "Neuigkeiten"
     },
     "onboarding": {
-      "no_products_html": "Du hast keine Produkte in deiner Startseiten-Sammlung. Dieser Platzhalter wird angezeigt, bis du <a href=\"\/admin\/custom_collections\">ein Produkt zu dieser Sammlung hinzufügst<\/a>.",
+      "no_products_html": "Du hast keine Produkte in deiner Startseiten-Sammlung. Dieser Platzhalter wird angezeigt, bis du <a href=\"/admin/custom_collections\">ein Produkt zu dieser Sammlung hinzufügst</a>.",
       "add_product": "Produkt hinzufügen",
       "product_title": "Beispiel Produkttitel",
-      "no_collections_html": "Du hast keine Sammlungen, die hier angezeigt werden können. <a href=\"\/admin\/custom_collections\">Füge einige Sammlungen<\/a> hinzu, die zur Standard-Startseite passen.",
+      "no_collections_html": "Du hast keine Sammlungen, die hier angezeigt werden können. <a href=\"/admin/custom_collections\">Füge einige Sammlungen</a> hinzu, die zur Standard-Startseite passen.",
       "no_description": "Dies ist eine Beispielbeschreibung für ein Produkt. Nachdem du ein Produkt hinzugefügt hast, wird sich dieser Text ändern.",
       "no_content": "Dieser Bereich enthält zurzeit noch keine Inhalte. Du kannst in der Seitenleiste Inhalte zu diesem Bereich hinzufügen.",
       "collection_image": "Sammlung Bild",
@@ -466,8 +475,8 @@
         "view_store_info": "Shopinformationen anzeigen",
         "check_other_stores": "Sieh dir die Verfügbarkeit in anderen Shops an",
         "pick_up_available": "Abholung verfügbar",
-        "pick_up_available_at_html": "Abholung bei <strong>{{ location_name }}<\/strong> verfügbar",
-        "pick_up_unavailable_at_html": "Abholung bei <strong>{{ location_name }}<\/strong> derzeit nicht verfügbar",
+        "pick_up_available_at_html": "Abholung bei <strong>{{ location_name }}</strong> verfügbar",
+        "pick_up_unavailable_at_html": "Abholung bei <strong>{{ location_name }}</strong> derzeit nicht verfügbar",
         "unavailable": "Verfügbarkeit für die Abholung konnte nicht geladen werden",
         "refresh": "Aktualisieren"
       }
@@ -521,6 +530,12 @@
       "store_login": "Shop-Anmeldung",
       "newsletter_signup": "Newsletteranmeldung",
       "login": "Anmelden"
+    }
+  },
+  "locksmith": {
+    "forms": {
+      "submit_button_text": "Continue",
+      "loading_text": "One moment..."
     }
   }
 }
