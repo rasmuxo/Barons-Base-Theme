@@ -9,57 +9,9 @@
           data-grid-slider
           id="product-recommendations">
           {%- liquid
-            comment
-              <locksmith:447d> Code added automatically by the Locksmith app. Do not modify or remove.
-            endcomment
-            assign locksmith_a472_forloop__size = 0
             for product in recommendations.products
-              capture var
-                render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: recommendations, variable: 'transparent'
-              endcapture
-              if var == 'true'
-                assign locksmith_a472_forloop__size = locksmith_a472_forloop__size | plus: 1
-              endif
-            endfor
-            assign locksmith_a472_forloop__index = nil
-            comment
-              </locksmith:447d> End Locksmith code block.
-            endcomment
-            for product in recommendations.products
-              comment
-                <locksmith:a25c> Code added automatically by the Locksmith app. Do not modify or remove.
-              endcomment
-              capture var
-                render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: recommendations, variable: 'transparent'
-              endcapture
-              if var == "true"
-                if locksmith_a472_forloop__index == nil
-                  assign locksmith_a472_forloop__index = 1
-                  assign locksmith_a472_forloop__index0 = 0
-                else
-                  assign locksmith_a472_forloop__index = locksmith_a472_forloop__index | plus: 1
-                  assign locksmith_a472_forloop__index0 = locksmith_a472_forloop__index0 | plus: 1
-                endif
-                if locksmith_a472_forloop__index == 1
-                  assign locksmith_a472_forloop__first = true
-                else
-                  assign locksmith_a472_forloop__first = false
-                endif
-                if locksmith_a472_forloop__index == locksmith_a472_forloop__size
-                  assign locksmith_a472_forloop__last = true
-                else
-                  assign locksmith_a472_forloop__last = false
-                endif
-                assign locksmith_a472_forloop__rindex = locksmith_a472_forloop__size | minus: locksmith_a472_forloop__index | minus: 1
-                assign locksmith_a472_forloop__rindex0 = locksmith_a472_forloop__size | minus: locksmith_a472_forloop__index0 | minus: 1
-              else
-                continue
-              endif
-              comment
-                </locksmith:a25c> End Locksmith code block.
-              endcomment
-              assign animation_delay = locksmith_a472_forloop__index0 | times: 1
-              render 'product-grid-item', product: product, animation_delay: animation_delay, animation_anchor: '#product-recommendations', index: locksmith_a472_forloop__index
+              assign animation_delay = forloop.index0 | times: 1
+              render 'product-grid-item', product: product, animation_delay: animation_delay, animation_anchor: '#product-recommendations', index: forloop.index
             endfor
           -%}
         </div>

@@ -851,9 +851,6 @@
                           {%- endif -%}
 
                           {%- for product in recommendations.products limit: block.settings.complementary_limit-%}
-                            {%- comment %}<locksmith:c289>{% endcomment -%}
-                              {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: product, subject_parent: recommendations, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-                            {%- comment %}</locksmith:c289>{% endcomment -%}
                             {%- render 'upsell-product', upsell_product: product -%}
                           {%- endfor -%}
                         {%- endif -%}

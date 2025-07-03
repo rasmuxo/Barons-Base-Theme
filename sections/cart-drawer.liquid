@@ -490,19 +490,6 @@
                 {%- liquid
                   if empty_cart_products != blank
                     for upsell_product in empty_cart_products
-                      comment
-                        <locksmith:f7e6> Code added automatically by the Locksmith app. Do not modify or remove.
-                      endcomment
-                      capture var
-                        render 'locksmith-variables', scope: 'subject', subject: upsell_product, variable: 'transparent'
-                      endcapture
-                      if var == "true"
-                      else
-                        continue
-                      endif
-                      comment
-                        </locksmith:f7e6> End Locksmith code block.
-                      endcomment
                       render 'upsell-product', upsell_product: upsell_product
                     endfor
                   endif

@@ -41,26 +41,10 @@
   <div class="collection-list">
     {%- if section.settings.display_type == 'all' -%}
       {%- for collection in collections -%}
-        {%- comment %}<locksmith:a31d>{% endcomment -%}
-          {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: collection, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-        {%- comment %}</locksmith:a31d>{% endcomment -%}
         {%- liquid
           assign skip_collection = false
 
           for exclude in excluded_collections_strict
-            comment
-              <locksmith:181a> Code added automatically by the Locksmith app. Do not modify or remove.
-            endcomment
-            capture var
-              render 'locksmith-variables', scope: 'subject', subject: exclude, variable: 'transparent'
-            endcapture
-            if var == "true"
-            else
-              continue
-            endif
-            comment
-              </locksmith:181a> End Locksmith code block.
-            endcomment
             assign exclude_handle = exclude | handle
 
             if exclude_handle == collection.handle
@@ -69,19 +53,6 @@
           endfor
 
           for exclude in excluded_collections
-            comment
-              <locksmith:9672> Code added automatically by the Locksmith app. Do not modify or remove.
-            endcomment
-            capture var
-              render 'locksmith-variables', scope: 'subject', subject: exclude, variable: 'transparent'
-            endcapture
-            if var == "true"
-            else
-              continue
-            endif
-            comment
-              </locksmith:9672> End Locksmith code block.
-            endcomment
             assign exclude_handle = exclude | handle
 
             if collection.handle contains exclude_handle
@@ -98,9 +69,6 @@
       {%- endfor -%}
     {%- else -%}
       {%- for block in section.blocks -%}
-        {%- comment %}<locksmith:36c0>{% endcomment -%}
-          {%- capture var %}{% render 'locksmith-variables', scope: 'subject', subject: block.settings.collection, subject_parent: section, variable: 'transparent' %}{% endcapture %}{% if var == "true" %}{% else %}{% continue %}{% endif -%}
-        {%- comment %}</locksmith:36c0>{% endcomment -%}
         {%- assign collection = collections[block.settings.collection] -%}
 
         <div class="collection-block__wrapper collection-block__wrapper--{{ block.id }}" {{ block.shopify_attributes }}>
