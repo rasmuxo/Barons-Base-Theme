@@ -536,11 +536,5 @@
       "newsletter_signup": "Assine o Boletim de Notícias",
       "login": "Login"
     }
-  },
-  "locksmith": {
-    "forms": {
-      "submit_button_text": "Continue",
-      "loading_text": "One moment..."
-    }
   }
 }

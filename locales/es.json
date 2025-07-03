@@ -536,11 +536,5 @@
     "sidebar": {
       "see_more": "Ver más..."
     }
-  },
-  "locksmith": {
-    "forms": {
-      "submit_button_text": "Continue",
-      "loading_text": "One moment..."
-    }
   }
 }
