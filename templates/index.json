@@ -22,7 +22,7 @@
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "07.10.25 / 12 PM CST",
+            "description": "EVERYTHING WE DO, WE DO FOR HIM",
             "text_size": 3,
             "text_style": "font-body"
           }
@@ -30,8 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "NOTIFY ME",
-            "link": "https://pscrpt.io/9ITgXh",
+            "link_text": "LIVE NOW",
+            "link": "shopify://collections/jesus",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
