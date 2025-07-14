@@ -63,6 +63,9 @@
     "form_style": "modern",
     "cart_type": "drawer",
     "free_shipping_limit": "0",
+    "empty_cart_products": [
+      "shipping-protection"
+    ],
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
