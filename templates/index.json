@@ -15,14 +15,14 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "JESUS TEES",
+            "title": "MYSTERY BOXES",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "EVERYTHING WE DO, WE DO FOR HIM",
+            "description": "PICK A TIER, SHARE YOUR SIZE, WE'LL DO THE REST",
             "text_size": 3,
             "text_style": "font-body"
           }
@@ -30,8 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "LIVE NOW",
-            "link": "shopify://collections/jesus",
+            "link_text": "SHOP",
+            "link": "shopify://products/mystery-box",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
@@ -50,12 +50,12 @@
         ".btn {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);}"
       ],
       "settings": {
-        "height": "screen-height-full",
+        "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_6049.jpg",
+        "image_1": "shopify://shop_images/MysteryBox_07.jpg",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
-        "mobile_image": "shopify://shop_images/IMG_6049.jpg",
+        "mobile_image": "shopify://shop_images/MysteryBox_07.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
