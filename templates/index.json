@@ -15,22 +15,22 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "STREETWEAR + TRACK SHORTS",
+            "title": "TODAY 12 PM CST",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "LIVE NOW",
-            "text_size": 3,
+            "description": "",
+            "text_size": 4,
             "text_style": "font-body"
           }
         },
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP COLLECTION",
+            "link_text": "",
             "link": "shopify://collections/streetwear-track-shorts-07-17",
             "button_type": "btn--white",
             "button_size": "btn--large",
@@ -44,15 +44,10 @@
         "text_kz9Cck",
         "button_tidmiF"
       ],
-      "custom_css": [
-        "@media (max-width: 768px) {.hero__content {margin-bottom: 10%; }}",
-        "h2 {font-weight: 600;}",
-        ".btn {background: rgba(0, 0, 0, 0.25); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);}"
-      ],
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-full",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_2696.jpg",
+        "image_1": "shopify://shop_images/Camo_Yankee_f5a08ceb-2e25-43c9-af49-241b61bb8f6d.jpg",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
         "mobile_image": "shopify://shop_images/IMG_2696.jpg",
