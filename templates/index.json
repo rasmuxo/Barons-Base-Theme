@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "TODAY 12 PM CST",
+            "title": "",
             "heading_size": 4
           }
         },
@@ -30,12 +30,12 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "",
+            "link_text": "LIVE NOW",
             "link": "shopify://collections/yankees-camo",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
-            "show_arrow": false
+            "show_arrow": true
           }
         }
       },
