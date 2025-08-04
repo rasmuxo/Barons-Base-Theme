@@ -31,6 +31,7 @@
       "blocks": {
         "buttons_6PJDbp": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_text": "JOIN WAITLIST",
             "button_url": "",
