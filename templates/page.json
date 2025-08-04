@@ -17,7 +17,7 @@
         "show_title": true,
         "heading_size": 2,
         "show_content": true,
-        "text_size": 4,
+        "text_size": 2,
         "align_text": "text-center",
         "width": "wrapper",
         "bg_color": "",
@@ -31,10 +31,9 @@
       "blocks": {
         "buttons_6PJDbp": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
             "button_text": "JOIN WAITLIST",
-            "button_url": "",
+            "button_url": "shopify://pages/get-updated-1",
             "button_type": "btn--primary",
             "button_size": "",
             "button_style": "btn--solid",
