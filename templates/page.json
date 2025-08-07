@@ -60,6 +60,7 @@
         "subheading_iURitc",
         "heading_eR66py"
       ],
+      "disabled": true,
       "name": "Countdown",
       "settings": {
         "end_date": "2025-08-07",
@@ -83,10 +84,36 @@
         "text_size_mobile": 6,
         "text_align_mobile": "text-left--mobile"
       }
+    },
+    "section_collection_bpqeaG": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "heading": "BOXY STRIPED TEE",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "shopify://collections/boxy-striped-te",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "boxy-striped-te",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
     "main",
-    "section_countdown_timer_wfPm8n"
+    "section_countdown_timer_wfPm8n",
+    "section_collection_bpqeaG"
   ]
 }
