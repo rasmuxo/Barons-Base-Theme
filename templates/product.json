@@ -35,6 +35,19 @@
             "padding_bottom": 16
           }
         },
+        "inventory_countdown_cKiwjM": {
+          "type": "inventory_countdown",
+          "settings": {
+            "show_notice": "low-inventory",
+            "max_inventory": 10,
+            "hide_inventory_counter": false,
+            "icon_size": 20,
+            "in_stock_color": "#56ad6a",
+            "low_stock_color": "#f79554",
+            "out_of_stock_color": "#721c24",
+            "padding_bottom": 14
+          }
+        },
         "buttons_gJMV8G": {
           "type": "buttons",
           "settings": {
@@ -68,29 +81,16 @@
             "raw_content_5": "",
             "padding_bottom": 0
           }
-        },
-        "inventory_countdown_cKiwjM": {
-          "type": "inventory_countdown",
-          "settings": {
-            "show_notice": "low-inventory",
-            "max_inventory": 10,
-            "hide_inventory_counter": false,
-            "icon_size": 20,
-            "in_stock_color": "#56ad6a",
-            "low_stock_color": "#f79554",
-            "out_of_stock_color": "#721c24",
-            "padding_bottom": 32
-          }
         }
       },
       "block_order": [
         "title_mW6eDH",
         "price_azRYwM",
         "variants_Mcwp9c",
+        "inventory_countdown_cKiwjM",
         "buttons_gJMV8G",
         "pickup",
-        "tabs",
-        "inventory_countdown_cKiwjM"
+        "tabs"
       ],
       "custom_css": [
         ".accordion__title,.product__title {font-size: 12.5px; font-weight: 600; text-transform: uppercase;}",
