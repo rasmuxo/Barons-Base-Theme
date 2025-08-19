@@ -198,6 +198,31 @@
         "padding_bottom": 30
       }
     },
+    "section_collection_QnhmPy": {
+      "type": "section-collection",
+      "name": "Featured collection",
+      "settings": {
+        "heading": "",
+        "description": "",
+        "layout": "inline",
+        "link_text": "",
+        "link_url": "",
+        "button_type": "btn--primary",
+        "button_size": "",
+        "button_style": "btn--solid",
+        "show_arrow": false,
+        "featured_collection": "boxy-striped-te",
+        "layout_desktop": "grid",
+        "grid": 4,
+        "rows": 3,
+        "width": "wrapper",
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "section_collection_NDJPQa": {
       "type": "section-collection",
       "disabled": true,
@@ -609,6 +634,7 @@
   "order": [
     "section_hero_EGeNPd",
     "section_tab_collections_ytTke7",
+    "section_collection_QnhmPy",
     "section_collection_NDJPQa",
     "section_double_kHKeyT",
     "section_custom_content_exCLPW",
