@@ -629,6 +629,89 @@
         "padding_top": 15,
         "padding_bottom": 0
       }
+    },
+    "section_timeline_VzaKiC": {
+      "type": "section-timeline",
+      "blocks": {
+        "timeline_pt4Bcg": {
+          "type": "timeline",
+          "settings": {
+            "image": "shopify://shop_images/MysteryBox_07.jpg",
+            "subheading": "Step 1",
+            "subheading_size": 3,
+            "title": "Select your tier",
+            "heading_size": 8,
+            "text": "<p>Tiers are based on the minimum value of what will be in the box.</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "button_text": "Start here",
+            "button_url": "shopify://products/mystery-box",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "timeline_A86rkt": {
+          "type": "timeline",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1879.jpg",
+            "subheading": "Step 2",
+            "subheading_size": 4,
+            "title": "We get your sizes & interests",
+            "heading_size": 8,
+            "text": "<p>We simpily text you for your sizes, and what kind of pieces you're interested in.</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "button_text": "Select my mystery box",
+            "button_url": "shopify://products/mystery-box",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        },
+        "timeline_ktyYpC": {
+          "type": "timeline",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2298.jpg",
+            "subheading": "Step 3",
+            "subheading_size": 3,
+            "title": "Sit back & wait",
+            "heading_size": 8,
+            "text": "<p>We will curate a box based off what we think you'll love, you just sit back and wait.</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "button_text": "get me started",
+            "button_url": "shopify://products/mystery-box",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "timeline_pt4Bcg",
+        "timeline_A86rkt",
+        "timeline_ktyYpC"
+      ],
+      "name": "Timeline",
+      "settings": {
+        "title": "Mystery Box",
+        "heading_size": 8,
+        "text": "",
+        "text_size": 4,
+        "text_alignment": "text-left",
+        "show_images": true,
+        "bg_color": "",
+        "color": "",
+        "dot_background": "",
+        "width": "wrapper--full",
+        "mobile_height": "screen-height-one-third--mobile",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
@@ -641,6 +724,7 @@
     "section_slideshow_aARprp",
     "section_announcement_f8cghn",
     "section_rich_text_Yany9X",
-    "section_reviews_L38mjn"
+    "section_reviews_L38mjn",
+    "section_timeline_VzaKiC"
   ]
 }
