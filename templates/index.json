@@ -606,7 +606,8 @@
           "settings": {
             "title": "Vivian",
             "subheading": "@viiviaxnne",
-            "review_text": "Use this text to showcase a review from one of your customers. A great review is honest and speaks to the concerns of your customers.",
+            "review_text": "",
+            "featured_image": "shopify://shop_images/IMG_3681.jpg",
             "review_url": ""
           }
         }
