@@ -388,24 +388,24 @@
     "section_slideshow_aARprp": {
       "type": "section-slideshow",
       "blocks": {
-        "image_tJ4aja": {
+        "image_MbC4C9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0153.heic",
-            "overlay_opacity": 25,
+            "image": "shopify://shop_images/IMG_3322.heic",
+            "overlay_opacity": 0,
             "overlay_color": "#000000",
-            "show_overlay_text": true,
-            "title": "yankees",
+            "show_overlay_text": false,
+            "title": "alc/cig tops",
             "heading_size": 4,
-            "description": "shop our latest curated collection of everyone's favorite baseball team",
-            "text_size": 3,
+            "description": "shop budweiser, marlboro, camel, and more",
+            "text_size": 5,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
             "bg_color": "",
             "color": "#ffffff",
             "first_button_text": "shop collection",
-            "first_button_link": "shopify://collections/yankees",
-            "first_button_type": "btn--white",
+            "first_button_link": "shopify://collections/cig-alc-2",
+            "first_button_type": "btn--primary",
             "first_button_size": "",
             "first_button_style": "btn--solid",
             "first_button_show_arrow": false,
@@ -446,24 +446,24 @@
             "second_button_show_arrow": false
           }
         },
-        "image_MbC4C9": {
+        "image_tJ4aja": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_3322.heic",
-            "overlay_opacity": 0,
+            "image": "shopify://shop_images/IMG_0153.heic",
+            "overlay_opacity": 25,
             "overlay_color": "#000000",
-            "show_overlay_text": false,
-            "title": "alc/cig tops",
+            "show_overlay_text": true,
+            "title": "yankees",
             "heading_size": 4,
-            "description": "shop budweiser, marlboro, camel, and more",
-            "text_size": 5,
+            "description": "shop our latest curated collection of everyone's favorite baseball team",
+            "text_size": 3,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
             "bg_color": "",
             "color": "#ffffff",
             "first_button_text": "shop collection",
-            "first_button_link": "shopify://collections/alcohol-2",
-            "first_button_type": "btn--primary",
+            "first_button_link": "shopify://collections/yankees",
+            "first_button_type": "btn--white",
             "first_button_size": "",
             "first_button_style": "btn--solid",
             "first_button_show_arrow": false,
@@ -506,9 +506,9 @@
         }
       },
       "block_order": [
-        "image_tJ4aja",
-        "image_GLUgdb",
         "image_MbC4C9",
+        "image_GLUgdb",
+        "image_tJ4aja",
         "image_B6Q37J"
       ],
       "custom_css": [
