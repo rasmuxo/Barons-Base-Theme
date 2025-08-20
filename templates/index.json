@@ -620,6 +620,16 @@
             "featured_image": "shopify://shop_images/IMG_3677.jpg",
             "review_url": ""
           }
+        },
+        "review_B7wkAX": {
+          "type": "review",
+          "settings": {
+            "title": "Zion Williamson",
+            "subheading": "@zionwilliamson",
+            "review_text": "",
+            "featured_image": "shopify://shop_images/IMG_3678.jpg",
+            "review_url": ""
+          }
         }
       },
       "block_order": [
@@ -628,7 +638,8 @@
         "review_NwDncT",
         "review_TJLwbK",
         "review_p3FNJt",
-        "review_hdpmUh"
+        "review_hdpmUh",
+        "review_B7wkAX"
       ],
       "custom_css": [
         "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
