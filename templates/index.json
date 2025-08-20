@@ -610,6 +610,15 @@
             "featured_image": "shopify://shop_images/IMG_3681.jpg",
             "review_url": ""
           }
+        },
+        "review_hdpmUh": {
+          "type": "review",
+          "settings": {
+            "title": "Nolan",
+            "subheading": "@nolannnj",
+            "review_text": "",
+            "review_url": ""
+          }
         }
       },
       "block_order": [
@@ -617,7 +626,8 @@
         "review_KUAnqA",
         "review_NwDncT",
         "review_TJLwbK",
-        "review_p3FNJt"
+        "review_p3FNJt",
+        "review_hdpmUh"
       ],
       "custom_css": [
         "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
