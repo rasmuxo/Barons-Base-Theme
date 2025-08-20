@@ -391,7 +391,7 @@
         "image_B6Q37J": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_3383_5e61c921-d527-4ea2-9c7f-0265f07859b8.jpg",
+            "image": "shopify://shop_images/IMG_0153.heic",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
@@ -420,7 +420,7 @@
         "image_tJ4aja": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_4056.jpg",
+            "image": "shopify://shop_images/IMG_0153.heic",
             "overlay_opacity": 25,
             "overlay_color": "#000000",
             "show_overlay_text": true,
