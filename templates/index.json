@@ -600,13 +600,23 @@
             "featured_image": "shopify://shop_images/IMG_7556.jpg",
             "review_url": ""
           }
+        },
+        "review_p3FNJt": {
+          "type": "review",
+          "settings": {
+            "title": "Vivian",
+            "subheading": "@viiviaxnne",
+            "review_text": "Use this text to showcase a review from one of your customers. A great review is honest and speaks to the concerns of your customers.",
+            "review_url": ""
+          }
         }
       },
       "block_order": [
         "review_6FkA4V",
         "review_KUAnqA",
         "review_NwDncT",
-        "review_TJLwbK"
+        "review_TJLwbK",
+        "review_p3FNJt"
       ],
       "custom_css": [
         "#Reviews--template--24544794607894__section_reviews_L38mjn {border-radius: 0 0 25px 25px; width: 92%; margin: 0 auto; padding: 0 15px;}",
