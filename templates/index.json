@@ -21,6 +21,7 @@
         },
         "text_kz9Cck": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "description": "",
             "text_size": 1,
@@ -29,6 +30,7 @@
         },
         "button_tidmiF": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "SHOP COLLECTION",
             "link": "shopify://collections/west-coast-choppers",
