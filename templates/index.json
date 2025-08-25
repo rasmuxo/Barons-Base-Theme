@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "VINTAGE WEST COAST CHOPPERS: LIVE NOW",
+            "title": "",
             "heading_size": 4
           }
         },
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_2505.heic",
+        "image_1": "shopify://shop_images/NFL_DROP.heic",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_2505.heic",
+        "mobile_image": "shopify://shop_images/NFL_DROP.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
