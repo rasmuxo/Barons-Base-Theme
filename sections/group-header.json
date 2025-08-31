@@ -31,9 +31,9 @@
       "custom_css": [],
       "settings": {
         "header_sticky": true,
-        "header_style": "drawer",
+        "header_style": "logo_center_menu_left",
         "show_separator_line": true,
-        "separator_opacity": 25,
+        "separator_opacity": 50,
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
