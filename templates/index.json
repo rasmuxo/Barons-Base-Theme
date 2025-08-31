@@ -54,6 +54,9 @@
     },
     "section_collection_hjW687": {
       "type": "section-collection",
+      "custom_css": [
+        ".product-information {text-align: center;}"
+      ],
       "settings": {
         "heading": "",
         "description": "",
