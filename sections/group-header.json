@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "span {font-size: 12.5px;}"
+        "span {font-size: 12.5px; font-family: \"normalidad-wide\", sans-serif; font-weight: 400; font-style: normal;}"
       ],
       "settings": {
         "header_sticky": true,
