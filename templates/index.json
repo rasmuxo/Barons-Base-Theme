@@ -39,7 +39,7 @@
         "h2 {font-family: \"normalidad-wide\", sans-serif; font-weight: 400; font-style: normal;}"
       ],
       "settings": {
-        "height": "screen-height-full",
+        "height": "seven-fifty-height-hero",
         "width": "wrapper--full",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
