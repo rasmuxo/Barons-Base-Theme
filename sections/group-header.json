@@ -40,7 +40,7 @@
         "logo": "shopify://shop_images/IMG_6690.png",
         "logo_max_limit": 85,
         "logo_max_limit_mobile": 50,
-        "main_menu_linklist": "",
+        "main_menu_linklist": "mtrx-main-menu",
         "mobile_menu_linklist": "",
         "enable_search": true,
         "show_social_icons": true,
