@@ -38,7 +38,7 @@
         "separator_opacity": 50,
         "show_icons": true,
         "icon_as_circle": false,
-        "cart_icon_family": "bag",
+        "cart_icon_family": "cart",
         "logo": "shopify://shop_images/IMG_6690.png",
         "logo_max_limit": 85,
         "logo_max_limit_mobile": 50,
