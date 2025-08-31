@@ -55,6 +55,7 @@
         "transparent_collection": false,
         "transparent_article": false,
         "transparent_page": false,
+        "transparent_logo": "shopify://shop_images/IMG_6690_a7c9a177-46d4-4965-97af-c3577ed2b0e8.png",
         "secondary_menu_linklist": "",
         "tertiary_menu_linklist": "",
         "padding_top": 15,
