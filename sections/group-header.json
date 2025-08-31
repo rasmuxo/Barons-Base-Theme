@@ -28,7 +28,9 @@
     },
     "header": {
       "type": "header",
-      "custom_css": [],
+      "custom_css": [
+        "span {font-size: 12.5px;}"
+      ],
       "settings": {
         "header_sticky": true,
         "header_style": "logo_center_menu_left",
