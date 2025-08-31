@@ -30,19 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP MEN'S",
+            "link_text": "SHOP NOW",
             "link": "shopify://collections/frontpage",
-            "button_type": "btn--white",
-            "button_size": "",
-            "button_style": "btn--outline",
-            "show_arrow": false
-          }
-        },
-        "button_TKG9WG": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP WOMEN'S",
-            "link": "",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--outline",
@@ -53,8 +42,7 @@
       "block_order": [
         "heading_Deh4At",
         "text_kz9Cck",
-        "button_tidmiF",
-        "button_TKG9WG"
+        "button_tidmiF"
       ],
       "custom_css": [
         "h2 {font-family: \"normalidad-wide\", sans-serif; font-weight: 400; font-style: normal;}"
