@@ -33,7 +33,7 @@
         "header_sticky": true,
         "header_style": "drawer",
         "show_separator_line": true,
-        "separator_opacity": 50,
+        "separator_opacity": 25,
         "show_icons": true,
         "icon_as_circle": false,
         "cart_icon_family": "bag",
