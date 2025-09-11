@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "",
+            "title": "'VINTAGE FALL COLLECTION'",
             "heading_size": 4
           }
         },
@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/nfl",
+            "link": "shopify://collections/fall-collection",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_8985_3.jpg",
+        "image_1": "shopify://shop_images/IMG_0893-preview.heic",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_8985_3.jpg",
+        "mobile_image": "shopify://shop_images/IMG_0893-preview.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
