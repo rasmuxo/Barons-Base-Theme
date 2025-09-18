@@ -15,14 +15,14 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "'VINTAGE FALL COLLECTION'",
+            "title": "",
             "heading_size": 4
           }
         },
         "text_kz9Cck": {
           "type": "text",
           "settings": {
-            "description": "LIVE NOW",
+            "description": "",
             "text_size": 1,
             "text_style": "font-body"
           }
@@ -30,7 +30,7 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP COLLECTION",
+            "link_text": "Live now",
             "link": "shopify://collections/fall-collection",
             "button_type": "btn--white",
             "button_size": "btn--large",
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_0893-preview.heic",
+        "image_1": "shopify://shop_images/IMG_1321.heic",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_0893-preview.heic",
+        "mobile_image": "shopify://shop_images/IMG_1321.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
