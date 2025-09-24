@@ -30,7 +30,7 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "Live now",
+            "link_text": "",
             "link": "shopify://collections/fall-bottoms",
             "button_type": "btn--white",
             "button_size": "btn--large",
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_1321.heic",
+        "image_1": "shopify://shop_images/Artboard_1cc.heic",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_1321.heic",
+        "mobile_image": "shopify://shop_images/Artboard_1cc.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
