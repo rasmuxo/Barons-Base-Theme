@@ -404,7 +404,7 @@
             "bg_color": "",
             "color": "#ffffff",
             "first_button_text": "shop collection",
-            "first_button_link": "shopify://collections/cig-alc-2",
+            "first_button_link": "shopify://collections/shop-all-bottoms",
             "first_button_type": "btn--primary",
             "first_button_size": "",
             "first_button_style": "btn--solid",
