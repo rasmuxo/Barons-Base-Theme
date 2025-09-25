@@ -420,13 +420,13 @@
         "image_GLUgdb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_8623_3.jpg",
+            "image": "shopify://shop_images/IMG_0488.heic",
             "overlay_opacity": 25,
             "overlay_color": "#000000",
             "show_overlay_text": true,
-            "title": "camo tops",
+            "title": "all things fall",
             "heading_size": 4,
-            "description": "an all year around essential - shop one of our newest restocks",
+            "description": "just in time for the season",
             "text_size": 3,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
@@ -449,13 +449,13 @@
         "image_tJ4aja": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0153.heic",
+            "image": "shopify://shop_images/IMG_7820_f3af1cf0-db97-4930-89ce-4a72ec62752a.jpg",
             "overlay_opacity": 25,
             "overlay_color": "#000000",
             "show_overlay_text": true,
-            "title": "yankees",
+            "title": "the new neutral",
             "heading_size": 4,
-            "description": "shop our latest curated collection of everyone's favorite baseball team",
+            "description": "shop camo sweatshirts, tees, sweatpants, and more",
             "text_size": 3,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
