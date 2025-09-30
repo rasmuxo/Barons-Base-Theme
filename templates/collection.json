@@ -54,7 +54,7 @@
       ],
       "settings": {
         "enable_sort": true,
-        "enable_filters": true,
+        "enable_filters": false,
         "filter_layout": "inline-closed",
         "collection_linklist": "",
         "grid": 6,
