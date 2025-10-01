@@ -57,20 +57,13 @@
             "padding_bottom": 32
           }
         },
-        "pickup": {
-          "type": "pickup",
-          "disabled": true,
-          "settings": {
-            "padding_bottom": 32
-          }
-        },
         "tabs": {
           "type": "tab_richtext",
           "settings": {
             "show_read_more": true,
             "style": "accordions",
-            "title_1": "CARE INFO",
-            "raw_content_1": "<p>COTTON - MACHINE WASH COLD, TUMBLE DRY LOW, IRON ON LOW HEAT IF NEEDED</p><p>POLYESTER - MACHINE WASH WARM, HANG TO DRY, AVOID HIGH HEAT</p><p>WOOL - HAND WASH COLD, LAY FLAT TO DRY, DO NOT WRING OR TUMBLE DRY<br/></p>",
+            "title_1": "VINTAGE SIZING + CARE INFO",
+            "raw_content_1": "<p>ALL VINTAGE CLOTHING IS LISTED WITH THEIR TAGGED SIZE</p><p>HOWEVER, WE PROVIDE MEASUREMENTS AS MANY BRANDS DIFFER, </p><p>AND TO ACCOUNT FOR ANY STRETCHING/SHRINKAGE.</p><p></p><p>COTTON - MACHINE WASH COLD, TUMBLE DRY LOW, IRON ON LOW HEAT IF NEEDED</p><p>POLYESTER - MACHINE WASH WARM, HANG TO DRY, AVOID HIGH HEAT</p><p>WOOL - HAND WASH COLD, LAY FLAT TO DRY, DO NOT WRING OR TUMBLE DRY</p>",
             "title_2": "",
             "raw_content_2": "",
             "title_3": "",
@@ -89,7 +82,6 @@
         "variants_Mcwp9c",
         "inventory_countdown_cKiwjM",
         "buttons_gJMV8G",
-        "pickup",
         "tabs"
       ],
       "custom_css": [
