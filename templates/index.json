@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "VINTAGE FALL COLLECTION",
+            "title": "",
             "heading_size": 4
           }
         },
@@ -30,8 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/fall-collection",
+            "link_text": "",
+            "link": "shopify://collections/pink-carhartt",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_0983_3_76758dea-3d15-4de3-83f3-0e358267579c.jpg",
-        "link": "https://agedivy.com/collections/fall-collection",
+        "image_1": "shopify://shop_images/Pink_Carhartt_03.jpg",
+        "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_0983_3_76758dea-3d15-4de3-83f3-0e358267579c.jpg",
+        "mobile_image": "shopify://shop_images/Pink_Carhartt_03.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
