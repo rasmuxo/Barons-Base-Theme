@@ -67,7 +67,7 @@
         "button_size": "",
         "button_style": "btn--solid",
         "show_arrow": false,
-        "featured_collection": "frontpage",
+        "featured_collection": "new-arrivals",
         "layout_desktop": "grid",
         "grid": 5,
         "rows": 1,
