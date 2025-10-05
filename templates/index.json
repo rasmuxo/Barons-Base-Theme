@@ -56,7 +56,7 @@
       "type": "section-collection",
       "custom_css": [
         ".product-information {text-align: center; font-family: \"normalidad-wide\", sans-serif; font-weight: 400; font-style: normal; font-size: 13px;}",
-        ".product-item__price{display: none;}"
+        ".product-item__price {display: none;}"
       ],
       "settings": {
         "heading": "",
@@ -83,36 +83,19 @@
     "section_hero_gdT8Pn": {
       "type": "section-hero",
       "blocks": {
-        "heading_qGwyyY": {
-          "type": "heading",
-          "settings": {
-            "title": "Kith Women Spring 2024",
-            "heading_size": 7
-          }
-        },
-        "text_tzibzp": {
-          "type": "text",
-          "settings": {
-            "description": "Defined by light springtime hues, vintage-inspired silhouettes, and transitional fabrics.",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
         "button_BazDMn": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP NOW",
+            "link_text": "SHOP HYDRATION",
             "link": "",
             "button_type": "btn--white",
-            "button_size": "btn--small",
+            "button_size": "btn--large",
             "button_style": "btn--text",
             "show_arrow": true
           }
         }
       },
       "block_order": [
-        "heading_qGwyyY",
-        "text_tzibzp",
         "button_BazDMn"
       ],
       "settings": {
@@ -120,8 +103,8 @@
         "width": "wrapper--full",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
+        "flex_align_desktop": "align--bottom-center-desktop",
+        "flex_align_mobile": "align--bottom-center-mobile",
         "overlay_opacity": 20,
         "overlay_color": "#000000",
         "show_overlay_text": true,
