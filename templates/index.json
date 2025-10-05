@@ -115,17 +115,10 @@
     "section_hero_jHxQpj": {
       "type": "section-hero",
       "blocks": {
-        "heading_9qcerD": {
-          "type": "heading",
-          "settings": {
-            "title": "SHOP AYQ",
-            "heading_size": 6
-          }
-        },
         "button_8Nfahd": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP HYDRATION",
+            "link_text": "SHOP AYQ",
             "link": "",
             "button_type": "btn--black",
             "button_size": "btn--large",
@@ -135,7 +128,6 @@
         }
       },
       "block_order": [
-        "heading_9qcerD",
         "button_8Nfahd"
       ],
       "settings": {
@@ -150,152 +142,6 @@
         "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
-      }
-    },
-    "section_collection_ChAw3h": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "",
-        "layout_desktop": "grid",
-        "grid": 4,
-        "rows": 2,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "section_hero_dAkdMp": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_xpWdCm": {
-          "type": "heading",
-          "settings": {
-            "title": "Kith Artist Series Capsule 2024",
-            "heading_size": 8
-          }
-        },
-        "text_HziTB8": {
-          "type": "text",
-          "settings": {
-            "description": "In honor of Black History Month, we continue our Artist Series with works from Brandon Deener, Mia Lee, and Eddie “EDO” Santana White.",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
-        "button_d9fCC6": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP NOW",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_xpWdCm",
-        "text_HziTB8",
-        "button_d9fCC6"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "link": "",
-        "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 20,
-        "overlay_color": "#000000",
-        "show_overlay_text": true,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
-    "section_hero_tUVxth": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_dxYjJN": {
-          "type": "heading",
-          "settings": {
-            "title": "Kith for the New York Knicks 2023",
-            "heading_size": 8
-          }
-        },
-        "text_6LGNxH": {
-          "type": "text",
-          "settings": {
-            "description": "Introducing Kith for the New York Knicks 2023– including custom outerwear, premium loungewear, and exclusive lifestyle goods.",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
-        "button_y8KJkY": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP NOW",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_dxYjJN",
-        "text_6LGNxH",
-        "button_y8KJkY"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "link": "",
-        "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 20,
-        "overlay_color": "#000000",
-        "show_overlay_text": true,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
-    "section_collection_CR4qLP": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "",
-        "layout_desktop": "slider",
-        "grid": 4,
-        "rows": 3,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "slider",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
       }
     },
     "section_collections_list_EfRha8": {
@@ -348,38 +194,6 @@
         "padding_bottom": 32
       }
     },
-    "section_hero_y98i43": {
-      "type": "section-hero",
-      "blocks": {
-        "button_f3Bf4U": {
-          "type": "button",
-          "settings": {
-            "link_text": "DOWNLOAD NOW",
-            "link": "",
-            "button_type": "btn--black",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": false
-          }
-        }
-      },
-      "block_order": [
-        "button_f3Bf4U"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "link": "",
-        "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-center-desktop",
-        "flex_align_mobile": "align--bottom-center-mobile",
-        "overlay_opacity": 5,
-        "overlay_color": "#000000",
-        "show_overlay_text": true,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
     "section_blog_gdAGQ7": {
       "type": "section-blog",
       "settings": {
@@ -408,12 +222,7 @@
     "section_collection_hjW687",
     "section_hero_gdT8Pn",
     "section_hero_jHxQpj",
-    "section_collection_ChAw3h",
-    "section_hero_dAkdMp",
-    "section_hero_tUVxth",
-    "section_collection_CR4qLP",
     "section_collections_list_EfRha8",
-    "section_hero_y98i43",
     "section_blog_gdAGQ7"
   ]
 }
