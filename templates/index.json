@@ -112,72 +112,39 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_Cqgm3n": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "",
-        "layout_desktop": "grid",
-        "grid": 4,
-        "rows": 2,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "slider",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
-    "section_hero_9Cd9YP": {
+    "section_hero_jHxQpj": {
       "type": "section-hero",
       "blocks": {
-        "heading_XeqXHV": {
+        "heading_9qcerD": {
           "type": "heading",
           "settings": {
-            "title": "Kith Kids Spring 2024",
-            "heading_size": 8
+            "title": "SHOP AYQ",
+            "heading_size": 6
           }
         },
-        "text_3AnaQj": {
-          "type": "text",
-          "settings": {
-            "description": "Explore vibrant knitwear, seasonal prints, and lightweight outerwear designed for easy Spring dressing",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
-        "button_UmpGbT": {
+        "button_8Nfahd": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP NOW",
+            "link_text": "SHOP HYDRATION",
             "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
+            "button_type": "btn--black",
+            "button_size": "btn--large",
+            "button_style": "btn--solid",
             "show_arrow": false
           }
         }
       },
       "block_order": [
-        "heading_XeqXHV",
-        "text_3AnaQj",
-        "button_UmpGbT"
+        "heading_9qcerD",
+        "button_8Nfahd"
       ],
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
+        "flex_align_desktop": "align--bottom-center-desktop",
+        "flex_align_mobile": "align--bottom-center-mobile",
         "overlay_opacity": 20,
         "overlay_color": "#000000",
         "show_overlay_text": true,
@@ -440,8 +407,7 @@
     "section_hero_EGeNPd",
     "section_collection_hjW687",
     "section_hero_gdT8Pn",
-    "section_collection_Cqgm3n",
-    "section_hero_9Cd9YP",
+    "section_hero_jHxQpj",
     "section_collection_ChAw3h",
     "section_hero_dAkdMp",
     "section_hero_tUVxth",
