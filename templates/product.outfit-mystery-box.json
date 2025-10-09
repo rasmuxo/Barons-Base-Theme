@@ -127,6 +127,121 @@
         "padding_bottom": 30
       }
     },
+    "section_accordion_group_6fKUCT": {
+      "type": "section-accordion-group",
+      "blocks": {
+        "heading_P7cFwj": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQS from the Past"
+          }
+        },
+        "question_JG9M3X": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "📦 What if I don’t like what I receive?",
+            "content": "<p>We make sure you do. Our <strong>expert in-house stylists curate each outfit based on your preferences</strong>, ensuring you receive high-quality, handpicked vintage pieces tailored to your unique style.</p><p>But if for any reason you’re not satisfied, <strong>we’ll replace your box</strong> or offer a <strong>hassle-free return</strong>. You’re completely covered—because we only win when you love what you wear.</p><p>💡 <strong>No risk. All reward. Your style upgrade is guaranteed.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_7gcwrr": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "💰 Why is vintage worth more?",
+            "content": "<p>Because <strong>this isn’t just any clothing box—it’s an investment in rarity, style, and identity</strong>.</p><p>Each outfit includes <strong>3-5 handpicked, premium vintage pieces</strong>, curated to your aesthetic. If purchased separately, these items would retail for <strong>over $300</strong>, meaning you’re getting an <strong>exclusive wardrobe upgrade at nearly 50% off retail value</strong>.</p><p>💡 <strong>You’re not buying clothes — you’re unlocking cultural capital.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_WbbBrm": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "📏 What if something doesn’t fit me?",
+            "content": "<p>No worries—<strong>we've got you covered</strong>.</p><p>1️⃣ <strong>Personalized Sizing</strong> – Before shipping, we match you with items that fit your exact size & style.<br/>2️⃣ <strong>Easy Exchanges</strong> – If anything doesn’t fit, we offer hassle-free swaps.</p><p>💡 <strong>No bad fits, just flawless vibes.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_KzM3BK": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "🚀 How long does shipping take?",
+            "content": "<p>We move fast—because you shouldn’t have to wait.</p><p>📦 <strong>Orders ship within 24-48 hours.</strong><br/>📍 <strong>Delivery times:</strong></p><ul><li><strong>US:</strong> 3-5 business days</li><li><strong>International:</strong> 5-10 business days</li></ul><p>💡 <strong>Your glow-up is only days away.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_VYYP4y": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "👟 Are shoes included?",
+            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p><p>✔️ Your kicks = your signature move. We handle the outfit, you finish the masterpiece.<br/><br/>💡 <strong>We handle the outfit, you finish the masterpiece.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_6XgPxD": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "🛍️ Are these items new or pre-owned?",
+            "content": "<p>They’re <strong>true vintage treasures</strong>—meaning they come with history, character, and an authenticity that can’t be replicated.</p><p>👕 Most items are <strong>gently pre-loved</strong>, while some are <strong>deadstock</strong> (vintage but never worn, sometimes even with original tags).</p><p>✔️ <strong>No mass production, no fast fashion—just rare, high-quality pieces made to last</strong>💡 </p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        },
+        "question_qEqjHc": {
+          "type": "question",
+          "settings": {
+            "default_open": false,
+            "title": "🌱 Is vintage clothing really sustainable?",
+            "content": "<p>1000% yes. Buying vintage = <strong>saving the planet</strong>.</p><p>♻️ <strong>Every purchase reduces textile waste & cuts down on fast fashion pollution.</strong><br/>🌏 <strong>Vintage clothing = timeless quality that lasts for decades.</strong><br/>💚 <strong>Your style choice makes a difference.</strong></p><p>💡 <strong>Feel good. Look better. Impact the planet.</strong></p>",
+            "show_icon": false,
+            "icon_name": "icon-award",
+            "icon_size": 20,
+            "icon_color": "#545454"
+          }
+        }
+      },
+      "block_order": [
+        "heading_P7cFwj",
+        "question_JG9M3X",
+        "question_7gcwrr",
+        "question_WbbBrm",
+        "question_KzM3BK",
+        "question_VYYP4y",
+        "question_6XgPxD",
+        "question_qEqjHc"
+      ],
+      "name": "Accordion group",
+      "settings": {
+        "width": "wrapper--narrow",
+        "columns": "1",
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
     "related": {
       "type": "related",
       "blocks": {
@@ -141,6 +256,7 @@
       "block_order": [
         "related_dQgxbi"
       ],
+      "disabled": true,
       "custom_css": [
         "h6 {font-size: 15px; text-transform: uppercase;}"
       ],
@@ -158,6 +274,7 @@
   },
   "order": [
     "main",
+    "section_accordion_group_6fKUCT",
     "related"
   ]
 }
