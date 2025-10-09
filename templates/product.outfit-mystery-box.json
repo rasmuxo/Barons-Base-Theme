@@ -238,44 +238,41 @@
     "socialvideos_T7dUML": {
       "type": "socialvideos",
       "blocks": {
-        "video_p8bf7n": {
+        "video_7pYVjT": {
           "type": "video",
           "settings": {
-            "text": "“We had our fun last night.”",
-            "icon_type": "tiktok"
+            "video": "shopify://files/videos/(28.1.2025)-copy (2).mov",
+            "poster": "shopify://shop_images/Photo_28-1-2025_3_24_20_pm_1.jpg",
+            "text": "“I was expecting a few decent pieces, but I got a perfectly faded Carhartt jacket and a Harley tee that looks straight outta 1997. This is WILD\" - Jake M",
+            "icon_type": "none"
           }
         },
-        "video_rQ8zAj": {
+        "video_A6RRBx": {
           "type": "video",
           "settings": {
-            "text": "“This will change your love life...seriously”",
-            "icon_type": "tiktok"
+            "video": "shopify://files/videos/Unbox Diesel Sweat.mov",
+            "poster": "shopify://shop_images/Photo_28-1-2025_3_21_49_pm.jpg",
+            "text": "“Okay, I have commitment issues, but I think I just fell in love… with this mystery box. Every piece is a 10/10.” - Alex W",
+            "icon_type": "none"
           }
         },
-        "video_Mqhmrb": {
+        "video_icfBMJ": {
           "type": "video",
           "settings": {
-            "text": "“It made our night so incredible”",
-            "icon_type": "tiktok"
-          }
-        },
-        "video_NT97LL": {
-          "type": "video",
-          "settings": {
-            "text": "“It definitely increased the sensation”",
-            "icon_type": "tiktok"
+            "video": "shopify://files/videos/Ad - Ubox batman.mov",
+            "poster": "shopify://shop_images/Photo_28-1-2025_3_28_52_pm.jpg",
+            "text": "“Not to be dramatic, but I wore my outfit box fit to brunch and got three compliments before I even sat down. I win.\" - Ava M.",
+            "icon_type": "none"
           }
         }
       },
       "block_order": [
-        "video_p8bf7n",
-        "video_rQ8zAj",
-        "video_Mqhmrb",
-        "video_NT97LL"
+        "video_7pYVjT",
+        "video_A6RRBx",
+        "video_icfBMJ"
       ],
-      "name": "SS - Video Grid Socials",
       "settings": {
-        "heading": "Heading",
+        "heading": "Unbox stock with us!",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "heading_size": 36,
@@ -285,7 +282,7 @@
         "items_mt_mobile": 10,
         "items_type": "columns",
         "items_type_mobile": "slider",
-        "columns_row": 4,
+        "columns_row": 3,
         "columns_row_mobile": 1,
         "columns_gap": 24,
         "columns_gap_mobile": 24,
@@ -310,7 +307,7 @@
         "text_size": 16,
         "text_height": 130,
         "text_align": "center",
-        "link_text": "Shop Now",
+        "link_text": "",
         "link_url": "",
         "link_custom": false,
         "link_font": "assistant_n4",
@@ -323,33 +320,33 @@
         "link_padding_horizontal": 50,
         "link_padding_vertical": 16,
         "hide_arrow": false,
-        "heading_color": "#120A0A",
-        "item_bg_color": "#FFFFFF",
-        "item_border_color": "#120A0A",
-        "icon_bg_color": "#E0C053",
-        "icon_color": "#FFFFFF",
-        "text_color": "#120A0A",
-        "slider_nav_btn_bg": "#FFFFFF",
-        "slider_nav_btn_hover_bg": "#E0C053",
-        "slider_nav_border": "#E0C053",
-        "slider_nav_border_hover": "#E0C053",
-        "slider_nav_icon": "#E0C053",
-        "slider_nav_hover_icon": "#FFFFFF",
-        "slider_pagination_color": "#E0C053",
-        "slider_pagination_hover_color": "#E0C053",
-        "link_text_color": "#120A0A",
-        "link_text_hover_color": "#FFFFFF",
-        "link_bg_color": "#FFFFFF",
-        "link_bg_hover_color": "#120A0A",
-        "link_border_color": "#120A0A",
-        "link_border_hover_color": "#120A0A",
-        "background_color": "#F4F4F4",
+        "heading_color": "#120a0a",
+        "item_bg_color": "#ffffff",
+        "item_border_color": "#120a0a",
+        "icon_bg_color": "#01754a",
+        "icon_color": "#ffffff",
+        "text_color": "#120a0a",
+        "slider_nav_btn_bg": "#ffffff",
+        "slider_nav_btn_hover_bg": "#01754a",
+        "slider_nav_border": "#036141",
+        "slider_nav_border_hover": "#036141",
+        "slider_nav_icon": "#036141",
+        "slider_nav_hover_icon": "#ffffff",
+        "slider_pagination_color": "#e0c053",
+        "slider_pagination_hover_color": "#e0c053",
+        "link_text_color": "#120a0a",
+        "link_text_hover_color": "#ffffff",
+        "link_bg_color": "#ffffff",
+        "link_bg_hover_color": "#120a0a",
+        "link_border_color": "#120a0a",
+        "link_border_hover_color": "#120a0a",
+        "background_color": "#f4f4f4",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 96,
-        "padding_bottom": 96,
+        "padding_top": 40,
+        "padding_bottom": 40,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": false,
