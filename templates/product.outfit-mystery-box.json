@@ -393,6 +393,9 @@
       "block_order": [
         "xo_sections_custom_section_w7gY3m"
       ],
+      "custom_css": [
+        ".xo-custom-1760019950502 {display: none;}"
+      ],
       "settings": {
         "include_margins": false
       }
