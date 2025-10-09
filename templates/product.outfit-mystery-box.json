@@ -130,68 +130,97 @@
     "scrollinglogo_HLyBn9": {
       "type": "scrollinglogo",
       "blocks": {
-        "slide_PUYWhw": {
+        "slide_9aRyCw": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/adidas-logo-adidas-icon-free-free-vector_300x300_9f151033-695c-4e27-8159-1153d9140ccd.jpg",
             "link": ""
           }
         },
-        "slide_kGAnMa": {
+        "slide_QkM4dX": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/the-north-face-1-logo-png-transparent_300x300_0671a734-4b74-4c64-88a0-0fd4b8c8ecba.png",
             "link": ""
           }
         },
-        "slide_3ffP7g": {
+        "slide_xbw6Lt": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/tommy-hilfiger-black8713.logowik.com_300x300_e52e527e-32e3-439f-bc66-8e0ecb1374f6.png",
             "link": ""
           }
         },
-        "slide_JLNHC7": {
+        "slide_8tJVTV": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/e8eb6e4c70e01899c19d62991f64f870_300x300_4505986f-c9c1-4b6c-86e6-b8fcf19227ac.png",
             "link": ""
           }
         },
-        "slide_LPq68X": {
+        "slide_DcDWD4": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/stussy-1-logo-png-transparent_300x300_d55074cf-05e6-4220-a392-39125c08422e.png",
             "link": ""
           }
         },
-        "slide_RxRnCY": {
+        "slide_NxfJ73": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Ralph-Lauren-Logo_300x300_258f5ea2-8087-4adc-b001-1d59ba200922.png",
+            "link": ""
+          }
+        },
+        "slide_NLGfTY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/c0be6c015c79aa78bcbb3bbeec7621fa_300x300_fca6f2ca-34b7-46b7-b331-69d59fc12397.png",
+            "link": ""
+          }
+        },
+        "slide_KKYbBd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/carhartt-black6539.logowik.com_300x300_32caf5e8-397a-486c-88f9-ab31c4fbd175.png",
+            "link": ""
+          }
+        },
+        "slide_Rfdccz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Nike-Logo-1978-present_300x300_c946c769-4afc-4b70-98cf-cafc515b99cf.png",
             "link": ""
           }
         }
       },
       "block_order": [
-        "slide_PUYWhw",
-        "slide_kGAnMa",
-        "slide_3ffP7g",
-        "slide_JLNHC7",
-        "slide_LPq68X",
-        "slide_RxRnCY"
+        "slide_9aRyCw",
+        "slide_QkM4dX",
+        "slide_xbw6Lt",
+        "slide_8tJVTV",
+        "slide_DcDWD4",
+        "slide_NxfJ73",
+        "slide_NLGfTY",
+        "slide_KKYbBd",
+        "slide_Rfdccz"
       ],
-      "name": "SS - Scrolling Logo Cloud",
       "settings": {
-        "ss-title": "Trusted by",
+        "ss-title": "Brands To Find Inside Your Box",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "header_size": 30,
         "header_align": "center",
-        "scrolling_velocity": 10,
+        "scrolling_velocity": 30,
         "pause_hover": false,
-        "shadow": false,
+        "shadow": true,
         "sliders_mt": 16,
         "logo_padding_top": 0,
         "logo_padding_bottom": 0,
-        "slider_gap": 30,
+        "slider_gap": 40,
         "slider_gap_mobile": 30,
         "slider_direction": "left",
-        "icon_width": 200,
+        "icon_width": 100,
         "header_color": "#121212",
         "border_color": "#ffffff",
         "background-color": "#ffffff",
@@ -199,7 +228,7 @@
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_bottom": 0,
         "full_width": true,
         "content_width": 120,
         "border_thickness": 0,
