@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "PINK CARHARTT JACKETS",
+            "title": "SHOP FALL VINTAGE",
             "heading_size": 4
           }
         },
@@ -47,10 +47,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_4226.heic",
+        "image_1": "shopify://shop_images/IMG_0759_4.jpg",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_4226.heic",
+        "mobile_image": "shopify://shop_images/IMG_0759_4.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
