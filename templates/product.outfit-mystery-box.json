@@ -738,6 +738,82 @@
         "padding_bottom": 10
       }
     },
+    "section_double_AGmmyH": {
+      "type": "section-double",
+      "blocks": {
+        "subheading_wTwkWa": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "✅ Trusted by thousands worldwide",
+            "text_size": 3,
+            "padding_bottom": 16
+          }
+        },
+        "heading_wXKBjz": {
+          "type": "heading",
+          "settings": {
+            "title": "🔥 Over 35,000+ Fits Delivered and Counting! 🔥",
+            "text_size": 5,
+            "padding_bottom": 16
+          }
+        },
+        "text_4UNfQG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’ve styled thousands globally, and your perfect vintage fit is next. 💥 Finding <em>that</em> piece can feel risky, but we make it effortless. With over 35,000 happy customers, we’re confident you’ll fall in love with your box. ✨ And if you don’t? We’ll rework it or refund you — guaranteed. No stress, no worries. Your vibe deserves to be unstoppable. 💯</p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "subheading_wTwkWa",
+        "heading_wXKBjz",
+        "text_4UNfQG"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "layout": "is-reversed",
+        "height": "image-height",
+        "mobile_height": "image-height--mobile",
+        "width": "wrapper",
+        "image_2": "shopify://shop_images/JOIN_THE_RALPH_RIVIVED_FAMILY.png",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "#000000",
+        "color": "#ffffff",
+        "padding_top": 38,
+        "padding_bottom": 38
+      }
+    },
+    "slope_CHVrez": {
+      "type": "slope",
+      "name": "SS - Slope",
+      "settings": {
+        "slope_height": 45,
+        "slope_height_mobile": 35,
+        "slope_skew": 45,
+        "slope_skew_mobile": 35,
+        "slope_direction": "right",
+        "slope_direction_mobile": "right",
+        "top_bg_color": "#000000",
+        "bottom_bg_color": "#ffffff",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0
+      }
+    },
     "section_accordion_group_6fKUCT": {
       "type": "section-accordion-group",
       "blocks": {
@@ -899,6 +975,8 @@
     "section_custom_code_EieyN7",
     "insfeed_qXNpUw",
     "smi_announcement_bar_2_1_qEW4j8",
+    "section_double_AGmmyH",
+    "slope_CHVrez",
     "section_accordion_group_6fKUCT",
     "related"
   ]
