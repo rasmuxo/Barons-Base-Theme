@@ -12,6 +12,13 @@
     "main": {
       "type": "product",
       "blocks": {
+        "code_GTbwy9": {
+          "type": "code",
+          "settings": {
+            "code": "<div class=\"blinking-discount-section\" style=\"text-align: left; display: flex; align-items: center; gap: 10px;\"> \n  {% if product.compare_at_price and product.compare_at_price > product.price %}\n    {% assign discount_percentage = product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | round %}\n    <span class=\"blinking-discount\">\n      {{ discount_percentage }}% OFF\n    </span>\n  {% endif %}\n\n  <span class=\"best-seller-badge\">BEST SELLER</span>\n</div>\n\n<style>\n  /* Blinking Discount Text */\n  .blinking-discount {\n    animation: blink 2s infinite;\n    font-size: 22px;\n    font-weight: bold;\n    text-transform: uppercase;\n    margin: 6px 0;\n    display: inline-block;\n  }\n\n  @keyframes blink {\n    0% { color: red; }\n    50% { color: #036141; }\n    100% { color: red; }\n  }\n\n  /* Best Seller Badge */\n  .best-seller-badge {\n    background-color: #036141; \n    color: white;\n    font-size: 14px;\n    font-weight: ;\n    padding: 4px 8px;\n    border-radius: 0px;\n    display: inline-block;\n  }\n\n\n</style>",
+            "padding_bottom": 16
+          }
+        },
         "title_mW6eDH": {
           "type": "title",
           "settings": {
@@ -26,14 +33,16 @@
             "padding_bottom": 16
           }
         },
-        "variants_Mcwp9c": {
-          "type": "variants",
+        "code_MBHQ9F": {
+          "type": "code",
           "settings": {
-            "info_page": "",
-            "size_chart_style": "text",
-            "subscriptions_enable_selectors": false,
+            "code": "<style>\n  .glow-text {\n    color: #111; /* Darker neutral for stronger readability */\n    text-align: center;\n    line-height: 1.5;\n    font-size: 1.05rem;\n    font-weight: 400;\n    margin: 0 auto 12px auto;\n    max-width: 90%;\n  }\n\n  .glow-text strong {\n    color: #036141; /* Accent green for highlights */\n    font-weight: 700;\n  }\n\n  .return-policy {\n    color: #111;\n    text-align: center;\n    font-weight: 500;\n    line-height: 1.5;\n    margin-top: 16px;\n  }\n\n  .return-policy .highlight {\n    font-size: 1.6rem;\n    font-weight: 900;\n    display: block;\n    margin-bottom: 6px;\n    color: #036141;\n  }\n\n  /* Vintage vibe heading */\n  .vintage-heading {\n    background-color: #fff;\n    color: #036141;\n    font-size: 1.3rem;\n    font-weight: 800;\n    text-align: center;\n    padding: 10px 14px;\n    margin: 6px auto 10px auto;\n    display: inline-block;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    border: 2px dashed #036141;\n    border-radius: 4px;\n    box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n  }\n\n  /* Mobile optimisation */\n  @media (max-width: 768px) {\n    .glow-text {\n      font-size: 0.95rem;\n      line-height: 1.45;\n    }\n    .vintage-heading {\n      font-size: 1.1rem;\n      padding: 6px 10px;\n    }\n  }\n</style>\n\n<div class=\"glow-text\">\n  <p>\n    <em>\n      Answer a few quick <strong>style questions</strong> and our stylists hand-build \n      a <strong>1-of-1 outfit</strong> just for you.\n    </em>\n  </p>\n  <p>\n    From vintage <strong>tees, sweats & bottoms</strong> to rings, chains, totes and hats — \n    every box is a full vibe reset.\n  </p>\n</div>\n\n<div class=\"return-policy\">\n  <span class=\"vintage-heading\">98% of customers rate us ★★★★★</span>\n  <span>\n    Doesn’t fit your vibe? <strong>Swap it free.</strong>  \n    Doesn’t fit your size? <strong>We’ve got you.</strong>  \n    Zero risk. All reward.\n  </span>\n</div>",
             "padding_bottom": 16
           }
+        },
+        "globo_product_options_variant_app_block_6wy4yA": {
+          "type": "shopify://apps/globo-product-options-variant/blocks/app-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+          "settings": {}
         },
         "buttons_gJMV8G": {
           "type": "buttons",
@@ -42,6 +51,20 @@
             "show_payment_button": false,
             "show_gift_card_recipient": false,
             "padding_bottom": 32
+          }
+        },
+        "code_txHmrt": {
+          "type": "code",
+          "settings": {
+            "code": "<p><img src=\"https://cdn.shopify.com/s/files/1/0704/0968/3222/files/Free_Shipping.png?v=1759977140\" alt=\"\" width=\"100%\" height=\"\"></p>",
+            "padding_bottom": 16
+          }
+        },
+        "code_7rpU8B": {
+          "type": "code",
+          "settings": {
+            "code": "<div class=\"google-container\">\n  <div class=\"google-text\">\"Amazing\"</div>\n\n  <img\n    class=\"google-image\"\n    src=\"https://cdn.shopify.com/s/files/1/0798/4267/2987/files/Revive_39.png?v=1733346031\"\n    alt=\"googleImage\"\n  />\n\n  <div class=\"google-rating\">Rated 4.9/5 on</div>\n\n  <img\n    class=\"google-logo\"\n    src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/640px-Google_2015_logo.svg.png\"\n    alt=\"googleImage\"\n  />\n</div>\n\n<style>\n            .google-container {\n                display: flex;\n                align-items: center;\n                background-color: #fbfbfb;\n                border: 1px solid #d4edda;\n                border-radius: 4px;\n                padding: 2px 10px;\n\n                width: 100%;\n    border: 1px dashed #036141;\n    gap: 8px;\n    justify-content: center;\n            }\n\n    .google-image{\n    width: 65px;\n    }\n    .google-logo{\n    width: 45px;\n  margin-top: 2px;\n    }\n    .google-text{\n    font-size: 13px;\n    font-weight: 600;\n    }\n    .google-rating{\n    font-size: 10px;\n    font-weight: 500;\n    color: #000;\n    }\n</style>",
+            "padding_bottom": 16
           }
         },
         "pickup": {
@@ -56,8 +79,8 @@
           "settings": {
             "show_read_more": true,
             "style": "accordions",
-            "title_1": "CARE INFO",
-            "raw_content_1": "<p>COTTON - MACHINE WASH COLD, TUMBLE DRY LOW, IRON ON LOW HEAT IF NEEDED</p><p>POLYESTER - MACHINE WASH WARM, HANG TO DRY, AVOID HIGH HEAT</p><p>WOOL - HAND WASH COLD, LAY FLAT TO DRY, DO NOT WRING OR TUMBLE DRY<br/></p>",
+            "title_1": "Shipping & Returns",
+            "raw_content_1": "<p>🚀 <strong>Fast Dispatch, No Waiting</strong><br/><br/>All orders ship within <strong>24–48 hours</strong> (Mon–Fri).<br/><br/>📦 <strong>Australia-wide delivery in 3–5 business days.</strong></p><p>🔁 <strong>Risk-Free Exchanges</strong><br/><br/>Not your vibe? Doesn’t fit?<br/><br/>We’ll swap it out, no stress, no questions asked.</p><p>💯 <strong>Zero Risk. All Reward.</strong><br/><br/>Every box is backed by our hassle-free exchange & return policy.</p><p><strong>Returns</strong><br/>We accept returns within 14 days for items in original condition. Check our <a href=\"https://agedivy-1134.myshopify.com/policies/refund-policy\" title=\"Refund Policy\"><strong>Returns Policy</strong></a> page for details on eligibility and the return process.</p><p>For more information, visit our <a href=\"https://agedivy-1134.myshopify.com/policies/shipping-policy\" title=\"Shipping Policy\"><strong>Shipping</strong></a> and <a href=\"https://agedivy-1134.myshopify.com/policies/refund-policy\" title=\"Refund Policy\"><strong>Returns</strong></a> pages.</p>",
             "title_2": "",
             "raw_content_2": "",
             "title_3": "",
@@ -71,10 +94,14 @@
         }
       },
       "block_order": [
+        "code_GTbwy9",
         "title_mW6eDH",
         "price_azRYwM",
-        "variants_Mcwp9c",
+        "code_MBHQ9F",
+        "globo_product_options_variant_app_block_6wy4yA",
         "buttons_gJMV8G",
+        "code_txHmrt",
+        "code_7rpU8B",
         "pickup",
         "tabs"
       ],

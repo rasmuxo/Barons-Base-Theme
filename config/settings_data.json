@@ -162,7 +162,39 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "3720565183479497137": {
+        "type": "shopify://apps/globo-product-options-variant/blocks/app-embed-block/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+        "disabled": false,
+        "settings": {}
+      },
+      "12718361609999014051": {
+        "type": "shopify://apps/smind-sections/blocks/theme-helper/71ba2d48-8be4-4535-bc1f-0fea499001d4",
+        "disabled": false,
+        "settings": {}
+      },
+      "16489308096923080669": {
+        "type": "shopify://apps/xo-sections/blocks/xo-sections-styles/e05b40dd-1687-4f0f-80f4-ab2769a4b17b",
+        "disabled": false,
+        "settings": {}
+      },
+      "17564293679270429316": {
+        "type": "shopify://apps/xo-sections/blocks/xo-sections-scripts/e05b40dd-1687-4f0f-80f4-ab2769a4b17b",
+        "disabled": false,
+        "settings": {}
+      },
+      "855628211100114053": {
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {}
+      },
+      "1513253815146976218": {
+        "type": "shopify://apps/omnisend-email-marketing-sms/blocks/app-embed/44704aa2-794f-4c5d-8c8e-039c841158e9",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Clean": {
