@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/shop-all-9",
+            "link": "shopify://collections/fall-collection",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
