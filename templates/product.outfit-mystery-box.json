@@ -929,6 +929,97 @@
         "padding_bottom": 50
       }
     },
+    "scrollinglogo_wcXTgY": {
+      "type": "scrollinglogo",
+      "blocks": {
+        "slide_zUpbXg": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_x7NFxb": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_8APtUx": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_eDP74T": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_7FcbjY": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        },
+        "slide_6TYcem": {
+          "type": "slide",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_zUpbXg",
+        "slide_x7NFxb",
+        "slide_8APtUx",
+        "slide_eDP74T",
+        "slide_7FcbjY",
+        "slide_6TYcem"
+      ],
+      "name": "SS - Scrolling Logo Cloud",
+      "settings": {
+        "ss-title": "Trusted by",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "header_size": 30,
+        "header_align": "center",
+        "scrolling_velocity": 10,
+        "pause_hover": false,
+        "shadow": false,
+        "sliders_mt": 16,
+        "logo_padding_top": 0,
+        "logo_padding_bottom": 0,
+        "slider_gap": 30,
+        "slider_gap_mobile": 30,
+        "slider_direction": "left",
+        "icon_width": 200,
+        "header_color": "#121212",
+        "border_color": "#ffffff",
+        "background-color": "#ffffff",
+        "slider-background-color": "#ffffff",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_custom_code_QGdGxk": {
+      "type": "section-custom-code",
+      "name": "Custom code",
+      "settings": {
+        "code": "<!-- Vintage Box Gen Z CTA Section -->\n<div class=\"vb-cta\">\n    <div class=\"vb-cta-icons\">\n        <div class=\"vb-box\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/return_3_1.png?v=1742162916\" alt=\"Limited Stock\" />\n            <span>Every box = unique. No two are the same..</span>\n        </div>\n        <div class=\"vb-box\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/king_1.png?v=1742162436\" alt=\"Handpicked Gems\" />\n            <span>35k+ vintage hunters levelling up their fits.</span>\n        </div>\n        <div class=\"vb-box\">\n            <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/thunder_1.png?v=1742162535\" alt=\"Selling Fast\" />\n            <span>Doesn’t fit or vibe? Swap it free.</span>\n        </div>\n    </div>\n    \n    <div class=\"vb-cta-action\">\n        <span class=\"hit-text\">\n            Hit <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/Untitled_design_66_2.png?v=1742163199\" alt=\"Down Arrow\" class=\"arrow-icon\" />\n        </span>\n        <a href=\"#shopify-section-template--25420039291158__main\" class=\"vb-cta-btn\">Get My Box</a>\n        <p>before it’s too late.</p>\n    </div>\n</div>\n\n<style>\n/* General CTA Styling */\n.vb-cta {\n    text-align: center;\n    background: #; /* White Background */\n    color: #222222; /* Dark Text */\n    padding: 10px;\n    font-size: 16px;\n    font-weight: bold;\n    max-width: 1400px; /* Set max width */\n    margin: 0 auto;\n}\n\n/* Icons row with tight spacing */\n.vb-cta-icons {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 8px; /* Slightly tighter */\n    margin-bottom: 8px;\n}\n\n/* Individual icon boxes */\n.vb-box {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: max-content;\n    padding: 8px 12px;\n    border: 1px solid #EDEDED; /* Minimal border */\n    font-size: 14px;\n}\n\n/* Icons */\n.vb-box img {\n    width: 22px;\n    height: 22px;\n    margin-right: 6px; /* Space between icon and text */\n}\n\n/* CTA Action */\n.vb-cta-action {\n    margin-top: 6px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    font-size: 18px;\n}\n\n/* Hit + Arrow in same line */\n.hit-text {\n    font-size: 20px;\n    font-weight: bold;\n    display: inline-flex;\n    align-items: center;\n    gap: 2px; /* Small gap between text and arrow */\n}\n\n/* Arrow Image */\n.arrow-icon {\n    width: 30px;\n    height: 30px;\n}\n\n/* Button Styling */\n.vb-cta-btn {\n    background: #036141;\n    color: #fff;\n    font-size: 16px;\n    font-weight: bold;\n    padding: 8px 30px;\n    text-decoration: none;\n    border: none;\n    transition: 0.3s;\n    display: inline-block;\n    margin: 4px 0 2px 0; /* Reduced bottom margin */\n}\n\n/* Reduce spacing between button and text */\n.vb-cta-action p {\n    margin-top: 2px; /* Close to button */\n    font-size: 14px;\n}\n\n/* Responsive: Stack icons on mobile */\n@media (max-width: 768px) {\n    .vb-cta-icons {\n        flex-direction: column;\n        gap: 5px;\n    }\n    .vb-box {\n        width: 100%;\n        padding: 6px;\n        font-size: 13px;\n    }\n    .vb-box img {\n        width: 18px;\n        height: 18px;\n    }\n    .arrow-icon {\n        width: 16px;\n        height: 16px;\n    }\n}\n</style>",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "related": {
       "type": "related",
       "blocks": {
@@ -978,6 +1069,8 @@
     "section_double_AGmmyH",
     "slope_CHVrez",
     "section_accordion_group_6fKUCT",
+    "scrollinglogo_wcXTgY",
+    "section_custom_code_QGdGxk",
     "related"
   ]
 }
