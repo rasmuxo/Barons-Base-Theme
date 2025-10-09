@@ -959,68 +959,105 @@
     "scrollinglogo_wcXTgY": {
       "type": "scrollinglogo",
       "blocks": {
-        "slide_zUpbXg": {
+        "slide_gr6FnL": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_270181507_4841727015862368_4403769301255620306_n_1080.jpg",
             "link": ""
           }
         },
-        "slide_x7NFxb": {
+        "slide_eiJh6j": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_281555599_362905019160428_4477782777926901912_n_1080.jpg",
             "link": ""
           }
         },
-        "slide_8APtUx": {
+        "slide_GQbdqz": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_369991101_825607465878547_8680005882706982304_n_1080.jpg",
             "link": ""
           }
         },
-        "slide_eDP74T": {
+        "slide_96HN9P": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_210181222_792554474763915_4568040033343128917_n_1080.jpg",
             "link": ""
           }
         },
-        "slide_7FcbjY": {
+        "slide_xfQifQ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_213781278_937489343777862_2785879121530802719_n_1080.jpg",
             "link": ""
           }
         },
-        "slide_6TYcem": {
+        "slide_pdaLWP": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_147443654_782366222710856_6287366677231135094_n_1080.jpg",
+            "link": ""
+          }
+        },
+        "slide_XKtwDJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/file_2.jpg",
+            "link": ""
+          }
+        },
+        "slide_X7hMdN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_210260256_1071040193304905_2696573897653463423_n_1080.jpg",
+            "link": ""
+          }
+        },
+        "slide_NDDFzD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_281604818_1180021832744328_8185814236091969812_n_1080.jpg",
+            "link": ""
+          }
+        },
+        "slide_FmGjch": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Snapinsta.app_201763810_324894422411531_8068197592246890177_n_1080.jpg",
             "link": ""
           }
         }
       },
       "block_order": [
-        "slide_zUpbXg",
-        "slide_x7NFxb",
-        "slide_8APtUx",
-        "slide_eDP74T",
-        "slide_7FcbjY",
-        "slide_6TYcem"
+        "slide_gr6FnL",
+        "slide_eiJh6j",
+        "slide_GQbdqz",
+        "slide_96HN9P",
+        "slide_xfQifQ",
+        "slide_pdaLWP",
+        "slide_XKtwDJ",
+        "slide_X7hMdN",
+        "slide_NDDFzD",
+        "slide_FmGjch"
       ],
-      "name": "SS - Scrolling Logo Cloud",
       "settings": {
-        "ss-title": "Trusted by",
+        "ss-title": "35,000+ Happy Customers",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "header_size": 30,
         "header_align": "center",
-        "scrolling_velocity": 10,
-        "pause_hover": false,
+        "scrolling_velocity": 100,
+        "pause_hover": true,
         "shadow": false,
         "sliders_mt": 16,
         "logo_padding_top": 0,
         "logo_padding_bottom": 0,
-        "slider_gap": 30,
-        "slider_gap_mobile": 30,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
         "slider_direction": "left",
-        "icon_width": 200,
+        "icon_width": 270,
         "header_color": "#121212",
         "border_color": "#ffffff",
         "background-color": "#ffffff",
