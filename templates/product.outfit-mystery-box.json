@@ -15,7 +15,7 @@
         "code_GTbwy9": {
           "type": "code",
           "settings": {
-            "code": "<div class=\"blinking-discount-section\" style=\"text-align: left; display: flex; align-items: center; gap: 10px;\"> \n  {% if product.compare_at_price and product.compare_at_price > product.price %}\n    {% assign discount_percentage = product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | round %}\n    <span class=\"blinking-discount\">\n      {{ discount_percentage }}% OFF\n    </span>\n  {% endif %}\n\n  <span class=\"best-seller-badge\">BEST SELLER</span>\n</div>\n\n<style>\n  /* Blinking Discount Text */\n  .blinking-discount {\n    animation: blink 2s infinite;\n    font-size: 22px;\n    font-weight: bold;\n    text-transform: uppercase;\n    margin: 6px 0;\n    display: inline-block;\n  }\n\n  @keyframes blink {\n    0% { color: red; }\n    50% { color: #036141; }\n    100% { color: red; }\n  }\n\n  /* Best Seller Badge */\n  .best-seller-badge {\n    background-color: #010101; \n    color: white;\n    font-size: 14px;\n    font-weight: ;\n    padding: 4px 8px;\n    border-radius: 0px;\n    display: inline-block;\n  }\n\n\n</style>",
+            "code": "<div class=\"blinking-discount-section\" style=\"text-align: left; display: flex; align-items: center; gap: 10px;\"> \n  {% if product.compare_at_price and product.compare_at_price > product.price %}\n    {% assign discount_percentage = product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | round %}\n    <span class=\"blinking-discount\">\n      {{ discount_percentage }}% OFF\n    </span>\n  {% endif %}\n\n  <span class=\"best-seller-badge\">BEST SELLER</span>\n</div>\n\n<style>\n  /* Blinking Discount Text */\n  .blinking-discount {\n    animation: blink 2s infinite;\n    font-size: 22px;\n    font-weight: bold;\n    text-transform: uppercase;\n    margin: 6px 0;\n    display: inline-block;\n  }\n\n  @keyframes blink {\n    0% { color: red; }\n    50% { color: #010101; }\n    100% { color: red; }\n  }\n\n  /* Best Seller Badge */\n  .best-seller-badge {\n    background-color: #010101; \n    color: white;\n    font-size: 14px;\n    font-weight: ;\n    padding: 4px 8px;\n    border-radius: 0px;\n    display: inline-block;\n  }\n\n\n</style>",
             "padding_bottom": 16
           }
         },
@@ -30,7 +30,7 @@
         "price_azRYwM": {
           "type": "price",
           "settings": {
-            "padding_bottom": 16
+            "padding_bottom": 22
           }
         },
         "code_MBHQ9F": {
@@ -106,7 +106,7 @@
         "tabs"
       ],
       "custom_css": [
-        ".accordion__title,.accordion__content,.product__subheading,.product__price {font-size: 12.5px;}",
+        ".accordion__title,.accordion__content,.product__subheading {font-size: 12.5px;}",
         ".radio__legend__option-name,.radio__legend__value {font-size: 10px;}",
         ".product__siblings,.product__form__holder {display: flex; justify-content: center;}",
         ".btn {font-size: 10px;}",
