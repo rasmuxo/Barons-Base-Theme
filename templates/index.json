@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "title": "SHOP JUST-IN VINTAGE",
-            "heading_size": 6
+            "heading_size": 4
           }
         },
         "text_kz9Cck": {
@@ -392,20 +392,20 @@
         "image_GLUgdb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_0488.heic",
+            "image": "shopify://shop_images/IMG_6176_2.jpg",
             "overlay_opacity": 25,
             "overlay_color": "#000000",
             "show_overlay_text": true,
-            "title": "all things fall",
+            "title": "pink carhartt jackets",
             "heading_size": 4,
-            "description": "just in time for the season",
+            "description": "our most anticipated collection",
             "text_size": 3,
             "flex_align_desktop": "align--middle-center-desktop",
             "flex_align_mobile": "align--middle-center-mobile",
             "bg_color": "",
             "color": "#ffffff",
-            "first_button_text": "shop collection",
-            "first_button_link": "shopify://collections/fall-collection",
+            "first_button_text": "shop jackets",
+            "first_button_link": "shopify://collections/pink-carhartt",
             "first_button_type": "btn--white",
             "first_button_size": "",
             "first_button_style": "btn--solid",
