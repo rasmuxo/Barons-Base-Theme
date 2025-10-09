@@ -716,7 +716,7 @@
     "smi_announcement_bar_2_1_qEW4j8": {
       "type": "smi-announcement-bar-2-1",
       "blocks": {
-        "announcement_qe9nDh": {
+        "announcement_3T8ihX": {
           "type": "announcement",
           "settings": {
             "icon": "truck",
@@ -724,7 +724,7 @@
             "content": "<p>Next Day Shipping!</p>"
           }
         },
-        "announcement_haBUFR": {
+        "announcement_NUyLNr": {
           "type": "announcement",
           "settings": {
             "icon": "discount",
@@ -732,7 +732,7 @@
             "content": "<p>Upto 50% Sale Ends Today</p>"
           }
         },
-        "announcement_FGKY4p": {
+        "announcement_Xq747a": {
           "type": "announcement",
           "settings": {
             "icon": "star",
@@ -740,22 +740,21 @@
             "content": "<p>Rated 4.7/5 by 6000+ Reviews</p>"
           }
         },
-        "color_G6RATa": {
+        "color_rzLn3f": {
           "type": "color",
           "settings": {
-            "background_color": "#000000",
+            "background_color": "#01754a",
             "background_gradient_color": "",
             "text_color": "#ffffff"
           }
         }
       },
       "block_order": [
-        "announcement_qe9nDh",
-        "announcement_haBUFR",
-        "announcement_FGKY4p",
-        "color_G6RATa"
+        "announcement_3T8ihX",
+        "announcement_NUyLNr",
+        "announcement_Xq747a",
+        "color_rzLn3f"
       ],
-      "name": "✧Announcement bar 2-1",
       "settings": {
         "enable_sticky_bar": false,
         "scroll_direction": "rtl",
