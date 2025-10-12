@@ -107,7 +107,7 @@
         "tabs"
       ],
       "custom_css": [
-        ".accordion__title,.product__title {font-size: 12.5px; font-weight: 600; text-transform: uppercase;}",
+        ".gpo-label,.gpo-heading h3,.accordion__title,.product__title {font-size: 12.5px; font-weight: 600; text-transform: uppercase;}",
         ".accordion__content,.product__subheading,.product__price {font-size: 12.5px;}",
         ".radio__legend__option-name,.radio__legend__value {font-size: 10px;}",
         ".product__siblings,.product__form__holder {display: flex; justify-content: center;}",
@@ -332,8 +332,8 @@
         "slider_nav_border_hover": "#000000",
         "slider_nav_icon": "#000000",
         "slider_nav_hover_icon": "#ffffff",
-        "slider_pagination_color": "#e0c053",
-        "slider_pagination_hover_color": "#e0c053",
+        "slider_pagination_color": "#000000",
+        "slider_pagination_hover_color": "#000000",
         "link_text_color": "#120a0a",
         "link_text_hover_color": "#ffffff",
         "link_bg_color": "#ffffff",
