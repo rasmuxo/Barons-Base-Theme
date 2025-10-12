@@ -357,6 +357,7 @@
     },
     "slope_9p3maM": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -404,6 +405,7 @@
     },
     "slope_4kAxwn": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -448,6 +450,7 @@
     },
     "slope_qa8adA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -492,6 +495,7 @@
     },
     "slope_3KRFNA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -536,6 +540,7 @@
     },
     "slope_h9PGXh": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
