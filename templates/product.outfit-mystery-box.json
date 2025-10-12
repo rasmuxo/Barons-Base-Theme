@@ -14,6 +14,7 @@
       "blocks": {
         "code_GTbwy9": {
           "type": "code",
+          "disabled": true,
           "settings": {
             "code": "<div class=\"blinking-discount-section\" style=\"text-align: left; display: flex; align-items: center; gap: 10px;\"> \n  {% if product.compare_at_price and product.compare_at_price > product.price %}\n    {% assign discount_percentage = product.compare_at_price | minus: product.price | times: 100 | divided_by: product.compare_at_price | round %}\n    <span class=\"blinking-discount\">\n      {{ discount_percentage }}% OFF\n    </span>\n  {% endif %}\n\n  <span class=\"best-seller-badge\">BEST SELLER</span>\n</div>\n\n<style>\n  /* Blinking Discount Text */\n  .blinking-discount {\n    animation: blink 2s infinite;\n    font-size: 22px;\n    font-weight: bold;\n    text-transform: uppercase;\n    margin: 6px 0;\n    display: inline-block;\n  }\n\n  @keyframes blink {\n    0% { color: red; }\n    50% { color: #212121; }\n    100% { color: red; }\n  }\n\n  /* Best Seller Badge */\n  .best-seller-badge {\n    background-color: #212121; \n    color: white;\n    font-size: 14px;\n    font-weight: ;\n    padding: 4px 8px;\n    border-radius: 0px;\n    display: inline-block;\n  }\n\n\n</style>",
             "padding_bottom": 16
@@ -23,7 +24,7 @@
           "type": "title",
           "settings": {
             "subheading_option": "none",
-            "text_size": 5,
+            "text_size": 4,
             "padding_bottom": 8
           }
         },
@@ -36,7 +37,7 @@
         "code_MBHQ9F": {
           "type": "code",
           "settings": {
-            "code": "<style>\n  .glow-text {\n    color: #111;\n    text-align: center;\n    line-height: 1.5;\n    font-size: 1.05rem;\n    font-weight: 400;\n    margin: 0 auto 12px auto;\n    max-width: 90%;\n  }\n\n  .glow-text strong {\n    color: #212121;\n    font-weight: 700;\n  }\n\n  .return-policy {\n    color: #111;\n    text-align: center;\n    font-weight: 500;\n    line-height: 1.5;\n    margin-top: 16px;\n  }\n\n  .return-policy .highlight {\n    font-size: 1.6rem;\n    font-weight: 900;\n    display: block;\n    margin-bottom: 6px;\n    color: #212121;\n  }\n\n  /* Ensure the text after the box stays below it */\n  .return-policy span:not(.vintage-heading) {\n    display: block;\n    margin-top: 8px;\n  }\n\n  /* Vintage box styling */\n  .vintage-heading {\n    background-color: #fff;\n    color: #212121;\n    font-size: 1.2rem;\n    font-weight: 800;\n    text-align: center;\n    padding: 10px 14px;\n    margin: 6px auto 10px auto;\n    display: inline-block;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    border: 2px dashed #010101;\n    border-radius: 4px;\n    box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n  }\n\n  /* Mobile optimisation */\n  @media (max-width: 768px) {\n    .glow-text {\n      font-size: 0.95rem;\n      line-height: 1.45;\n    }\n    .vintage-heading {\n      font-size: 1.1rem;\n      padding: 6px 10px;\n    }\n  }\n</style>\n\n<div class=\"glow-text\">\n  <p>\n    <em>\n      Answer a few quick <strong>style questions</strong> and our stylists hand-build \n      a <strong>1-of-1 outfit</strong> just for you.\n    </em>\n  </p>\n  <p>\n    From vintage <strong>tees, sweats & bottoms</strong> to rings, chains, totes and hats — \n    every box is a full vibe reset.\n  </p>\n</div>\n\n<div class=\"return-policy\">\n  <span class=\"vintage-heading\">98% of customers rate us ★★★★★</span>\n  <span>\n    Doesn’t fit your vibe? <strong>Swap it free.</strong>  \n    Doesn’t fit your size? <strong>We’ve got you.</strong>  \n    Zero risk. All reward.\n  </span>\n</div>",
+            "code": "<style>\n  .glow-text {\n    color: #111;\n    text-align: ;\n    line-height: 1.5;\n    font-size: 12px;\n    font-weight: 400;\n    \n    max-width: 90%;\n  }\n\n  .glow-text strong {\n    color: #212121;\n    font-weight: 700;\n  }\n\n  .return-policy {\n    color: #111;\nfont-size: 12px;\n    text-align: ;\n    font-weight: 500;\n    line-height: 1.5;\n    margin-top: 16px;\n  }\n\n   .highlight {\n    font-size: 18px;\n    font-weight: 600;\n    display: block;\n    margin-bottom: 6px;\n    color: #212121;\n  }\n\n  /* Ensure the text after the box stays below it */\n  .return-policy span:not(.vintage-heading) {\n    display: block;\n    margin-top: 8px;\n  }\n\n  /* Vintage box styling */\n  .vintage-heading {\n    background-color: #fff;\n    color: #212121;\n    font-size: 16px;\n    font-weight: 600;\n    text-align: center;\n    padding: 10px 14px;\n    margin: 6px auto 10px auto;\n    display: inline-block;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    border: 2px dashed #010101;\n    border-radius: 4px;\n    box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n  }\n\n  /* Mobile optimisation */\n  @media (max-width: 768px) {\n    .glow-text {\n      font-size: 0.95rem;\n      line-height: 1.45;\n    }\n    .vintage-heading {\n      font-size: 1.1rem;\n      padding: 6px 10px;\n    }\n  }\n</style>\n\n<div class=\"glow-text\">\n  <p>\n    <em>\n      Answer a few quick <strong>style questions</strong> and our stylists hand-build \n      a <strong>1-of-1 outfit</strong> just for you.\n    </em>\n  </p>\n  <p>\n    From vintage <strong>tees, sweats & bottoms</strong> to rings, chains, totes and hats — \n    every box is a full vibe reset.\n  </p>\n</div>\n\n<div class=\"return-policy\">\n  <span class=\"vintage-heading\">98% of customers rate us ★★★★★</span>\n  <span>\n    Doesn’t fit your vibe? <strong>Swap it free.</strong>  \n    Doesn’t fit your size? <strong>We’ve got you.</strong>  \n    Zero risk. All reward.\n  </span>\n</div>",
             "padding_bottom": 16
           }
         },
@@ -106,7 +107,8 @@
         "tabs"
       ],
       "custom_css": [
-        ".accordion__title,.accordion__content,.product__subheading {font-size: 12.5px;}",
+        ".accordion__title,.product__title {font-size: 12.5px; font-weight: 600; text-transform: uppercase;}",
+        ".accordion__content,.product__subheading,.product__price {font-size: 12.5px;}",
         ".radio__legend__option-name,.radio__legend__value {font-size: 10px;}",
         ".product__siblings,.product__form__holder {display: flex; justify-content: center;}",
         ".btn {font-size: 10px;}",
@@ -207,7 +209,7 @@
         "ss-title": "Brands To Find Inside Your Box",
         "heading_custom": false,
         "heading_font": "assistant_n4",
-        "header_size": 30,
+        "header_size": 18,
         "header_align": "center",
         "scrolling_velocity": 30,
         "pause_hover": false,
@@ -273,7 +275,7 @@
         "heading": "Unbox stock with us!",
         "heading_custom": false,
         "heading_font": "assistant_n4",
-        "heading_size": 36,
+        "heading_size": 18,
         "heading_height": 130,
         "heading_align": "center",
         "items_mt": 36,
@@ -302,7 +304,7 @@
         "content_padding_vertical": 20,
         "text_custom": false,
         "text_font": "assistant_n4",
-        "text_size": 16,
+        "text_size": 12,
         "text_height": 130,
         "text_align": "center",
         "link_text": "",
