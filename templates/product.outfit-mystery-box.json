@@ -37,7 +37,7 @@
         "code_MBHQ9F": {
           "type": "code",
           "settings": {
-            "code": "<style>\n  .glow-text {\n    color: #111;\n    text-align: ;\n    line-height: 1.5;\n    font-size: 12px;\n    font-weight: 400;\n    \n    max-width: 90%;\n  }\n\n  .glow-text strong {\n    color: #212121;\n    font-weight: 700;\n  }\n\n  .return-policy {\n    color: #111;\nfont-size: 12px;\n    text-align: ;\n    font-weight: 500;\n    line-height: 1.5;\n    margin-top: 16px;\n  }\n\n   .highlight {\n    font-size: 18px;\n    font-weight: 600;\n    display: block;\n    margin-bottom: 6px;\n    color: #212121;\n  }\n\n  /* Ensure the text after the box stays below it */\n  .return-policy span:not(.vintage-heading) {\n    display: block;\n    margin-top: 8px;\n  }\n\n  /* Vintage box styling */\n  .vintage-heading {\n    background-color: #fff;\n    color: #212121;\n    font-size: 16px;\n    font-weight: 600;\n    text-align: center;\n    padding: 10px 14px;\n    margin: 6px auto 10px auto;\n    display: inline-block;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    border: 2px dashed #010101;\n    border-radius: 4px;\n    box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n  }\n\n  /* Mobile optimisation */\n  @media (max-width: 768px) {\n    .glow-text {\n      font-size: 0.95rem;\n      line-height: 1.45;\n    }\n    .vintage-heading {\n      font-size: 1.1rem;\n      padding: 6px 10px;\n    }\n  }\n</style>\n\n<div class=\"glow-text\">\n  <p>\n    <em>\n      Answer a few quick <strong>style questions</strong> and our stylists hand-build \n      a <strong>1-of-1 outfit</strong> just for you.\n    </em>\n  </p>\n  <p>\n    From vintage <strong>tees, sweats & bottoms</strong> to rings, chains, totes and hats — \n    every box is a full vibe reset.\n  </p>\n</div>\n\n<div class=\"return-policy\">\n  <span class=\"vintage-heading\">98% of customers rate us ★★★★★</span>\n  <span>\n    Doesn’t fit your vibe? <strong>Swap it free.</strong>  \n    Doesn’t fit your size? <strong>We’ve got you.</strong>  \n    Zero risk. All reward.\n  </span>\n</div>",
+            "code": "<style>\n  .glow-text {\n    color: #111;\n    text-align: ;\n    line-height: 1.5;\n    font-size: 12px;\n    font-weight: 400;\n    \n    max-width: 90%;\n  }\n\n  .glow-text strong {\n    color: #212121;\n    font-weight: 700;\n  }\n\n  .return-policy {\n    color: #111;\nfont-size: 12px;\n    text-align: ;\n    font-weight: 500;\n    line-height: 1.5;\n    margin-top: 16px;\n  }\n\n   .highlight {\n    font-size: 18px;\n    font-weight: 600;\n    display: block;\n    margin-bottom: 6px;\n    color: #212121;\n  }\n\n  /* Ensure the text after the box stays below it */\n  .return-policy span:not(.vintage-heading) {\n    display: block;\n    margin-top: 8px;\n  }\n\n  /* Vintage box styling */\n  .vintage-heading {\n    background-color: #fff;\n    color: #212121;\n    font-size: 16px;\n    font-weight: 600;\n    text-align: center;\n    padding: 10px 14px;\n    margin: 6px auto 10px auto;\n    display: inline-block;\n    letter-spacing: 1.5px;\n    text-transform: uppercase;\n    border: 1px dashed #010101;\n    border-radius: 4px;\n    box-shadow: 0 3px 6px rgba(0,0,0,0.08);\n  }\n\n  /* Mobile optimisation */\n  @media (max-width: 768px) {\n    .glow-text {\n      font-size: 12px;\n      line-height: 1.45;\n    }\n    .vintage-heading {\n      font-size: 12px;\n      padding: 4px 10px;\n    }\n  }\n</style>\n\n<div class=\"glow-text\">\n  <p>\n    <em>\n      Answer a few quick <strong>style questions</strong> and our stylists hand-build \n      a <strong>1-of-1 outfit</strong> just for you.\n    </em>\n  </p>\n  <p>\n    From vintage <strong>tees, sweats & bottoms</strong> to rings, chains, totes and hats — \n    every box is a full vibe reset.\n  </p>\n</div>\n\n<div class=\"return-policy\">\n  <span class=\"vintage-heading\">98% of customers rate us ★★★★★</span>\n  <span>\n    Doesn’t fit your vibe? <strong>Swap it free.</strong>  \n    Doesn’t fit your size? <strong>We’ve got you.</strong>  \n    Zero risk. All reward.\n  </span>\n</div>",
             "padding_bottom": 16
           }
         },
@@ -206,9 +206,9 @@
         "slide_Rfdccz"
       ],
       "settings": {
-        "ss-title": "Brands To Find Inside Your Box",
-        "heading_custom": false,
-        "heading_font": "assistant_n4",
+        "ss-title": "BRANDS TO FIND INSIDE YOUR BOX",
+        "heading_custom": true,
+        "heading_font": "sans_serif_n4",
         "header_size": 18,
         "header_align": "center",
         "scrolling_velocity": 30,
@@ -272,7 +272,7 @@
         "video_icfBMJ"
       ],
       "settings": {
-        "heading": "Unbox stock with us!",
+        "heading": "UNBOX STOCK WITH US!",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "heading_size": 18,
@@ -323,14 +323,14 @@
         "heading_color": "#120a0a",
         "item_bg_color": "#f2f2f2",
         "item_border_color": "#120a0a",
-        "icon_bg_color": "#01754a",
+        "icon_bg_color": "#000000",
         "icon_color": "#ffffff",
         "text_color": "#120a0a",
         "slider_nav_btn_bg": "#ffffff",
-        "slider_nav_btn_hover_bg": "#01754a",
-        "slider_nav_border": "#036141",
-        "slider_nav_border_hover": "#036141",
-        "slider_nav_icon": "#036141",
+        "slider_nav_btn_hover_bg": "#000000",
+        "slider_nav_border": "#000000",
+        "slider_nav_border_hover": "#000000",
+        "slider_nav_icon": "#000000",
         "slider_nav_hover_icon": "#ffffff",
         "slider_pagination_color": "#e0c053",
         "slider_pagination_hover_color": "#e0c053",
@@ -564,7 +564,7 @@
       "type": "section-custom-code",
       "name": "Custom code",
       "settings": {
-        "code": "<style>\n  .mono-heading {\n    background-color: #fff;\n    color: #000;\n    font-size: 2rem;\n    font-weight: bold;\n    text-align: center;\n    padding: 15px 30px;\n    margin: 20px auto;\n    display: block;\n    letter-spacing: 3px;\n    text-transform: uppercase;\n    border: 3px dashed #000;\n    border-radius: 0;\n    width: fit-content;\n    max-width: 100%;\n    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n  }\n\n  /* Mobile responsiveness */\n  @media (max-width: 768px) {\n    .mono-heading {\n      font-size: 1.5rem;\n      padding: 10px 20px;\n    }\n  }\n</style>\n\n<div class=\"mono-heading\" id=\"mono-as-seen\">\n  AS SEEN ON\n</div>",
+        "code": "<style>\n  .mono-heading {\nfont-weight:600;\n    background-color: #fff;\n    color: #000;\n    font-size: 18PX;\n    font-weight: bold;\n    text-align: center;\n    padding: 15px 30px;\n    margin: 20px auto;\n    display: block;\n    letter-spacing: 3px;\n    text-transform: uppercase;\n    border: 1px dashed #000;\n    border-radius: 0;\n    width: fit-content;\n    max-width: 100%;\n    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n  }\n\n  /* Mobile responsiveness */\n  @media (max-width: 768px) {\n    .mono-heading {\n      font-size: 18px;\n      padding: 10px 20px;\n    }\n  }\n</style>\n\n<div class=\"mono-heading\" id=\"mono-as-seen\">\n  AS SEEN ON\n</div>",
         "width": "wrapper",
         "bg_color": "",
         "color": "",
