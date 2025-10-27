@@ -812,6 +812,7 @@
         "heading_wXKBjz",
         "text_4UNfQG"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "layout": "is-reversed",
@@ -980,21 +981,7 @@
         "slide_gr6FnL": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/agedivy_1.jpg",
-            "link": ""
-          }
-        },
-        "slide_eiJh6j": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Untitled_design_13.jpg",
-            "link": ""
-          }
-        },
-        "slide_GQbdqz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/agedivy_2.jpg",
+            "image": "shopify://shop_images/IMG_8113.jpg",
             "link": ""
           }
         },
@@ -1008,7 +995,14 @@
         "slide_xfQifQ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/agedivy_3.jpg",
+            "image": "shopify://shop_images/IMG_8116.jpg",
+            "link": ""
+          }
+        },
+        "slide_eiJh6j": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1607.jpg",
             "link": ""
           }
         },
@@ -1022,14 +1016,21 @@
         "slide_XKtwDJ": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/agedivy_4.jpg",
+            "image": "shopify://shop_images/IMG_1603_4.jpg",
+            "link": ""
+          }
+        },
+        "slide_GQbdqz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8112.jpg",
             "link": ""
           }
         },
         "slide_X7hMdN": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/aged.ivy_1650645526_2822141684362229210_7742468502.jpg",
+            "image": "shopify://shop_images/IMG_1601.jpg",
             "link": ""
           }
         },
@@ -1043,19 +1044,19 @@
         "slide_FmGjch": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/agedivy_5.jpg",
+            "image": "shopify://shop_images/IMG_1604.jpg",
             "link": ""
           }
         }
       },
       "block_order": [
         "slide_gr6FnL",
-        "slide_eiJh6j",
-        "slide_GQbdqz",
         "slide_96HN9P",
         "slide_xfQifQ",
+        "slide_eiJh6j",
         "slide_pdaLWP",
         "slide_XKtwDJ",
+        "slide_GQbdqz",
         "slide_X7hMdN",
         "slide_NDDFzD",
         "slide_FmGjch"
