@@ -396,6 +396,7 @@
       "block_order": [
         "xo_sections_custom_section_w7gY3m"
       ],
+      "disabled": true,
       "custom_css": [
         ".xo-custom-1760019950502 {display: none;}"
       ],
@@ -444,6 +445,7 @@
       "block_order": [
         "xo_sections_custom_section_RXx73M"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
@@ -489,6 +491,7 @@
       "block_order": [
         "xo_sections_custom_section_QfzGMe"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
@@ -534,6 +537,7 @@
       "block_order": [
         "xo_sections_custom_section_9BKLtq"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
@@ -734,10 +738,11 @@
         },
         "announcement_NUyLNr": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "discount",
             "icon_size": 24,
-            "content": "<p>Upto 50% Sale Ends Today</p>"
+            "content": ""
           }
         },
         "announcement_Xq747a": {
@@ -911,7 +916,7 @@
           "settings": {
             "default_open": false,
             "title": "Are shoes included?",
-            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p><p>✔️ Your kicks = your signature move. We handle the outfit, you finish the masterpiece.<br/><br/>💡 <strong>We handle the outfit, you finish the masterpiece.</strong></p>",
+            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p><p>✔️ Your kicks = your signature move. We handle the outfit, you finish the masterpiece.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
