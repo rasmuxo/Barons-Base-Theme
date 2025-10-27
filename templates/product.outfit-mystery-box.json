@@ -869,7 +869,7 @@
           "settings": {
             "default_open": false,
             "title": "What if I don’t like what I receive?",
-            "content": "<p>We make sure you do. Our <strong>expert in-house stylists curate each outfit based on your preferences</strong>, ensuring you receive high-quality, handpicked vintage pieces tailored to your unique style.</p><p>But if for any reason you’re not satisfied, <strong>we’ll replace your box</strong> or offer a <strong>hassle-free return</strong>. You’re completely covered—because we only win when you love what you wear.</p><p>💡 <strong>No risk. All reward. Your style upgrade is guaranteed.</strong></p>",
+            "content": "<p>We make sure you do. Our <strong>expert in-house stylists curate each outfit based on your preferences</strong>, ensuring you receive high-quality, handpicked vintage pieces tailored to your unique style.</p><p><strong>ALL SALES ARE FINAL.</strong></p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -881,7 +881,7 @@
           "settings": {
             "default_open": false,
             "title": "Why is vintage worth more?",
-            "content": "<p>Because <strong>this isn’t just any clothing box—it’s an investment in rarity, style, and identity</strong>.</p><p>Each outfit includes <strong>3-5 handpicked, premium vintage pieces</strong>, curated to your aesthetic. If purchased separately, these items would retail for <strong>over $300</strong>, meaning you’re getting an <strong>exclusive wardrobe upgrade at nearly 50% off retail value</strong>.</p><p>💡 <strong>You’re not buying clothes — you’re unlocking cultural capital.</strong></p>",
+            "content": "<p>Each outfit includes <strong>3-5 handpicked, premium vintage pieces</strong>, curated to your aesthetic. </p><p>If purchased separately, these items would retail for <strong>over $300</strong>, meaning you’re getting an <strong>exclusive wardrobe upgrade at nearly 50% off retail value</strong>.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -893,7 +893,7 @@
           "settings": {
             "default_open": false,
             "title": "What if something doesn’t fit me?",
-            "content": "<p>No worries—<strong>we've got you covered</strong>.</p><p>1️⃣ <strong>Personalized Sizing</strong> – Before shipping, we match you with items that fit your exact size & style.<br/>2️⃣ <strong>Easy Exchanges</strong> – If anything doesn’t fit, we offer hassle-free swaps.</p><p>💡 <strong>No bad fits, just flawless vibes.</strong></p>",
+            "content": "<p>No worries—<strong>we've got you covered</strong>.</p><p><strong>Personalized Sizing</strong> – Before shipping, we match you with items that fit your exact size & style.<br/><strong>Easy Exchanges</strong> – If anything doesn’t fit, we offer hassle-free swaps.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -905,7 +905,7 @@
           "settings": {
             "default_open": false,
             "title": "How long does shipping take?",
-            "content": "<p>We move fast—because you shouldn’t have to wait.</p><p>📦 <strong>Orders ship within 24-48 hours.</strong><br/>📍 <strong>Delivery times:</strong></p><ul><li><strong>US:</strong> 3-5 business days</li><li><strong>International:</strong> 5-10 business days</li></ul><p>💡 <strong>Your glow-up is only days away.</strong></p>",
+            "content": "<p>We move fast—because you shouldn’t have to wait.</p><p>📦 <strong>Orders ship within 24-48 hours.</strong><br/>📍 <strong>Delivery times:</strong></p><ul><li><strong>US:</strong> 3-5 business days</li><li><strong>International:</strong> 5-10 business days</li></ul>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -917,7 +917,7 @@
           "settings": {
             "default_open": false,
             "title": "Are shoes included?",
-            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p><p>✔️ Your kicks = your signature move. We handle the outfit, you finish the masterpiece.</p>",
+            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -929,7 +929,7 @@
           "settings": {
             "default_open": false,
             "title": "Are these items new or pre-owned?",
-            "content": "<p>They’re <strong>true vintage treasures</strong>—meaning they come with history, character, and an authenticity that can’t be replicated.</p><p>👕 Most items are <strong>gently pre-loved</strong>, while some are <strong>deadstock</strong> (vintage but never worn, sometimes even with original tags).</p><p>✔️ <strong>No mass production, no fast fashion—just rare, high-quality pieces made to last</strong>💡 </p>",
+            "content": "<p>Every piece has been <strong>personally curated</strong> carefully by our team.</p><p>Most items are <strong>gently pre-loved</strong>, while some are <strong>deadstock</strong> (vintage but never worn, sometimes even with original tags).</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -941,7 +941,7 @@
           "settings": {
             "default_open": false,
             "title": "Is vintage clothing really sustainable?",
-            "content": "<p>1000% yes. Buying vintage = <strong>saving the planet</strong>.</p><p>♻️ <strong>Every purchase reduces textile waste & cuts down on fast fashion pollution.</strong><br/>🌏 <strong>Vintage clothing = timeless quality that lasts for decades.</strong><br/>💚 <strong>Your style choice makes a difference.</strong></p><p>💡 <strong>Feel good. Look better. Impact the planet.</strong></p>",
+            "content": "<p>100% yes.</p><p><strong>Every purchase reduces textile waste & cuts down on fast fashion pollution.</strong></p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -999,6 +999,13 @@
             "link": ""
           }
         },
+        "slide_GQbdqz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8112.jpg",
+            "link": ""
+          }
+        },
         "slide_eiJh6j": {
           "type": "slide",
           "settings": {
@@ -1017,13 +1024,6 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/IMG_1603_4.jpg",
-            "link": ""
-          }
-        },
-        "slide_GQbdqz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/IMG_8112.jpg",
             "link": ""
           }
         },
@@ -1053,10 +1053,10 @@
         "slide_gr6FnL",
         "slide_96HN9P",
         "slide_xfQifQ",
+        "slide_GQbdqz",
         "slide_eiJh6j",
         "slide_pdaLWP",
         "slide_XKtwDJ",
-        "slide_GQbdqz",
         "slide_X7hMdN",
         "slide_NDDFzD",
         "slide_FmGjch"
@@ -1093,6 +1093,7 @@
     },
     "section_custom_code_QGdGxk": {
       "type": "section-custom-code",
+      "disabled": true,
       "name": "Custom code",
       "settings": {
         "code": "<!-- Pure Black CTA Section -->\n<div class=\"pure-cta\" id=\"cta-pure\">\n  <div class=\"pure-icons-row\" id=\"icons-pure\">\n    <div class=\"pure-box\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/return_3_1.png?v=1742162916\" alt=\"Unique Box\" />\n      <span>Every box = unique. No two are the same.</span>\n    </div>\n    <div class=\"pure-box\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/king_1.png?v=1742162436\" alt=\"Vintage Hunters\" />\n      <span>50k+ vintage hunters levelling up their fits.</span>\n    </div>\n    <div class=\"pure-box\">\n      <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/thunder_1.png?v=1742162535\" alt=\"Free Swap\" />\n      <span>Doesn’t fit or vibe? Swap it free.</span>\n    </div>\n  </div>\n\n  <div class=\"pure-action\" id=\"action-pure\">\n    <span class=\"pure-arrow-text\">\n      Hit \n      <img src=\"https://cdn.shopify.com/s/files/1/0864/3320/2454/files/Untitled_design_66_2.png?v=1742163199\" alt=\"Down Arrow\" class=\"pure-arrow\" />\n    </span>\n    <a href=\"#shopify-section-template--25420582682902__main\" class=\"pure-link\">Get My Box</a>\n    <p>before it’s too late.</p>\n  </div>\n</div>\n\n<style>\n/* Overall CTA container */\n.pure-cta {\n  text-align: center;\n  background: #fff;\n  color: #000;\n  padding: 10px;\n  font-size: 16px;\n  max-width: 1400px;\n  margin: 0 auto;\n}\n\n/* Icons row */\n.pure-icons-row {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  gap: 8px;\n  margin-bottom: 8px;\n}\n\n/* Individual icon + text boxes */\n.pure-box {\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: max-content;\n  padding: 8px 12px;\n  border: 1px solid #000;\n  font-size: 14px;\n  color: #000;\n}\n\n.pure-box img {\n  width: 22px;\n  height: 22px;\n  margin-right: 6px;\n}\n\n/* CTA Action Section */\n.pure-action {\n  margin-top: 6px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  font-size: 18px;\n  color: #000;\n}\n\n/* “Hit” text and arrow */\n.pure-arrow-text {\n  font-size: 20px;\n  display: inline-flex;\n  align-items: center;\n  gap: 2px;\n  color: #000;\n}\n\n/* Arrow Icon */\n.pure-arrow {\n  width: 30px;\n  height: 30px;\n}\n\n/* CTA Link */\n.pure-link {\n  display: inline-block;\n  font-size: 16px;\n  text-decoration: none;\n  border: 1px solid #000;\n  color: #000;\n  background: transparent;\n  padding: 8px 30px;\n  margin: 4px 0 2px 0;\n}\n\n/* No hover color — stays the same */\n.pure-link:hover,\n.pure-link:focus,\n.pure-link:active {\n  color: #000;\n  border-color: #000;\n  background: transparent;\n}\n\n/* Subtext */\n.pure-action p {\n  margin-top: 2px;\n  font-size: 14px;\n  color: #000;\n}\n\n/* Responsive layout */\n@media (max-width: 768px) {\n  .pure-icons-row {\n    flex-direction: column;\n    gap: 5px;\n  }\n  .pure-box {\n    width: 100%;\n    padding: 6px;\n    font-size: 13px;\n  }\n  .pure-box img {\n    width: 18px;\n    height: 18px;\n  }\n  .pure-arrow {\n    width: 16px;\n    height: 16px;\n  }\n}\n</style>",
