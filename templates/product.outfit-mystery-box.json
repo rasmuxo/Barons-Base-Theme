@@ -873,7 +873,7 @@
           "settings": {
             "default_open": false,
             "title": "Why is vintage worth more?",
-            "content": "<p>Each outfit includes <strong>3-5 handpicked, premium vintage pieces</strong>, curated to your aesthetic. </p><p>If purchased separately, these items would retail for <strong>over $300</strong>, meaning you’re getting an <strong>exclusive wardrobe upgrade at nearly 50% off retail value</strong>.</p>",
+            "content": "<p>Each individual piece is<strong> 1 of 1, personally handpicked by our team. </strong>These aren't mass produced, low quality pieces.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -885,7 +885,7 @@
           "settings": {
             "default_open": false,
             "title": "What if something doesn’t fit me?",
-            "content": "<p>No worries—<strong>we've got you covered</strong>.</p><p><strong>Personalized Sizing</strong> – Before shipping, we match you with items that fit your exact size & style.<br/><strong>Easy Exchanges</strong> – If anything doesn’t fit, we offer hassle-free swaps.</p>",
+            "content": "<p>No worries—<strong>we've got you covered</strong>.</p><p><strong>Personalized Sizing</strong> – Before shipping, we match you with items that fit your exact size & style.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -894,6 +894,7 @@
         },
         "question_KzM3BK": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "default_open": false,
             "title": "How long does shipping take?",
@@ -909,7 +910,7 @@
           "settings": {
             "default_open": false,
             "title": "Are shoes included?",
-            "content": "<p>No, but here’s why that’s a good thing: <strong>you control your entire look</strong>.</p><p>Our curated outfit boxes let <strong>YOU</strong> pick and build your perfect fit. But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p>",
+            "content": "<p><strong>No, </strong>our curated outfit boxes let you pick and build your perfect fit. </p><p>But if you ever need styling advice on what shoes to pair with your outfit, our team is happy to help.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -921,7 +922,7 @@
           "settings": {
             "default_open": false,
             "title": "Are these items new or pre-owned?",
-            "content": "<p>Every piece has been <strong>personally curated</strong> carefully by our team.</p><p>Most items are <strong>gently pre-loved</strong>, while some are <strong>deadstock</strong> (vintage but never worn, sometimes even with original tags).</p>",
+            "content": "<p>Most items are <strong>pre-owned</strong>, while some are <strong>deadstock</strong> (vintage but never worn, sometimes even with original tags).</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
@@ -930,6 +931,7 @@
         },
         "question_qEqjHc": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "default_open": false,
             "title": "Is vintage clothing really sustainable?",
@@ -1054,7 +1056,7 @@
         "slide_FmGjch"
       ],
       "settings": {
-        "ss-title": "10,000+ HAPPY CUSTOMERS",
+        "ss-title": "14,000+ HAPPY CUSTOMERS",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "header_size": 18,
