@@ -243,7 +243,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Agedivy Fits.mp4",
-            "poster": "shopify://shop_images/fit2.jpg",
+            "poster": "shopify://shop_images/FullSizeRender_20.jpg",
             "text": "“I was expecting a few decent pieces, but I got a perfectly faded Carhartt jacket and a Harley tee that looks straight outta 1997. This is WILD\" - Jake M",
             "icon_type": "none"
           }
@@ -252,7 +252,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Fits 2.0.mp4",
-            "poster": "shopify://shop_images/fit6.jpg",
+            "poster": "shopify://shop_images/IMG_8269.jpg",
             "text": "“Okay, I have commitment issues, but I think I just fell in love… with this mystery box. Every piece is a 10/10.” - Alex W",
             "icon_type": "none"
           }
@@ -261,7 +261,7 @@
           "type": "video",
           "settings": {
             "video": "shopify://files/videos/Agedivy fits1.mp4",
-            "poster": "shopify://shop_images/fit5.jpg",
+            "poster": "shopify://shop_images/IMG_3308.heic",
             "text": "“Not to be dramatic, but I wore my outfit box fit to brunch and got three compliments before I even sat down. I win.\" - Ava M.",
             "icon_type": "none"
           }
@@ -272,8 +272,9 @@
         "video_A6RRBx",
         "video_icfBMJ"
       ],
+      "custom_css": [],
       "settings": {
-        "heading": "Peep the goodies here!",
+        "heading": "Some More Inspiration",
         "heading_custom": false,
         "heading_font": "assistant_n4",
         "heading_size": 18,
@@ -396,6 +397,7 @@
       "block_order": [
         "xo_sections_custom_section_w7gY3m"
       ],
+      "disabled": true,
       "custom_css": [
         ".xo-custom-1760019950502 {display: none;}"
       ],
@@ -405,6 +407,7 @@
     },
     "slope_4kAxwn": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -443,12 +446,14 @@
       "block_order": [
         "xo_sections_custom_section_RXx73M"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
     },
     "slope_qa8adA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -487,12 +492,14 @@
       "block_order": [
         "xo_sections_custom_section_QfzGMe"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
     },
     "slope_3KRFNA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -538,6 +545,7 @@
     },
     "slope_h9PGXh": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
