@@ -391,6 +391,7 @@
       "block_order": [
         "xo_sections_custom_section_w7gY3m"
       ],
+      "disabled": true,
       "custom_css": [
         ".xo-custom-1760019950502 {display: none;}"
       ],
@@ -400,6 +401,7 @@
     },
     "slope_4kAxwn": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -438,12 +440,14 @@
       "block_order": [
         "xo_sections_custom_section_RXx73M"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
     },
     "slope_qa8adA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -482,12 +486,14 @@
       "block_order": [
         "xo_sections_custom_section_QfzGMe"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": false
       }
     },
     "slope_3KRFNA": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -739,7 +745,7 @@
           "settings": {
             "icon": "star",
             "icon_size": 24,
-            "content": "<p>Rated 4.7/5 by 6000+ Reviews</p>"
+            "content": "<p>Rated 4.7/5 by 3000+ Reviews</p>"
           }
         },
         "color_rzLn3f": {
@@ -801,6 +807,7 @@
         "heading_wXKBjz",
         "text_4UNfQG"
       ],
+      "disabled": true,
       "name": "Image with text",
       "settings": {
         "layout": "is-reversed",
@@ -819,6 +826,7 @@
     },
     "slope_CHVrez": {
       "type": "slope",
+      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
