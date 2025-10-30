@@ -1011,24 +1011,29 @@
           {% if button_add %} data-add-to-cart-bar{% else %} data-cart-bar-scroll{% endif %}
           {% if button_add and current_variant.available != true %} disabled="disabled"{% endif %}>
           <span class="btn__text"{% if button_add %} data-add-to-cart-text{% endif %}>
-            {%- if button_add -%}
-              {%- assign preorder_check = false -%}
+  {%- if button_add -%}
+    {%- assign preorder_check = false -%}
 
-              {%- if product.tags contains '_preorder' or product.metafields.theme.preorder.value -%}
-                {%- assign preorder_check = true -%}
-              {%- endif -%}
+    {%- if product.tags contains '_preorder' or product.metafields.theme.preorder.value -%}
+      {%- assign preorder_check = true -%}
+    {%- endif -%}
 
-              {%- if current_variant.available and preorder_check -%}
-                {{ 'products.product.pre_order' | t }}
-              {%- elsif current_variant.available -%}
-                {{ 'products.product.add_to_cart' | t }}
-              {%- else -%}
-                {{ 'products.product.sold_out' | t }}
-              {%- endif -%}
-            {%- else -%}
-              {{ 'products.product.configure' | t }}
-            {%- endif -%}
-          </span>
+    {%- if current_variant.available and preorder_check -%}
+      {{ 'products.product.pre_order' | t }}
+    {%- elsif current_variant.available -%}
+      {%- if product.tags contains 'Outfit' -%}
+        Claim My Outfit
+      {%- else -%}
+        {{ 'products.product.add_to_cart' | t }}
+      {%- endif -%}
+    {%- else -%}
+      {{ 'products.product.sold_out' | t }}
+    {%- endif -%}
+  {%- else -%}
+    {{ 'products.product.configure' | t }}
+  {%- endif -%}
+</span>
+
 
           <span class="btn__loader">
             <svg height="18" width="18" class="svg-loader">
