@@ -238,7 +238,7 @@
           "settings": {
             "video": "shopify://files/videos/Agedivy Fits.mp4",
             "poster": "shopify://shop_images/FullSizeRender_20.jpg",
-            "text": "“I was expecting a few decent pieces, but I got a perfectly faded Carhartt jacket and a Harley tee that looks straight outta 1997. This is WILD\" - Jake M",
+            "text": "",
             "icon_type": "none"
           }
         },
@@ -300,7 +300,7 @@
         "content_padding_vertical": 20,
         "text_custom": false,
         "text_font": "assistant_n4",
-        "text_size": 12,
+        "text_size": 0,
         "text_height": 130,
         "text_align": "center",
         "link_text": "",
