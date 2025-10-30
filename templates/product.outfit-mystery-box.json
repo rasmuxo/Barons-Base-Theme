@@ -30,6 +30,7 @@
         },
         "price_azRYwM": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "padding_bottom": 22
           }
