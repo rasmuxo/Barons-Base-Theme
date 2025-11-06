@@ -49,7 +49,7 @@
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/IMG_0468.jpg",
         "link": "",
-        "mobile_height": "image-height--mobile",
+        "mobile_height": "screen-height-full--mobile",
         "mobile_image": "shopify://shop_images/IMG_0468.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
