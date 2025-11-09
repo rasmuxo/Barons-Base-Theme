@@ -489,7 +489,6 @@
     },
     "slope_3KRFNA": {
       "type": "slope",
-      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
