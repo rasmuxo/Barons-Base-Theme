@@ -401,7 +401,6 @@
     },
     "slope_4kAxwn": {
       "type": "slope",
-      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -440,14 +439,12 @@
       "block_order": [
         "xo_sections_custom_section_RXx73M"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": false
       }
     },
     "slope_qa8adA": {
       "type": "slope",
-      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
@@ -486,7 +483,6 @@
       "block_order": [
         "xo_sections_custom_section_QfzGMe"
       ],
-      "disabled": true,
       "settings": {
         "include_margins": false
       }
@@ -807,7 +803,6 @@
         "heading_wXKBjz",
         "text_4UNfQG"
       ],
-      "disabled": true,
       "name": "Image with text",
       "settings": {
         "layout": "is-reversed",
@@ -826,7 +821,6 @@
     },
     "slope_CHVrez": {
       "type": "slope",
-      "disabled": true,
       "name": "SS - Slope",
       "settings": {
         "slope_height": 45,
