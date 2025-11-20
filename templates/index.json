@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "FALL STREETWEAR LIVE",
+            "title": "VINTAGE CARHARTT JACKETS LIVE",
             "heading_size": 3
           }
         },
@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/11-6-drop",
+            "link": "shopify://collections/shop-all",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
@@ -47,10 +47,10 @@
       "settings": {
         "height": "screen-height-full",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_0468.jpg",
+        "image_1": "shopify://shop_images/IMG_1224.heic",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
-        "mobile_image": "shopify://shop_images/IMG_0468.jpg",
+        "mobile_image": "shopify://shop_images/IMG_1224.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
