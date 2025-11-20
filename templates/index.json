@@ -200,6 +200,7 @@
     },
     "section_collection_QnhmPy": {
       "type": "section-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "heading": "",
