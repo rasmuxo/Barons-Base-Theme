@@ -87,6 +87,7 @@
     },
     "section_collection_bpqeaG": {
       "type": "section-collection",
+      "disabled": true,
       "name": "Featured collection",
       "settings": {
         "heading": "BOXY STRIPED TEE",
