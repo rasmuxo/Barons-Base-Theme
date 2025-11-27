@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "VINTAGE CARHARTT JACKETS LIVE",
+            "title": "11.28.25 @ 12 AM CST",
             "heading_size": 3
           }
         },
@@ -30,8 +30,8 @@
         "button_tidmiF": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP COLLECTION",
-            "link": "shopify://collections/shop-all",
+            "link_text": "JOIN EARLY ACCESS",
+            "link": "shopify://pages/ivy-x-realtree®",
             "button_type": "btn--white",
             "button_size": "btn--large",
             "button_style": "btn--outline",
@@ -45,9 +45,9 @@
         "button_tidmiF"
       ],
       "settings": {
-        "height": "screen-height-full",
+        "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_9627_jpg.jpg",
+        "image_1": "shopify://shop_images/IMG_0786.heic",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
         "mobile_image": "shopify://shop_images/IMG_9627_jpg.jpg",
