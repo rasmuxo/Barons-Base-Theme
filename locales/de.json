@@ -955,11 +955,5 @@
       "size_label": "Size",
       "compare_empty_content_text": "No items in your compare yet. Discover exciting products on our Shop page"
     }
-  },
-  "locksmith": {
-    "forms": {
-      "submit_button_text": "Continue",
-      "loading_text": "One moment..."
-    }
   }
 }
