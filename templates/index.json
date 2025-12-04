@@ -31,7 +31,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP MEN'S",
-            "link": "shopify://collections/frontpage",
+            "link": "shopify://collections/mens-winter-collection",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--solid",
@@ -42,7 +42,7 @@
           "type": "button",
           "settings": {
             "link_text": "SHOP KID'S",
-            "link": "",
+            "link": "shopify://collections/kids-winter-collection",
             "button_type": "btn--white",
             "button_size": "",
             "button_style": "btn--solid",
@@ -158,7 +158,7 @@
     },
     "section_collection_Cqgm3n": {
       "type": "section-collection",
-      "name": "MEN'S collection",
+      "name": "MEN'S WINTER COLLECTION",
       "settings": {
         "heading": "",
         "description": "",
