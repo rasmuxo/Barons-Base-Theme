@@ -119,7 +119,7 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/folded-clothes.jpg",
+        "image_1": "shopify://shop_images/gloved-hand-touching-pine-tree.jpg",
         "link": "",
         "mobile_height": "seven-fifty-height-hero--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
@@ -170,7 +170,7 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/three-childrens-backpacks-brick-negative-space.jpg",
+        "image_1": "shopify://shop_images/child-opens-advent-calendar-on-christmas-morning.jpg",
         "link": "",
         "mobile_height": "image-height--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
@@ -231,35 +231,12 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
-    },
-    "section_blog_gdAGQ7": {
-      "type": "section-blog",
-      "settings": {
-        "blog_name": "",
-        "title": "",
-        "heading_size": 5,
-        "width": "wrapper--full-padded",
-        "grid": 3,
-        "rows": 1,
-        "aspect_ratio": 1.4,
-        "title_size": 4,
-        "show_tags": false,
-        "show_author": false,
-        "show_date": false,
-        "show_button": false,
-        "show_comments": false,
-        "bg_color": "",
-        "color": "",
-        "padding_top": 32,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "section_hero_EGeNPd",
     "section_hero_9Cd9YP",
     "section_hero_kG4Vz7",
-    "section_collections_list_EfRha8",
-    "section_blog_gdAGQ7"
+    "section_collections_list_EfRha8"
   ]
 }
