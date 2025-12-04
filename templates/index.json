@@ -15,8 +15,8 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "Quarter Zip: A Lifestyle",
-            "heading_size": 7
+            "title": "Designed by Brothers. Worn by Leaders.",
+            "heading_size": 6
           }
         },
         "text_kz9Cck": {
@@ -34,19 +34,27 @@
             "link": "shopify://collections/frontpage",
             "button_type": "btn--white",
             "button_size": "",
-            "button_style": "btn--outline",
+            "button_style": "btn--solid",
             "show_arrow": false
           }
         },
         "button_TKG9WG": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP WOMEN'S",
+            "link_text": "SHOP KID'S",
             "link": "",
             "button_type": "btn--white",
             "button_size": "",
-            "button_style": "btn--outline",
+            "button_style": "btn--solid",
             "show_arrow": false
+          }
+        },
+        "text_TxUQWz": {
+          "type": "text",
+          "settings": {
+            "description": "WOMEN’S · COMING SOON",
+            "text_size": 5,
+            "text_style": "font-body"
           }
         }
       },
@@ -54,7 +62,8 @@
         "heading_Deh4At",
         "text_kz9Cck",
         "button_tidmiF",
-        "button_TKG9WG"
+        "button_TKG9WG",
+        "text_TxUQWz"
       ],
       "settings": {
         "height": "screen-height-full",
@@ -73,6 +82,7 @@
     },
     "section_collection_hjW687": {
       "type": "section-collection",
+      "name": "FEATURED COLLECTIONS",
       "settings": {
         "heading": "",
         "description": "",
@@ -95,25 +105,25 @@
         "padding_bottom": 50
       }
     },
-    "section_hero_gdT8Pn": {
+    "section_hero_9Cd9YP": {
       "type": "section-hero",
       "blocks": {
-        "heading_qGwyyY": {
+        "heading_XeqXHV": {
           "type": "heading",
           "settings": {
-            "title": "Kith Women Spring 2024",
-            "heading_size": 7
+            "title": "MEN'S WINTER COLLECTION",
+            "heading_size": 8
           }
         },
-        "text_tzibzp": {
+        "text_3AnaQj": {
           "type": "text",
           "settings": {
-            "description": "Defined by light springtime hues, vintage-inspired silhouettes, and transitional fabrics.",
+            "description": "Our signature quarterzips in their signature colors.",
             "text_size": 3,
             "text_style": "font-heading"
           }
         },
-        "button_BazDMn": {
+        "button_UmpGbT": {
           "type": "button",
           "settings": {
             "link_text": "SHOP NOW",
@@ -121,20 +131,22 @@
             "button_type": "btn--white",
             "button_size": "btn--small",
             "button_style": "btn--text",
-            "show_arrow": true
+            "show_arrow": false
           }
         }
       },
       "block_order": [
-        "heading_qGwyyY",
-        "text_tzibzp",
-        "button_BazDMn"
+        "heading_XeqXHV",
+        "text_3AnaQj",
+        "button_UmpGbT"
       ],
+      "name": "MEN'S COLLECTION BANNER",
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-two-thirds",
         "width": "wrapper--full",
+        "image_1": "shopify://shop_images/folded-clothes.jpg",
         "link": "",
-        "mobile_height": "image-height--mobile",
+        "mobile_height": "seven-fifty-height-hero--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
         "flex_align_mobile": "align--bottom-left-mobile",
         "overlay_opacity": 20,
@@ -146,6 +158,7 @@
     },
     "section_collection_Cqgm3n": {
       "type": "section-collection",
+      "name": "MEN'S collection",
       "settings": {
         "heading": "",
         "description": "",
@@ -168,25 +181,25 @@
         "padding_bottom": 50
       }
     },
-    "section_hero_9Cd9YP": {
+    "section_hero_kG4Vz7": {
       "type": "section-hero",
       "blocks": {
-        "heading_XeqXHV": {
+        "heading_i8iLKE": {
           "type": "heading",
           "settings": {
-            "title": "Kith Kids Spring 2024",
+            "title": "KID'S WINTER COLLECTION",
             "heading_size": 8
           }
         },
-        "text_3AnaQj": {
+        "text_9BjctD": {
           "type": "text",
           "settings": {
-            "description": "Explore vibrant knitwear, seasonal prints, and lightweight outerwear designed for easy Spring dressing",
+            "description": "Our signature quarterzips in their signature colors, for our young gentlemen.",
             "text_size": 3,
             "text_style": "font-heading"
           }
         },
-        "button_UmpGbT": {
+        "button_cyTgHt": {
           "type": "button",
           "settings": {
             "link_text": "SHOP NOW",
@@ -199,13 +212,15 @@
         }
       },
       "block_order": [
-        "heading_XeqXHV",
-        "text_3AnaQj",
-        "button_UmpGbT"
+        "heading_i8iLKE",
+        "text_9BjctD",
+        "button_cyTgHt"
       ],
+      "name": "KID'S COLLECTION",
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-two-thirds",
         "width": "wrapper--full",
+        "image_1": "shopify://shop_images/three-childrens-backpacks-brick-negative-space.jpg",
         "link": "",
         "mobile_height": "image-height--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
@@ -239,55 +254,6 @@
         "color": "",
         "padding_top": 50,
         "padding_bottom": 50
-      }
-    },
-    "section_hero_dAkdMp": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_xpWdCm": {
-          "type": "heading",
-          "settings": {
-            "title": "Kith Artist Series Capsule 2024",
-            "heading_size": 8
-          }
-        },
-        "text_HziTB8": {
-          "type": "text",
-          "settings": {
-            "description": "In honor of Black History Month, we continue our Artist Series with works from Brandon Deener, Mia Lee, and Eddie “EDO” Santana White.",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
-        "button_d9fCC6": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP NOW",
-            "link": "",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_xpWdCm",
-        "text_HziTB8",
-        "button_d9fCC6"
-      ],
-      "settings": {
-        "height": "image-height",
-        "width": "wrapper--full",
-        "link": "",
-        "mobile_height": "image-height--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 20,
-        "overlay_color": "#000000",
-        "show_overlay_text": true,
-        "bg_color": "",
-        "color": "#ffffff"
       }
     },
     "section_hero_tUVxth": {
@@ -471,11 +437,10 @@
   "order": [
     "section_hero_EGeNPd",
     "section_collection_hjW687",
-    "section_hero_gdT8Pn",
-    "section_collection_Cqgm3n",
     "section_hero_9Cd9YP",
+    "section_collection_Cqgm3n",
+    "section_hero_kG4Vz7",
     "section_collection_ChAw3h",
-    "section_hero_dAkdMp",
     "section_hero_tUVxth",
     "section_collection_CR4qLP",
     "section_collections_list_EfRha8",
