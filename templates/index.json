@@ -131,31 +131,6 @@
         "color": "#ffffff"
       }
     },
-    "section_collection_Cqgm3n": {
-      "type": "section-collection",
-      "name": "MEN'S WINTER COLLECTION",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "",
-        "layout_desktop": "grid",
-        "grid": 4,
-        "rows": 2,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "slider",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
-      }
-    },
     "section_hero_kG4Vz7": {
       "type": "section-hero",
       "blocks": {
@@ -205,30 +180,6 @@
         "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
-      }
-    },
-    "section_collection_ChAw3h": {
-      "type": "section-collection",
-      "settings": {
-        "heading": "",
-        "description": "",
-        "layout": "inline",
-        "link_text": "",
-        "link_url": "",
-        "button_type": "btn--primary",
-        "button_size": "",
-        "button_style": "btn--solid",
-        "show_arrow": false,
-        "featured_collection": "",
-        "layout_desktop": "grid",
-        "grid": 4,
-        "rows": 2,
-        "width": "wrapper--full-padded",
-        "layout_mobile": "2",
-        "bg_color": "",
-        "color": "",
-        "padding_top": 50,
-        "padding_bottom": 50
       }
     },
     "section_collections_list_EfRha8": {
@@ -307,9 +258,7 @@
   "order": [
     "section_hero_EGeNPd",
     "section_hero_9Cd9YP",
-    "section_collection_Cqgm3n",
     "section_hero_kG4Vz7",
-    "section_collection_ChAw3h",
     "section_collections_list_EfRha8",
     "section_blog_gdAGQ7"
   ]
