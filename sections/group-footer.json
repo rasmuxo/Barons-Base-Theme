@@ -14,6 +14,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "linklist_BJgeLh": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "",
+            "column_width": 33
+          }
+        },
         "footer-0": {
           "type": "newsletter",
           "settings": {
@@ -50,6 +58,7 @@
         }
       },
       "block_order": [
+        "linklist_BJgeLh",
         "footer-0",
         "text_JDrhmm",
         "social_aLXD6D"
