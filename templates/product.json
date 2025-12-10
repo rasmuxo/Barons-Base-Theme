@@ -1,1 +1,123 @@
-{"sections":{"main":{"type":"product","blocks":{"title_mW6eDH":{"type":"title","settings":{"subheading_option":"none","text_size":4,"padding_bottom":8}},"price_azRYwM":{"type":"price","settings":{"padding_bottom":16}},"variants_Mcwp9c":{"type":"variants","settings":{"info_page":"","size_chart_style":"text","subscriptions_enable_selectors":false,"padding_bottom":16}},"buttons_gJMV8G":{"type":"buttons","settings":{"show_quantity":true,"show_payment_button":true,"show_gift_card_recipient":false,"padding_bottom":32}},"pickup":{"type":"pickup","disabled":true,"settings":{"padding_bottom":32}},"tabs":{"type":"tab_richtext","settings":{"show_read_more":true,"style":"accordions","title_1":"Tab","raw_content_1":"<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>","title_2":"Info","raw_content_2":"<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>","title_3":"","raw_content_3":"","title_4":"","raw_content_4":"","title_5":"","raw_content_5":"","padding_bottom":0}}},"block_order":["title_mW6eDH","price_azRYwM","variants_Mcwp9c","buttons_gJMV8G","pickup","tabs"],"settings":{"product_sticky_enable":true,"image_layout":"stacked","image_size":"normal","show_cart_bar":true,"enable_zoom":true,"enable_video_looping":false,"mobile_image_style":"thumbs","padding_top":50,"padding_bottom":30}},"related":{"type":"related","blocks":{"related_dQgxbi":{"type":"related","settings":{"product_recommendations_heading":"Related products","limit":4}}},"block_order":["related_dQgxbi"],"settings":{"enable_tabs":true,"heading_alignment":"text-center","heading_size":4,"bg_color":"","color":"","border_color":"","padding_top":30,"padding_bottom":30}}},"order":["main","related"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title_mW6eDH": {
+          "type": "title",
+          "settings": {
+            "subheading_option": "none",
+            "text_size": 4,
+            "padding_bottom": 8
+          }
+        },
+        "price_azRYwM": {
+          "type": "price",
+          "settings": {
+            "padding_bottom": 16
+          }
+        },
+        "variants_Mcwp9c": {
+          "type": "variants",
+          "settings": {
+            "info_page": "",
+            "size_chart_style": "text",
+            "subscriptions_enable_selectors": false,
+            "padding_bottom": 16
+          }
+        },
+        "buttons_gJMV8G": {
+          "type": "buttons",
+          "settings": {
+            "show_quantity": true,
+            "show_payment_button": true,
+            "show_gift_card_recipient": false,
+            "padding_bottom": 32
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {
+            "padding_bottom": 32
+          }
+        },
+        "tabs": {
+          "type": "tab_richtext",
+          "settings": {
+            "show_read_more": true,
+            "style": "accordions",
+            "title_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
+            "title_2": "",
+            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
+            "title_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "raw_content_5": "",
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "title_mW6eDH",
+        "price_azRYwM",
+        "variants_Mcwp9c",
+        "buttons_gJMV8G",
+        "pickup",
+        "tabs"
+      ],
+      "settings": {
+        "product_sticky_enable": true,
+        "image_layout": "stacked",
+        "image_size": "normal",
+        "show_cart_bar": true,
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_style": "thumbs",
+        "padding_top": 50,
+        "padding_bottom": 30
+      }
+    },
+    "related": {
+      "type": "related",
+      "blocks": {
+        "related_dQgxbi": {
+          "type": "related",
+          "settings": {
+            "product_recommendations_heading": "Related products",
+            "limit": 4
+          }
+        }
+      },
+      "block_order": [
+        "related_dQgxbi"
+      ],
+      "settings": {
+        "enable_tabs": true,
+        "heading_alignment": "text-center",
+        "heading_size": 4,
+        "bg_color": "",
+        "color": "",
+        "border_color": "",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related"
+  ]
+}
