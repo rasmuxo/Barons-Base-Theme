@@ -41,7 +41,7 @@
         "button_TKG9WG": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP KID'S",
+            "link_text": "SHOP YOUTH'S",
             "link": "shopify://collections/kids-winter-collection",
             "button_type": "btn--white",
             "button_size": "",
@@ -93,7 +93,7 @@
         "text_3AnaQj": {
           "type": "text",
           "settings": {
-            "description": "Our signature quarterzips in their signature colors.",
+            "description": "The P&J signature quarter-zip, crafted for timeless style and everyday ease.",
             "text_size": 3,
             "text_style": "font-heading"
           }
@@ -137,14 +137,14 @@
         "heading_i8iLKE": {
           "type": "heading",
           "settings": {
-            "title": "YOUTH'S WINTER COLLECTION",
+            "title": "YOUTH WINTER COLLECTION",
             "heading_size": 8
           }
         },
         "text_9BjctD": {
           "type": "text",
           "settings": {
-            "description": "Our signature quarterzips in their signature colors, for our young gentlemen.",
+            "description": "Timeless quarter-zips designed for young gentlemen.",
             "text_size": 3,
             "text_style": "font-heading"
           }
@@ -195,7 +195,7 @@
         "text_x9Yqg6": {
           "type": "text",
           "settings": {
-            "description": "Our signature quarterzips in their signature colors, thoughtfully crafted for women. Coming soon.",
+            "description": "Refined quarter-zips designed for effortless, everyday elegance.",
             "text_size": 3,
             "text_style": "font-heading"
           }
