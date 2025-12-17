@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "Designed by Brothers.           Defined by Leadership.",
+            "title": "Designed by Brothers. Defined by Leadership.",
             "heading_size": 6
           }
         },
@@ -41,7 +41,7 @@
         "button_TKG9WG": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP YOUTH'S",
+            "link_text": "SHOP YOUTH",
             "link": "shopify://collections/kids-winter-collection",
             "button_type": "btn--white",
             "button_size": "",
