@@ -14,6 +14,7 @@
       "blocks": {
         "heading_Deh4At": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "LIVE: VINTAGE CHRISTMAS COLLECTION",
             "heading_size": 3
@@ -21,6 +22,7 @@
         },
         "text_kz9Cck": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "description": "",
             "text_size": 1,
@@ -29,6 +31,7 @@
         },
         "button_tidmiF": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link_text": "SHOP COLLECTION",
             "link": "shopify://collections/christmas-collection",
@@ -45,12 +48,12 @@
         "button_tidmiF"
       ],
       "settings": {
-        "height": "screen-height-full",
+        "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_2090.heic",
+        "image_1": "shopify://shop_images/Jesus_Tee_2.heic",
         "link": "",
         "mobile_height": "screen-height-full--mobile",
-        "mobile_image": "shopify://shop_images/IMG_2090.heic",
+        "mobile_image": "shopify://shop_images/Jesus_Tee_2.heic",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
