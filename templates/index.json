@@ -70,7 +70,7 @@
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/Refresh3_Homepage_Desktop_ec199c03-7ca0-4f1d-b6fa-04e91a04f8e8.webp",
         "link": "",
-        "mobile_height": "screen-height-full--mobile",
+        "mobile_height": "screen-height-one-half--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
         "flex_align_mobile": "align--bottom-center-mobile",
         "overlay_opacity": 20,
@@ -117,7 +117,7 @@
       ],
       "name": "MEN'S COLLECTION BANNER",
       "settings": {
-        "height": "screen-height-two-thirds",
+        "height": "screen-height-one-half",
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/gloved-hand-touching-pine-tree.jpg",
         "link": "",
