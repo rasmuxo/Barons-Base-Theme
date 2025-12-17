@@ -153,7 +153,7 @@
           "type": "button",
           "settings": {
             "link_text": "COMING SOON",
-            "link": "shopify://collections/frontpage",
+            "link": "",
             "button_type": "btn--white",
             "button_size": "btn--small",
             "button_style": "btn--solid",
