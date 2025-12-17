@@ -203,11 +203,11 @@
         "button_WwwqqR": {
           "type": "button",
           "settings": {
-            "link_text": "SHOP NOW",
-            "link": "shopify://collections/kids-winter-collection",
+            "link_text": "COMING SOON",
+            "link": "shopify://collections/frontpage",
             "button_type": "btn--white",
             "button_size": "btn--small",
-            "button_style": "btn--text",
+            "button_style": "btn--solid",
             "show_arrow": false
           }
         }
