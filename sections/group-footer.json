@@ -24,9 +24,10 @@
         },
         "footer-0": {
           "type": "newsletter",
+          "name": "VIP Access",
           "settings": {
-            "title": "Newsletter",
-            "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+            "title": "VIP Access",
+            "text": "<p>Subscribe for VIP-only offers, giveaways, and can't-miss deals.</p>",
             "show_name": true,
             "button_text": "Join",
             "show_arrow": false,
@@ -43,7 +44,7 @@
           "settings": {
             "image_width": 150,
             "title": "Contact Us",
-            "text": "<p> If you need help, contact us at support@peterandjoshapparel.com  <br/>We typically respond within 24 hours.</p><p>Richmond, Texas</p>",
+            "text": "<p> For assistance, please contact support@peterandjoshapparel.com  <br/>Our team typically respond within 24 hours.</p><p>Houston, Texas</p>",
             "column_width": 33
           }
         },
