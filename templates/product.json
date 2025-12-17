@@ -97,7 +97,7 @@
           "type": "related",
           "name": "More from the PJ Signature Kids Collection",
           "settings": {
-            "product_recommendations_heading": "More from the PJ Signature Kids Collection",
+            "product_recommendations_heading": "",
             "limit": 6
           }
         }
