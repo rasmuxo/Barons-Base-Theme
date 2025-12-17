@@ -131,6 +131,57 @@
         "color": "#ffffff"
       }
     },
+    "section_hero_kG4Vz7": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_i8iLKE": {
+          "type": "heading",
+          "settings": {
+            "title": "YOUTH'S WINTER COLLECTION",
+            "heading_size": 8
+          }
+        },
+        "text_9BjctD": {
+          "type": "text",
+          "settings": {
+            "description": "Our signature quarterzips in their signature colors, for our young gentlemen.",
+            "text_size": 3,
+            "text_style": "font-heading"
+          }
+        },
+        "button_cyTgHt": {
+          "type": "button",
+          "settings": {
+            "link_text": "SHOP NOW",
+            "link": "shopify://collections/kids-winter-collection",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_i8iLKE",
+        "text_9BjctD",
+        "button_cyTgHt"
+      ],
+      "name": "KID'S COLLECTION",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/chubby-baby-hand-holding-gift-bag.jpg",
+        "link": "",
+        "mobile_height": "screen-height-one-half--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--bottom-left-mobile",
+        "overlay_opacity": 70,
+        "overlay_color": "#000000",
+        "show_overlay_text": true,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
     "section_hero_9HKjj6": {
       "type": "section-hero",
       "blocks": {
@@ -177,57 +228,6 @@
         "flex_align_mobile": "align--bottom-left-mobile",
         "overlay_opacity": 40,
         "overlay_color": "#212121",
-        "show_overlay_text": true,
-        "bg_color": "",
-        "color": "#ffffff"
-      }
-    },
-    "section_hero_kG4Vz7": {
-      "type": "section-hero",
-      "blocks": {
-        "heading_i8iLKE": {
-          "type": "heading",
-          "settings": {
-            "title": "KID'S WINTER COLLECTION",
-            "heading_size": 8
-          }
-        },
-        "text_9BjctD": {
-          "type": "text",
-          "settings": {
-            "description": "Our signature quarterzips in their signature colors, for our young gentlemen.",
-            "text_size": 3,
-            "text_style": "font-heading"
-          }
-        },
-        "button_cyTgHt": {
-          "type": "button",
-          "settings": {
-            "link_text": "SHOP NOW",
-            "link": "shopify://collections/kids-winter-collection",
-            "button_type": "btn--white",
-            "button_size": "btn--small",
-            "button_style": "btn--text",
-            "show_arrow": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_i8iLKE",
-        "text_9BjctD",
-        "button_cyTgHt"
-      ],
-      "name": "KID'S COLLECTION",
-      "settings": {
-        "height": "screen-height-two-thirds",
-        "width": "wrapper--full",
-        "image_1": "shopify://shop_images/chubby-baby-hand-holding-gift-bag.jpg",
-        "link": "",
-        "mobile_height": "screen-height-one-half--mobile",
-        "flex_align_desktop": "align--bottom-left-desktop",
-        "flex_align_mobile": "align--bottom-left-mobile",
-        "overlay_opacity": 70,
-        "overlay_color": "#000000",
         "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
@@ -287,8 +287,8 @@
   "order": [
     "section_hero_EGeNPd",
     "section_hero_9Cd9YP",
-    "section_hero_9HKjj6",
     "section_hero_kG4Vz7",
+    "section_hero_9HKjj6",
     "section_collections_list_EfRha8"
   ]
 }
