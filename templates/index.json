@@ -170,13 +170,64 @@
       "settings": {
         "height": "screen-height-two-thirds",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/child-opens-advent-calendar-on-christmas-morning.jpg",
+        "image_1": "shopify://shop_images/chubby-baby-hand-holding-gift-bag.jpg",
         "link": "",
         "mobile_height": "image-height--mobile",
         "flex_align_desktop": "align--bottom-left-desktop",
         "flex_align_mobile": "align--bottom-left-mobile",
         "overlay_opacity": 20,
         "overlay_color": "#000000",
+        "show_overlay_text": true,
+        "bg_color": "",
+        "color": "#ffffff"
+      }
+    },
+    "section_hero_9HKjj6": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_Hn3Wte": {
+          "type": "heading",
+          "settings": {
+            "title": "WOMEN'S COLLECTION",
+            "heading_size": 8
+          }
+        },
+        "text_x9Yqg6": {
+          "type": "text",
+          "settings": {
+            "description": "Our signature quarterzips in their signature colors, thoughtfully crafted for women. Coming soon.",
+            "text_size": 3,
+            "text_style": "font-heading"
+          }
+        },
+        "button_WwwqqR": {
+          "type": "button",
+          "settings": {
+            "link_text": "SHOP NOW",
+            "link": "shopify://collections/kids-winter-collection",
+            "button_type": "btn--white",
+            "button_size": "btn--small",
+            "button_style": "btn--text",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Hn3Wte",
+        "text_x9Yqg6",
+        "button_WwwqqR"
+      ],
+      "name": "WOMEN'S COLLECTION",
+      "settings": {
+        "height": "screen-height-two-thirds",
+        "width": "wrapper--full",
+        "image_1": "shopify://shop_images/young-woman-looking-into-the-trees.jpg",
+        "link": "",
+        "mobile_height": "image-height--mobile",
+        "flex_align_desktop": "align--bottom-left-desktop",
+        "flex_align_mobile": "align--bottom-left-mobile",
+        "overlay_opacity": 20,
+        "overlay_color": "#212121",
         "show_overlay_text": true,
         "bg_color": "",
         "color": "#ffffff"
@@ -237,6 +288,7 @@
     "section_hero_EGeNPd",
     "section_hero_9Cd9YP",
     "section_hero_kG4Vz7",
+    "section_hero_9HKjj6",
     "section_collections_list_EfRha8"
   ]
 }
