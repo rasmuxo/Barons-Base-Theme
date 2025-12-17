@@ -53,7 +53,7 @@
             "title": "Social",
             "text": "",
             "column_width": 33,
-            "enable_follow_on_shop": false
+            "enable_follow_on_shop": true
           }
         }
       },
