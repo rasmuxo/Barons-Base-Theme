@@ -95,9 +95,10 @@
       "blocks": {
         "related_dQgxbi": {
           "type": "related",
+          "name": "More from the PJ Signature Kids Collection",
           "settings": {
-            "product_recommendations_heading": "Related products",
-            "limit": 4
+            "product_recommendations_heading": "More from the PJ Signature Kids Collection",
+            "limit": 6
           }
         }
       },
