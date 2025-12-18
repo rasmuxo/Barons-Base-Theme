@@ -29,6 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [],
+      "name": "Peter & Josh Apparel",
       "settings": {
         "header_sticky": true,
         "header_style": "drawer",
