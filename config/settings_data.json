@@ -58,7 +58,7 @@
     "sale_text_color": "#ffffff",
     "badge_bg_color": "#ffffff",
     "badge_text_color": "#000000",
-    "quickview_enable": false,
+    "quickview_enable": true,
     "show_cutline": false,
     "form_style": "modern",
     "cart_type": "drawer",
