@@ -17,12 +17,12 @@
         "countdown_fweg7n": {
           "type": "countdown",
           "settings": {
-            "end_date": "2025-12-26",
+            "end_date": "2025-12-21",
             "end_time": "11:59",
-            "period": "am",
-            "end_message": "<p>Offer has expired</p>",
+            "period": "pm",
+            "end_message": "<p>Launch offer ended — 15% off holiday discount continues until 12/25 Midnight!</p>",
             "hide_on_complete": true,
-            "text": "<p>15% Off Holiday Sale — Ends Christmas at Midnight CST</p>"
+            "text": "<p>Celebrate Our Launch — Extra 10% Off for 72 Hours (Auto-Applied with 15% Code)</p>"
           }
         }
       },
