@@ -78,7 +78,6 @@
         "pickup",
         "tabs"
       ],
-      "disabled": true,
       "settings": {
         "product_sticky_enable": true,
         "image_layout": "stacked",
