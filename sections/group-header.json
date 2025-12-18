@@ -17,12 +17,12 @@
         "countdown_fweg7n": {
           "type": "countdown",
           "settings": {
-            "end_date": "2025-12-21",
+            "end_date": "2025-12-26",
             "end_time": "11:59",
-            "period": "pm",
+            "period": "am",
             "end_message": "<p>Offer has expired</p>",
             "hide_on_complete": true,
-            "text": "<p>Use code LAUNCH10 for 10% OFF — ends 12/21 at midnight CST</p>"
+            "text": "<p>15% Off Holiday Sale — Ends Christmas at Midnight CST</p>"
           }
         }
       },
