@@ -13,6 +13,22 @@
   "sections": {
     "announcement": {
       "type": "announcement",
+      "blocks": {
+        "countdown_fweg7n": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "2025-12-21",
+            "end_time": "11:59",
+            "period": "pm",
+            "end_message": "<p>Offer has expired</p>",
+            "hide_on_complete": true,
+            "text": "<p>Use code LAUNCH10 for 10% OFF — ends 12/21 at midnight CST</p>"
+          }
+        }
+      },
+      "block_order": [
+        "countdown_fweg7n"
+      ],
       "settings": {
         "show_border": false,
         "layout": "slider",
