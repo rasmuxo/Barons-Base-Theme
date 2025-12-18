@@ -39,7 +39,7 @@
           "type": "buttons",
           "settings": {
             "show_quantity": true,
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": false,
             "padding_bottom": 32
           }
