@@ -104,6 +104,7 @@
       "block_order": [
         "related_dQgxbi"
       ],
+      "disabled": true,
       "settings": {
         "enable_tabs": true,
         "heading_alignment": "text-center",
