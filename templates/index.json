@@ -88,7 +88,7 @@
         "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": true,
-        "featured_collection": "diy-kits",
+        "featured_collection": "remote-control",
         "layout_desktop": "grid",
         "grid": 4,
         "rows": 1,
