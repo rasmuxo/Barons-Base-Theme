@@ -138,16 +138,16 @@
         ".product-item__image {border-radius: 18px;}"
       ],
       "settings": {
-        "heading": "Pre-Built Kits",
+        "heading": "V8 Engine Kits",
         "description": "",
         "layout": "inline",
         "link_text": "Shop all",
-        "link_url": "shopify://collections/pre-built-kits",
+        "link_url": "shopify://collections/v8-engines-kits",
         "button_type": "btn--primary",
         "button_size": "",
         "button_style": "btn--text",
         "show_arrow": true,
-        "featured_collection": "pre-built-kits",
+        "featured_collection": "v8-engines-kits",
         "layout_desktop": "grid",
         "grid": 4,
         "rows": 1,
@@ -242,7 +242,7 @@
           "settings": {
             "default_open": false,
             "title": "How long does shipping take?",
-            "content": "<p>We ship worldwide, with delivery times typically ranging from <strong>7–14 business days</strong> depending on your location. You’ll get a tracking number as soon as your order is on the way. Worth the short wait—promise.</p>",
+            "content": "<p>We ship worldwide, with delivery times typically ranging from <strong>4–14 business days</strong> depending on your location. You’ll get a tracking number as soon as your order is on the way. Worth the short wait—promise.</p>",
             "show_icon": false,
             "icon_name": "icon-award",
             "icon_size": 20,
