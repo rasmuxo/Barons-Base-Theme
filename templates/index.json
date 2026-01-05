@@ -79,13 +79,13 @@
         ".product-item__image {border-radius: 18px;}"
       ],
       "settings": {
-        "heading": "DIY Kits",
+        "heading": "RC Engines",
         "description": "",
         "layout": "inline",
         "link_text": "Shop all",
-        "link_url": "shopify://collections/diy-kits",
+        "link_url": "shopify://collections/remote-control",
         "button_type": "btn--primary",
-        "button_size": "",
+        "button_size": "btn--small",
         "button_style": "btn--text",
         "show_arrow": true,
         "featured_collection": "diy-kits",
