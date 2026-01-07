@@ -46,7 +46,7 @@
         "button_tidmiF"
       ],
       "settings": {
-        "height": "image-height",
+        "height": "screen-height-full",
         "width": "wrapper--full",
         "image_1": "shopify://shop_images/IMG_4655.jpg",
         "link": "",
