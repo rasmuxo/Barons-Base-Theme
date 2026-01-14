@@ -474,6 +474,7 @@
       "blocks": {
         "xo_sections_custom_section_QfzGMe": {
           "type": "shopify://apps/xo-sections/blocks/custom-section/e05b40dd-1687-4f0f-80f4-ab2769a4b17b",
+          "disabled": true,
           "settings": {
             "title": "",
             "id": "68e7128fc2700200925fbf5a"
