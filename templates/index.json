@@ -367,6 +367,7 @@
         "image_TckyTj": {
           "type": "image",
           "settings": {
+            "mobile_image": "shopify://shop_images/Jesus_Tee_2.heic",
             "overlay_opacity": 0,
             "overlay_color": "#000000",
             "show_overlay_text": false,
