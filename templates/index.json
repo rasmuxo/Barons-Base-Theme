@@ -15,7 +15,7 @@
         "heading_Deh4At": {
           "type": "heading",
           "settings": {
-            "title": "CURATED VINTAGE COLLECTION LIVE",
+            "title": "SHOP ALL VINTAGE",
             "heading_size": 3
           }
         },
@@ -48,10 +48,10 @@
       "settings": {
         "height": "image-height",
         "width": "wrapper--full",
-        "image_1": "shopify://shop_images/IMG_3353.jpg",
+        "image_1": "shopify://shop_images/FullSizeRender_12_Large_ce98fb52-bd49-48e3-8d62-f1582857e618.jpg",
         "link": "",
         "mobile_height": "image-height--mobile",
-        "mobile_image": "shopify://shop_images/IMG_3353.jpg",
+        "mobile_image": "shopify://shop_images/FullSizeRender_12_Large_ce98fb52-bd49-48e3-8d62-f1582857e618.jpg",
         "flex_align_desktop": "align--middle-center-desktop",
         "flex_align_mobile": "align--middle-center-mobile",
         "overlay_opacity": 35,
